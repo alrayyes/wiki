@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "My Wiki",
+    pageTitle: "Ryan's Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: "google", tagId: "G-TNHV6SD0LD" },
