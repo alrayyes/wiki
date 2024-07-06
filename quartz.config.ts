@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Ryan's Wiki",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'umami', host: 'stats2.ryankes.eu', websiteId: 'd28c497a-15cb-46c9-8067-f84a13692602' },
+    analytics: { provider: "umami", host: "https://stats2.ryankes.eu", websiteId: "d28c497a-15cb-46c9-8067-f84a13692602" },
     locale: "en-US",
     baseUrl: "wiki.ryankes.eu",
     ignorePatterns: ["private", "templates", ".obsidian"],
