@@ -11,11 +11,15 @@ const config: QuartzConfig = {
     pageTitle: "Ryan's Wiki",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: "umami", host: "https://stats2.ryankes.eu", websiteId: "51db2647-3a2a-4147-844e-7da7140972bd" },
+    analytics: {
+      provider: "umami",
+      host: "https://stats2.ryankes.eu",
+      websiteId: "51db2647-3a2a-4147-844e-7da7140972bd",
+    },
     locale: "en-US",
     baseUrl: "wiki.ryankes.eu",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -53,9 +57,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
-      }),
+      Plugin.CreatedModifiedDate({}),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
