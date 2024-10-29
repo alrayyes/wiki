@@ -1,4 +1,5 @@
 ---
+date: 2020-11-17
 id: 8ac94f5d-4abc-4745-af2d-0964a7d81b75
 title: Symfony Controller Argument Attributes
 ---

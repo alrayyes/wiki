@@ -1,4 +1,5 @@
 ---
+date: 2020-11-03
 id: b817ea12-eeeb-4723-a90c-f016cdcdb866
 title: Destructuring Objects
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-09-29
 id: 188e8fe7-0f96-4b05-97f2-fc2a760ccab4
 title: TypeScript Type Alias
 ---

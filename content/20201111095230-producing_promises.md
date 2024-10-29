@@ -1,4 +1,5 @@
 ---
+date: 2020-11-11
 id: e059aba7-2912-4a54-8c04-dbb6fbd3d0a7
 title: Producing Promises
 ---

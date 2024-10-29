@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: 5b058b90-1a05-4c2f-a64a-a56d3c768191
 title: Array.prototype.copyWithin()
 ---

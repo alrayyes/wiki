@@ -1,4 +1,5 @@
 ---
+date: 2020-06-13
 id: 6efc70be-8154-420f-a92e-622ef1ad960c
 title: Binding / Variables in JavaScript
 ---

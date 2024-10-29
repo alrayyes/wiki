@@ -1,4 +1,5 @@
 ---
+date: 2020-07-02
 id: 40bc3b60-ab05-4ff6-a258-f5cb38322c77
 title: Bindings and scopes in JavaScript
 ---

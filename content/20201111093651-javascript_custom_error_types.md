@@ -1,4 +1,5 @@
 ---
+date: 2020-11-11
 id: ce0d13cd-6680-4415-b375-c22de367cb21
 title: JavaScript Custom Error Types
 ---

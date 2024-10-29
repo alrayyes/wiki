@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: 6383dfcd-c925-4d33-8338-2da22edf7ef8
 title: Object.getOwnPropertyDescriptors
 ---

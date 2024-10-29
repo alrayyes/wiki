@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: cd2d3da1-7251-49f1-939b-460c92ba317b
 title: Symfony Native Encoder
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 4e20e5e5-06b6-4280-9cd0-7b08585a762b
 title: Symfony JSON Constraint
 ---

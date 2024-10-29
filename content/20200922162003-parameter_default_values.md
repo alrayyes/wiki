@@ -1,4 +1,5 @@
 ---
+date: 2020-09-22
 id: d30a86d5-3788-47d0-a749-08e7edce2efd
 title: JavaScript Parameter default values
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-09
 id: 9670dbf7-5195-4da6-b1fe-5a0087bd2940
 title: Symfony Guard Component
 ---

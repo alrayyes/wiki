@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: f5d0ea95-75b4-48e9-99b4-7e420fd40956
 title: Invokable Doctrine Entity Listeners
 ---

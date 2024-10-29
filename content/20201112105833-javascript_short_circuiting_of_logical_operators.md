@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 2e3bb381-730b-416b-bd83-b99510244927
 title: JavaScript Short Circuiting of Logical Operators
 ---

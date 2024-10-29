@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: 10e2076f-8bf8-4918-81e3-c852bbf1c872
 title: Scientific Notation
 ---

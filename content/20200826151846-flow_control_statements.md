@@ -1,4 +1,5 @@
 ---
+date: 2020-08-26
 id: db553cc1-625c-4ddf-8d3c-cc0bba7b4345
 title: Golang flow control statements
 ---

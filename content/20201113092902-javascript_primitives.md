@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: 78fe3d34-0c03-471c-9c4f-d9d919974b7d
 title: JavaScript Primitives
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: aed94d48-374c-4f3d-8dca-b6e4b3f9ae83
 title: JavaScript Delete Operator
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-26
 id: 81de1606-f1e2-41e6-a386-103e110436cd
 title: noUncheckedIndexAccess
 ---

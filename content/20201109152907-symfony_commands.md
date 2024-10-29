@@ -1,4 +1,5 @@
 ---
+date: 2020-11-09
 id: de57051c-69ce-4ffc-80a2-55497308de62
 title: Symfony Commands
 ---

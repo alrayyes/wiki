@@ -1,4 +1,5 @@
 ---
+date: 2020-09-02
 id: 9f63288d-8d70-4b20-a853-66c8f75418c0
 title: JavaScript Regular Expressions
 ---

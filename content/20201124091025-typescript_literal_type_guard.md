@@ -1,4 +1,5 @@
 ---
+date: 2020-11-24
 id: 9c3b63f1-db7d-4d11-9755-2ff0dcfeddf4
 title: TypeScript Literal Type Guard
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 4a8846d3-a3c3-4edc-8fa1-a2de76f1094f
 title: JavaScript Conditional (Ternary) Operator
 ---

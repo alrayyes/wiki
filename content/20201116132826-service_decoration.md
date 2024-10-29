@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: 06bd2b23-93a4-4e19-abfa-05ce6716b248
 title: Service Decoration
 ---

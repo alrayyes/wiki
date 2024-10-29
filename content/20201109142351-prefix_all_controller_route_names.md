@@ -1,4 +1,5 @@
 ---
+date: 2020-11-09
 id: 0fae8bc3-e520-4515-b3ca-7d8b1003d132
 title: Prefix all controller route names
 ---

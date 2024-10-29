@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: d8cdd418-4d65-4814-b362-9db4a6730030
 title: Array.prototype.map()
 ---

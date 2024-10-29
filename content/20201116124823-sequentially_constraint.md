@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: ee2c3e75-2f2a-44c0-b24d-b15ac3fd3bb6
 title: Sequentially Constraint
 ---

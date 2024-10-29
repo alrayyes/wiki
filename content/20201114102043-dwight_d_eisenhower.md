@@ -1,4 +1,5 @@
 ---
+date: 2020-11-14
 id: 5a86f956-ff77-446d-9dc4-1246b098fd72
 title: Dwight D. Eisenhower
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: 6216c1c5-a482-4141-a5af-46917a1f8cd3
 title: Compound Constraint
 ---

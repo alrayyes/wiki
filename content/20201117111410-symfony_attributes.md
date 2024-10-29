@@ -1,4 +1,5 @@
 ---
+date: 2020-11-17
 id: 367d8948-4c79-4ce7-a040-230db4b7eed2
 title: Symfony Attributes
 ---

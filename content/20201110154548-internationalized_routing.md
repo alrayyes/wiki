@@ -1,4 +1,5 @@
 ---
+date: 2020-11-10
 id: 134b2b51-df83-4762-a6e8-335d74f0b3f9
 title: Internationalized Routing
 ---

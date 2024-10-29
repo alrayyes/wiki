@@ -1,4 +1,5 @@
 ---
+date: 2020-11-24
 id: c8b933ca-82db-4fff-a679-943133513d6e
 title: TypeScript in Operator
 ---

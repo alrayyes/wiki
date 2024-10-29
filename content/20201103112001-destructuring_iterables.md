@@ -1,4 +1,5 @@
 ---
+date: 2020-11-03
 id: 96e9e4f6-8d7d-4a46-85ef-7cb3eb3804df
 title: Destructuring Iterables
 ---

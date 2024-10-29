@@ -1,4 +1,5 @@
 ---
+date: 2020-11-11
 id: fe95210e-f59a-45a4-b0ed-f4d3ec981a07
 title: Executing Promises in Parallel (Promises.all)
 ---

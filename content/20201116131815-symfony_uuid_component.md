@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: 1a128c92-4b0d-4a5a-88e8-fcd59eff2e8e
 title: Symfony UUID Component
 ---

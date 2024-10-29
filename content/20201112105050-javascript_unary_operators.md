@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 4a6d69e8-c72a-40c3-b81e-31a40adabbb5
 title: JavaScript Unary Operators
 ---

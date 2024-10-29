@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 8a5acfc2-e49c-4f3a-8823-00d7b57e8569
 title: JavaScript String startsWith Method
 ---

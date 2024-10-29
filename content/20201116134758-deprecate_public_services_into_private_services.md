@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: 6ecb0d08-16f6-42c5-ac0d-916b875bc1ff
 title: Deprecate Public Services Into Private Services
 ---

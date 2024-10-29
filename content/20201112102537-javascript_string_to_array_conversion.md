@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 0efc7236-a6cb-402f-91f6-f05f038a4aa2
 title: JavaScript String To Array Conversion
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-30
 id: 3853a0ab-0e05-4b7b-afee-030fd7e31837
 title: React factory functions
 ---

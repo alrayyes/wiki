@@ -1,4 +1,5 @@
 ---
+date: 2020-11-04
 id: dc5b49fe-a371-459a-b82b-174301aee41d
 title: JavaScript RegExp Match Method
 ---

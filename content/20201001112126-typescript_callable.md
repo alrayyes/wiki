@@ -1,4 +1,5 @@
 ---
+date: 2020-10-01
 id: afb5a8ff-045c-48f1-9b9e-e5bb55f4a572
 title: TypeScript Callable
 ---

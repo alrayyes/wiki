@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 65f016de-b501-447f-bf81-6bf4f196330f
 title: Validate BIC and IBAN Codes Together
 ---

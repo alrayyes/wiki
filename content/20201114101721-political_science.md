@@ -1,4 +1,5 @@
 ---
+date: 2020-11-14
 id: 8faa9b85-f3e6-4f4d-9daf-b2892df3c6fe
 title: Political Science
 ---

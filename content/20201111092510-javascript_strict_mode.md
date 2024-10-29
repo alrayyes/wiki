@@ -1,4 +1,5 @@
 ---
+date: 2020-11-11
 id: c5fef6b1-c659-42ef-8b51-7657df6743e8
 title: JavaScript Strict Mode
 ---

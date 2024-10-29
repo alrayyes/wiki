@@ -1,4 +1,5 @@
 ---
+date: 2020-11-11
 id: a0217544-b988-4292-9c8d-003bdafb766b
 title: Syfmony Console Table Titles
 ---

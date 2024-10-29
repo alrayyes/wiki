@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: e9ea6e53-c383-4b23-b90c-77cd202f8002
 title: Ecrypted Secrets Management
 ---

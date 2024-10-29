@@ -1,4 +1,5 @@
 ---
+date: 2020-10-07
 id: e39eaedb-0e83-430a-a7c4-85bb6f89da77
 title: TypeScript Discriminated Union
 ---

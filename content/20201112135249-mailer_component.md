@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: c6a317d3-cdda-4c9b-bf03-5e36bce8bc57
 title: Mailer Component
 ---

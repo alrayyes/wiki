@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: 4bf0a31f-50eb-4b42-8d5d-54e6777147a4
 title: Trailing Comma in Parameter Lists
 ---

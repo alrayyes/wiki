@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: ede05265-f991-4a4e-b782-e2b63917c365
 title: JavaScript Optional Catch Binding
 ---

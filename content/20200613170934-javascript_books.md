@@ -1,4 +1,5 @@
 ---
+date: 2020-06-13
 id: 116e53fb-3830-473d-9474-57c8b45aa996
 title: JavaScript Books
 ---

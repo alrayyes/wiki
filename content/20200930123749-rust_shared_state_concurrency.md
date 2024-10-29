@@ -1,4 +1,5 @@
 ---
+date: 2020-09-30
 id: 6e53ba2a-20e7-4d81-8047-8eecaffc76f7
 title: Rust Shared-State Concurrency
 ---

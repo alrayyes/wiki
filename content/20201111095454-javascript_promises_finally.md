@@ -1,4 +1,5 @@
 ---
+date: 2020-11-11
 id: 189b65a7-906f-41fd-91cd-57c4cc5764d2
 title: JavaScript Promises Finally
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-10-09
 id: b6fa7fa7-644f-42ab-bee6-71f4f58a60f2
 title: TypeScript Classes
 ---

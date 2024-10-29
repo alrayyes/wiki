@@ -1,4 +1,5 @@
 ---
+date: 2020-11-16
 id: 56f5d5c4-2a67-4b65-9a93-166f085f1f84
 title: Symfony Security
 ---

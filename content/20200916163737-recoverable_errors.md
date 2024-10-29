@@ -1,4 +1,5 @@
 ---
+date: 2020-09-16
 id: cbdaa6b4-cf72-45fb-ac16-79afd8900478
 title: Rust Recoverable Errors
 ---

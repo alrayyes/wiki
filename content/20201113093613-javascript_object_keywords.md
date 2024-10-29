@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: 1daece10-b71b-420c-889e-18dc1933b516
 title: JavaScript Object Keywords
 ---

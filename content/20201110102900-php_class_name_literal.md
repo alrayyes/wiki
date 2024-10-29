@@ -1,4 +1,5 @@
 ---
+date: 2020-11-10
 id: e344631b-61fc-4110-abab-e610ce460854
 title: PHP Class Name Literal
 ---

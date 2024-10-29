@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: 5bae3aba-682a-4e09-b6b5-e71fabd8072d
 title: horizontalTable()
 ---

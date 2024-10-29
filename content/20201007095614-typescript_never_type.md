@@ -1,4 +1,5 @@
 ---
+date: 2020-10-07
 id: 85c2204d-dc1e-4038-9355-8bed1cb4574b
 title: TypeScript Never Type
 ---

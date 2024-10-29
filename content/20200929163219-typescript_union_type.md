@@ -1,4 +1,5 @@
 ---
+date: 2020-09-29
 id: 2dae9e2e-90c4-4d1b-a992-baacaa053b21
 title: TypeScript Union Type
 ---

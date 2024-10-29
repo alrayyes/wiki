@@ -1,4 +1,5 @@
 ---
+date: 2020-07-02
 id: 6e1019ae-983e-42c6-90cf-daa6aebb86ea
 title: Optional arguments in JavaScript functions
 ---

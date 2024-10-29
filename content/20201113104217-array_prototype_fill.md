@@ -1,4 +1,5 @@
 ---
+date: 2020-11-13
 id: 78535304-014d-4b91-9e80-faf905028338
 title: Array.prototype.fill()
 ---

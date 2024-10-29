@@ -1,4 +1,5 @@
 ---
+date: 2020-11-03
 id: 78ef5b06-a541-4e33-9c51-af92cd91719c
 title: Rest Operator (…) in Object Destructuring
 ---

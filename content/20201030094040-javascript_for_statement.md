@@ -1,4 +1,5 @@
 ---
+date: 2020-10-30
 id: f39d2479-e3e5-45dc-8515-93074995a0d6
 title: JavaScript For Statement
 ---

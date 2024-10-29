@@ -1,4 +1,5 @@
 ---
+date: 2020-06-13
 id: cb93f6ba-527b-4602-b5f4-de0281897800
 title: JavaScript Types
 ---

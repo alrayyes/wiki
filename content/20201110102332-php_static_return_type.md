@@ -1,4 +1,5 @@
 ---
+date: 2020-11-10
 id: b2ffe647-59d6-43a1-9e10-d9a278580284
 title: PHP Static Return Type
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2020-11-12
 id: d7cf5110-7cf3-4228-bf6a-552e20a6ffd6
 title: Symfony Passwords
 ---
