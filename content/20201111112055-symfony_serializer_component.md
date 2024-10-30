@@ -1,5 +1,5 @@
 ---
-date: 20201111
+date: 2020-11-11
 id: 2e18b539-ef55-4c6a-9305-aa61cf31c6b8
 title: Symfony Serializer Component
 ---

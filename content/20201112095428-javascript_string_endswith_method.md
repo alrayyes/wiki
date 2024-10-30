@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 00b0d7a6-4222-47e3-a0c9-58f071fa404e
 title: JavaScript String endsWith Method
 ---

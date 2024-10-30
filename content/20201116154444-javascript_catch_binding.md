@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: df5e3003-aa66-442e-9815-e264d601492d
 title: JavaScript Catch Binding
 ---

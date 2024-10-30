@@ -1,5 +1,5 @@
 ---
-date: 20201029
+date: 2020-10-29
 id: 5166162e-b27a-49f2-bbf6-c40891df367b
 title: Carthaginian peace
 ---

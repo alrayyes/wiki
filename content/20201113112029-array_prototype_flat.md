@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: caa62af1-768f-4ca7-95c2-ba38c703101d
 title: Array.prototype.flat()
 ---

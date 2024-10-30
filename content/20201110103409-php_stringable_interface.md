@@ -1,5 +1,5 @@
 ---
-date: 20201110
+date: 2020-11-10
 id: f97470da-6833-4ecf-81e2-40dd04f6c2a1
 title: PHP Stringable Interface
 ---

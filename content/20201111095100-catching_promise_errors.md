@@ -1,5 +1,5 @@
 ---
-date: 20201111
+date: 2020-11-11
 id: af9d9cf2-a888-4e8e-8156-4c4a664450f1
 title: Catching Promise Errors
 ---

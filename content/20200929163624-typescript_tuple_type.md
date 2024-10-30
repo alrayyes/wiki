@@ -1,5 +1,5 @@
 ---
-date: 20200929
+date: 2020-09-29
 id: 894dff80-c2c8-4408-b05f-3079ca833b3c
 title: TypeScript Tuple Type
 ---

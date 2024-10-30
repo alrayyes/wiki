@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: 3cbca6df-aca8-4264-8098-4c7793afe4d3
 title: JavaScript Symbol Prototype Methods
 ---

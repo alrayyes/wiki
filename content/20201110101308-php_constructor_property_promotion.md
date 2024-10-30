@@ -1,5 +1,5 @@
 ---
-date: 20201110
+date: 2020-11-10
 id: 19579c31-1dcc-4d11-b2f8-5f9180fa66d3
 title: PHP constructor property promotion
 ---

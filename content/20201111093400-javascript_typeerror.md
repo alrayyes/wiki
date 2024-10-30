@@ -1,5 +1,5 @@
 ---
-date: 20201111
+date: 2020-11-11
 id: b7195c0a-eafb-40e6-803f-8a25a06b6658
 title: JavaScript TypeError
 ---

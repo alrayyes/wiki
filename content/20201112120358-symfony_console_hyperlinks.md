@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 9ce2a2cc-a3d4-4440-8dce-0765ebbd006a
 title: Symfony Console Hyperlinks
 ---

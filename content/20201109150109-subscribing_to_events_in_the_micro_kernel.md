@@ -1,5 +1,5 @@
 ---
-date: 20201109
+date: 2020-11-09
 id: 6a54254e-2dae-47e5-8966-075e1bc1b7fa
 title: Subscribing to events in the micro kernel
 ---

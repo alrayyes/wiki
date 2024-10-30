@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 54c58f54-526f-4838-92c5-1a70d6b17a3c
 title: JavaScript Instanceof Operator
 ---

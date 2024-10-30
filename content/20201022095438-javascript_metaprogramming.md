@@ -1,5 +1,5 @@
 ---
-date: 20201022
+date: 2020-10-22
 id: b866160c-ac93-45af-8faf-1fd40f002f77
 title: JavaScript Metaprogramming
 ---

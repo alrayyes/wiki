@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 0fb73f75-ee10-4f7d-a7ab-7cac825aaa32
 title: JavaScript String Prototype Methods
 ---

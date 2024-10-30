@@ -1,5 +1,5 @@
 ---
-date: 20201123
+date: 2020-11-23
 id: c8f28632-bf0c-4e31-81ac-13c76c3dfcf9
 title: TypeScript Number Literal Type
 ---

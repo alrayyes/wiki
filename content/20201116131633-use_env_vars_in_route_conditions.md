@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: c7ac91f7-12f3-4c6c-b552-ba05c5206be9
 title: Use Env Vars in Route Conditions
 ---

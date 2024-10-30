@@ -1,5 +1,5 @@
 ---
-date: 20201126
+date: 2020-11-26
 id: 6be8abb0-c3d1-471f-a3c8-606a74cfbe94
 title: Programming Terms
 ---

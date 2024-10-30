@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: e1692cfa-16bc-497a-aeb1-0a7468414155
 title: Simpler Service Decoration
 ---

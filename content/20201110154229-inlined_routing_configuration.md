@@ -1,5 +1,5 @@
 ---
-date: 20201110
+date: 2020-11-10
 id: e85e1d41-4327-4a38-b4f9-205e7ccec209
 title: Inlined Routing Configuration
 ---

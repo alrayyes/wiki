@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 9e217634-5bde-4c98-ba86-9b63eb19b2e9
 title: PHP type functions
 ---

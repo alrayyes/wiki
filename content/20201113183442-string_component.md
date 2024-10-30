@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 36b7429a-aeba-45bf-beaa-98add87e1504
 title: String Component
 ---

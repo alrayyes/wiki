@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: e6d58583-98d8-4a0d-8d0b-a400ea4c2dc7
 title: Expression Linter
 ---

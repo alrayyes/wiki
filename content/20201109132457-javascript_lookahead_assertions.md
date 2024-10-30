@@ -1,5 +1,5 @@
 ---
-date: 20201109
+date: 2020-11-09
 id: 3ab00edf-6c63-4db2-b32e-d18f8d683329
 title: JavaScript Lookahead Assertions
 ---

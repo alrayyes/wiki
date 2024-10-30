@@ -1,5 +1,5 @@
 ---
-date: 20201001
+date: 2020-10-01
 id: 6df4db64-8ad2-4190-9d4e-3e6f77021a31
 title: TypeScript Functions
 ---

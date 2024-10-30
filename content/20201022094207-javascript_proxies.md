@@ -1,5 +1,5 @@
 ---
-date: 20201022
+date: 2020-10-22
 id: c5010eb1-4ce2-4415-8421-7710daecad0a
 title: JavaScript Proxies
 ---

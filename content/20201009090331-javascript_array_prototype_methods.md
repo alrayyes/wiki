@@ -1,5 +1,5 @@
 ---
-date: 20201009
+date: 2020-10-09
 id: 6c19156b-877a-4109-95ea-66e1f10d8385
 title: JavaScript Array Prototype Methods
 ---

@@ -1,5 +1,5 @@
 ---
-date: 20201123
+date: 2020-11-23
 id: 6fd9af86-8c34-495e-9370-2dd085b2886f
 title: TypeScript Template Literal String Type
 ---

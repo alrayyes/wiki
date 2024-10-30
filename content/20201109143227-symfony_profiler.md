@@ -1,5 +1,5 @@
 ---
-date: 20201109
+date: 2020-11-09
 id: 09a4ff97-67f5-4b5d-9972-289f71a3ef08
 title: Symfony Profiler
 ---

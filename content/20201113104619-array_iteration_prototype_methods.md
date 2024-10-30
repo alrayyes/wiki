@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: b442cedc-1746-4c9d-949c-f382e2b8aba6
 title: Array Iteration Prototype Methods
 ---

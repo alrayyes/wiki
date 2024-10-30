@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 33f8272d-6dc4-4a12-b384-0a4cdbd2a24a
 title: JavaScript Remainder Operator
 ---

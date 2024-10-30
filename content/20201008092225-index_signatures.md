@@ -1,5 +1,5 @@
 ---
-date: 20201008
+date: 2020-10-08
 id: a4bfc39c-bfe0-48f0-b58d-6dc473aa8993
 title: TypeScript Index Signatures
 ---

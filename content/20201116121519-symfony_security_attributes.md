@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: aeaef353-777b-44e3-a85e-e3c8a40cda9e
 title: Symfony Security Attributes
 ---

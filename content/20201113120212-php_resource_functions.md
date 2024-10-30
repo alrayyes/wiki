@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 91bd46af-67dc-402f-ad3a-f3096eda5e7d
 title: PHP resource functions
 ---

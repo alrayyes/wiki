@@ -1,5 +1,5 @@
 ---
-date: 20201029
+date: 2020-10-29
 id: d8d4ec68-d827-43ad-b76f-842d4b1e6848
 title: Historical Terms
 ---

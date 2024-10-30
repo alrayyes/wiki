@@ -1,5 +1,5 @@
 ---
-date: 20201111
+date: 2020-11-11
 id: 1c3522c3-9c66-4e10-bf2d-e01807707af2
 title: PHP Non-capturing Catches
 ---

@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 5ec1f0af-b176-4c10-8490-d732f369ee45
 title: JavaScript Template Literals
 ---

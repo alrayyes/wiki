@@ -1,5 +1,5 @@
 ---
-date: 20200916
+date: 2020-09-16
 id: 2a1d0b2f-9f23-4872-a83f-aa01a84756b5
 title: Rust Unrecoverable Errors
 ---

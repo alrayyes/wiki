@@ -1,5 +1,5 @@
 ---
-date: 20200922
+date: 2020-09-22
 id: dedc9e64-fe57-4c60-95b9-7df6201f4949
 title: JavaScript Named parameters
 ---

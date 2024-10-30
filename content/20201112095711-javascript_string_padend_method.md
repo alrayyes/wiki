@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 2ced27fe-8663-43d3-b3e7-f2b332599637
 title: JavaScript String padEnd Method
 ---

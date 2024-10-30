@@ -1,5 +1,5 @@
 ---
-date: 20201111
+date: 2020-11-11
 id: 06ffac8f-e131-4a17-8c88-7edbe3bd0cfd
 title: JavaScript Exceptions Finally
 ---

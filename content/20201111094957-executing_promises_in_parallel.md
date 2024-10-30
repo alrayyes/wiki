@@ -1,5 +1,5 @@
 ---
-date: 20201111
+date: 2020-11-11
 id: 9c42715a-8324-4570-ab92-927b608aa02a
 title: Executing Promises in Parallel
 ---

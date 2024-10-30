@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 11f17415-46cc-4100-ab3d-4e552dd8886e
 title: Password Migrations
 ---

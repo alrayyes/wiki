@@ -1,5 +1,5 @@
 ---
-date: 20201114
+date: 2020-11-14
 id: c54a96ac-cf9c-43d1-ab99-c646be37aac9
 title: American Presidents
 ---

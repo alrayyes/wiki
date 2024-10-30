@@ -1,5 +1,5 @@
 ---
-date: 20201104
+date: 2020-11-04
 id: 11d0fefd-c11e-400b-80fd-ba40e94b2a47
 title: JavaScript RegExp Replace Method
 ---

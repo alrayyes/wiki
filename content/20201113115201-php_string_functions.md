@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: ed9de386-a191-4fd8-a842-bb7d55df52a0
 title: PHP string functions
 ---

@@ -1,5 +1,5 @@
 ---
-date: 20201115
+date: 2020-11-15
 id: 1107e71e-4459-4ebc-85e4-f7bfde2c684a
 title: Conventional changelog
 ---

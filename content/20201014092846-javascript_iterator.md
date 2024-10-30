@@ -1,5 +1,5 @@
 ---
-date: 20201014
+date: 2020-10-14
 id: 9f77a5b0-a06d-46d0-828e-d6c5fe33111d
 title: JavaScript Iterator
 ---

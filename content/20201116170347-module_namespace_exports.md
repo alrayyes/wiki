@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: f1d1319a-5fa3-41ce-bfa7-20b9dbc2341a
 title: Module Namespace Exports
 ---

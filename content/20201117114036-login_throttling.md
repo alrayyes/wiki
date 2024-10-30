@@ -1,5 +1,5 @@
 ---
-date: 20201117
+date: 2020-11-17
 id: ae0c6979-3374-4e8d-8cd8-cfe534e36261
 title: Login Throttling
 ---

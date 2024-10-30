@@ -1,5 +1,5 @@
 ---
-date: 20201117
+date: 2020-11-17
 id: fd4d659f-01f1-4246-87ec-b8073a363402
 title: DKIM Email Authentication
 ---

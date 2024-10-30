@@ -1,5 +1,5 @@
 ---
-date: 20201123
+date: 2020-11-23
 id: df00306a-289c-4f50-800c-336b2f8d9999
 title: TypeScript String Literal Type
 ---

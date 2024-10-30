@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 6214937f-f3bb-4231-a88a-fb542b668531
 title: JavaScript Concatenation Operator
 ---

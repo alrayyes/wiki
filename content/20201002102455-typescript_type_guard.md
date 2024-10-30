@@ -1,5 +1,5 @@
 ---
-date: 20201002
+date: 2020-10-02
 id: 4adf622e-b34a-4a24-ac9e-1c754a1fd8d5
 title: TypeScript Type Guard
 ---

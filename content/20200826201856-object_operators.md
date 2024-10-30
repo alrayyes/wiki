@@ -1,5 +1,5 @@
 ---
-date: 20200826
+date: 2020-08-26
 id: 7b46ba87-7328-479c-8d79-badb24ed7b19
 title: JavaScript object operators
 ---

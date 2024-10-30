@@ -1,5 +1,5 @@
 ---
-date: 20201030
+date: 2020-10-30
 id: 3dac2b04-4015-4c1f-847c-5e677aec1fc0
 title: JavaScript For Await Of
 ---

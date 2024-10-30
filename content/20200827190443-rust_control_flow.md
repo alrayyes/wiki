@@ -1,5 +1,5 @@
 ---
-date: 20200827
+date: 2020-08-27
 id: 0ae97b2d-5a3c-40b5-9ce1-37aacb647c5d
 title: Rust control flow
 ---

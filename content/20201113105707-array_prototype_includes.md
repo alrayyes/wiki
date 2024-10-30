@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: d5d1956b-d2f4-4cff-bed9-40900f3e1bae
 title: Array.prototype.includes()
 ---

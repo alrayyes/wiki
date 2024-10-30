@@ -1,5 +1,5 @@
 ---
-date: 20201130
+date: 2020-11-30
 id: 7d05bb4c-95ae-4010-8f91-62f57c6a298b
 title: TypeScript jsx flag
 ---

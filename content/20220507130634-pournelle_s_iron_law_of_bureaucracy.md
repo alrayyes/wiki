@@ -1,5 +1,5 @@
 ---
-date: 20220507
+date: 2022-05-07
 id: ed6d0fa4-364d-4408-b139-b81542ff5f15
 title: Pournelle's Iron Law of Bureaucracy
 ---

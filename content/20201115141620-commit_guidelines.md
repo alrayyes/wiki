@@ -1,5 +1,5 @@
 ---
-date: 20201115
+date: 2020-11-15
 id: e57b1687-eeb8-4d10-b152-015a9d8dcec4
 title: Commit guidelines
 ---

@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: e745d46a-809d-4c00-ada0-c2b99d1d4007
 title: Definition Lists
 ---

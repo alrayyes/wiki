@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 8a367c4d-c104-41ff-953b-23d5d154028f
 title: IP Address Anonymizer
 ---

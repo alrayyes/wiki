@@ -1,5 +1,5 @@
 ---
-date: 20201012
+date: 2020-10-12
 id: e06279b3-4488-40b1-b822-fca19b47089a
 title: JavaScript WeakMaps
 ---

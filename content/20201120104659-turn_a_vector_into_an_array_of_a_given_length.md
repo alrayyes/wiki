@@ -1,5 +1,5 @@
 ---
-date: 20201120
+date: 2020-11-20
 id: bbe3faa3-b024-4714-a4d0-ea5183653e2d
 title: Turn a Vector Into An Array Of a Given Length
 ---

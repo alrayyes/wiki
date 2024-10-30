@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: ca9793a1-b56c-453c-a564-882ba0bd138b
 title: JavaScript String Iteration
 ---

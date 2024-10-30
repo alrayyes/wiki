@@ -1,5 +1,5 @@
 ---
-date: 20200930
+date: 2020-09-30
 id: e1048c95-3baa-445e-a943-bff7b86a0f29
 title: Ambient Declarations
 ---

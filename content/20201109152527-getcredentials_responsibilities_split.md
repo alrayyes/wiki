@@ -1,5 +1,5 @@
 ---
-date: 20201109
+date: 2020-11-09
 id: 9e629f0c-33c0-45bb-a978-623b13b2ffa5
 title: getCredentials() responsibilities split
 ---

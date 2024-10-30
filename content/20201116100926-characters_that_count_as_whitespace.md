@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: a414ac2c-21a9-4bf2-99ec-15ae9da28519
 title: Characters That Count as Whitespace
 ---

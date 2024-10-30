@@ -1,5 +1,5 @@
 ---
-date: 20201117
+date: 2020-11-17
 id: 4b1f045f-4e89-4f79-a7ba-ef96cd3f1d9d
 title: Symfony Doctrine Integration
 ---

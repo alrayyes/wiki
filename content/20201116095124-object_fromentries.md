@@ -1,5 +1,5 @@
 ---
-date: 20201116
+date: 2020-11-16
 id: 87eebd15-af30-482c-83be-d9f77ecf83d0
 title: Object.fromEntries
 ---

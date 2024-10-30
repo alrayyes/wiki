@@ -1,5 +1,5 @@
 ---
-date: 20200706
+date: 2020-07-06
 id: 61037644-f96f-4ab2-8ea5-4f8829b4de9c
 title: The 10 stages of Islamic History
 ---

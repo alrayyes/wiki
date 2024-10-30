@@ -1,5 +1,5 @@
 ---
-date: 20200613
+date: 2020-06-13
 id: 8af0e4ee-b090-4903-9ab7-020a4b7328ef
 title: JavaScript Variables
 ---

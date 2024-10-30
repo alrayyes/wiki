@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 3d5c7ec9-30af-4931-b6ab-2caa687f5951
 title: JavaScript Object Properties
 ---

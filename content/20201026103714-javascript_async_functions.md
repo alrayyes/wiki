@@ -1,5 +1,5 @@
 ---
-date: 20201026
+date: 2020-10-26
 id: 03f42b69-8321-443f-9d1d-fb7814999dd7
 title: JavaScript Async Functions
 ---

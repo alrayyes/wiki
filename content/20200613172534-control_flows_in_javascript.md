@@ -1,5 +1,5 @@
 ---
-date: 20200613
+date: 2020-06-13
 id: adffc782-d978-49f3-9367-33e77b05af8a
 title: Control flows in JavaScript
 ---

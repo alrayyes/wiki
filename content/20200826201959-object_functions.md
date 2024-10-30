@@ -1,5 +1,5 @@
 ---
-date: 20200826
+date: 2020-08-26
 id: 1d12fe9c-f655-49d2-8745-3148ec03cef9
 title: JavaScript Object Functions
 ---

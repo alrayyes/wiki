@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: fd03be0e-a4c0-421f-9dd7-1bddc9dece65
 title: JavaScript Prototypes
 ---

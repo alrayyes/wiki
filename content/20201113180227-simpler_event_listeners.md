@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: 0ada3ab8-c8d8-4803-9c7d-7e044533f793
 title: Simpler Event Listeners
 ---

@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: 1b282a21-2736-404a-a788-5a362fcba479
 title: Compromised Password Constraint
 ---

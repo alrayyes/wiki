@@ -1,5 +1,5 @@
 ---
-date: 20200706
+date: 2020-07-06
 id: baac5bf7-b54a-4fed-927b-e8a4f220e81c
 title: The 10 stages of Christian history
 ---

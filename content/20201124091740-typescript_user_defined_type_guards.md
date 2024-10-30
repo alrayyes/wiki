@@ -1,5 +1,5 @@
 ---
-date: 20201124
+date: 2020-11-24
 id: ab0f6600-4094-4fc6-9bbb-aa4308f81505
 title: TypeScript User Defined Type Guards
 ---

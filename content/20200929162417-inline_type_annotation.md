@@ -1,5 +1,5 @@
 ---
-date: 20200929
+date: 2020-09-29
 id: 01e5c8e4-5227-4565-96e5-94a4bb6240ea
 title: TypeScript Inline Type Annotation
 ---

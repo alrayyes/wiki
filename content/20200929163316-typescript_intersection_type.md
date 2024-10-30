@@ -1,5 +1,5 @@
 ---
-date: 20200929
+date: 2020-09-29
 id: e3434ce4-0210-4a9b-92ed-9da1e5000bac
 title: TypeScript Intersection Type
 ---

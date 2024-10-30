@@ -1,5 +1,5 @@
 ---
-date: 20201106
+date: 2020-11-06
 id: 5441479c-12e5-48c1-ab17-46a9c3df8bc3
 title: JavaScript RegExp Unicode Property Escapes
 ---

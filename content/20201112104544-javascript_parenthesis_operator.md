@@ -1,5 +1,5 @@
 ---
-date: 20201112
+date: 2020-11-12
 id: ec5dcb11-0690-442f-b70c-7f64534a5185
 title: JavaScript Parenthesis Operator
 ---

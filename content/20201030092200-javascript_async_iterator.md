@@ -1,5 +1,5 @@
 ---
-date: 20201030
+date: 2020-10-30
 id: fc8cc294-ab54-44cb-8a3a-f18036ffe175
 title: JavaScript Async Iterator
 ---

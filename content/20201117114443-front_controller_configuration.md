@@ -1,5 +1,5 @@
 ---
-date: 20201117
+date: 2020-11-17
 id: ad565d8b-8c81-45a0-9a4a-7c17feb8733e
 title: Front Controller Configuration
 ---

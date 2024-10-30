@@ -1,5 +1,5 @@
 ---
-date: 20201113
+date: 2020-11-13
 id: ec38d6f0-c958-478b-9701-99a535b9adc9
 title: Symfony String Component
 ---

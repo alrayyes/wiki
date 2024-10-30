@@ -1,5 +1,5 @@
 ---
-date: 20201103
+date: 2020-11-03
 id: 05066fdd-18fe-4762-b836-af35ba1f625b
 title: Destructuring Arrays
 ---

@@ -1,5 +1,5 @@
 ---
-date: 20201124
+date: 2020-11-24
 id: ddb4f555-9119-43eb-ac2f-64ef5d2d8896
 title: TypeScript Mapped Type
 ---
