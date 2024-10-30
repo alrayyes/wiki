@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: d69cb1c0-fc5d-406e-beab-e82ee12dc603
 title: Symfony Constraints
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05
+date: 20210405
 id: 7626ffe4-470f-4772-858b-424ae080fa17
 title: Important quality attributes and their definitions
 ---

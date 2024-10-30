@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 20201109
 id: 5be369cf-363e-4533-839b-bc55ce951a53
 title: Symfony PHP7 Polyfill component
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 20201110
 id: 7cc0b66c-a7df-48c7-9caf-f934f159112d
 title: Symfony Argon2i Password Hasher
 ---

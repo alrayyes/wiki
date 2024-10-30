@@ -1,5 +1,5 @@
 ---
-date: 2020-10-14
+date: 20201014
 id: f1c572d5-868b-4ce0-b1ac-9f7cc32dae3d
 title: JavaScript Iterables
 ---

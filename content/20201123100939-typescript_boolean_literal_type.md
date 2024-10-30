@@ -1,5 +1,5 @@
 ---
-date: 2020-11-23
+date: 20201123
 id: 4718e84c-e96f-43fa-891c-ec10961548de
 title: TypeScript Boolean Literal Type
 ---

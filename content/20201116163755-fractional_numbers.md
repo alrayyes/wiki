@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 8403cba9-9914-4761-896d-b119643d768f
 title: Fractional Numbers
 ---

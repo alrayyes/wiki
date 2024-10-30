@@ -1,5 +1,5 @@
 ---
-date: 2020-10-02
+date: 20201002
 id: f86e5e6b-8a05-4dc5-9954-743fabef33bc
 title: TypeScript Type Assertion
 ---

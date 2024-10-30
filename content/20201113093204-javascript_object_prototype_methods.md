@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 2c9b94b2-a652-42d7-97ee-731686d29e58
 title: JavaScript Object Prototype Methods
 ---

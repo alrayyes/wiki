@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: 52bd8a6a-0d4c-4860-b015-333e7f1b7e34
 title: JavaScript ReferenceError
 ---

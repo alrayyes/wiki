@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: 2b3fbe1c-487f-40e0-88aa-a1b6d59093e3
 title: Fallback For Internationalized Routes
 ---

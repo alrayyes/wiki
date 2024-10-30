@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 2b8781a5-59af-49f7-b761-f4c2619d2d44
 title: Console Cursor Control
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 0617f7af-2e55-40b5-b83a-6157703a9cd6
 title: JavaScript Comparison Operators
 ---

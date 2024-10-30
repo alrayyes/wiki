@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 20201109
 id: 6c80f9ff-166d-46a0-8498-854ddc21b74a
 title: Symfony Console Component
 ---

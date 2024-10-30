@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: c0bfe9b7-f543-4f89-9661-94d8bb406ff7
 title: JavaScript BigInt
 ---

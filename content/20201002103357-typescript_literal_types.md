@@ -1,5 +1,5 @@
 ---
-date: 2020-10-02
+date: 20201002
 id: d6b6005e-bd66-4524-b1f4-d3b27c8d9c46
 title: TypeScript Literal Types
 ---

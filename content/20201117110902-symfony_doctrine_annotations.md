@@ -1,5 +1,5 @@
 ---
-date: 2020-11-17
+date: 20201117
 id: dcf47f1b-3e1f-4d30-9d7f-bf62ce391145
 title: Symfony Doctrine Annotations
 ---

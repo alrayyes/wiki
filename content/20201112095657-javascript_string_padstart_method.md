@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 49a334dd-0103-46cc-abba-af84529fae70
 title: JavaScript String padStart Method
 ---

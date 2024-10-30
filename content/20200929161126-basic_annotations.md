@@ -1,5 +1,5 @@
 ---
-date: 2020-09-29
+date: 20200929
 id: 89671783-1085-4a00-9147-a377db9b19bc
 title: TypeScript
 ---

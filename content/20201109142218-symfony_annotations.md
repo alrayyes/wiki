@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 20201109
 id: 74c25bac-fff6-4881-a499-e9ba2e92e72f
 title: Symfony Annotations
 ---

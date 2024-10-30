@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: e8cb1177-6034-441f-a23e-bcdbf5a31fa6
 title: Type Constraint Can Be An Array of Types
 ---

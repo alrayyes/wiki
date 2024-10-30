@@ -1,5 +1,5 @@
 ---
-date: 2020-08-27
+date: 20200827
 id: 1324afaa-085a-401c-9757-df93b6c51423
 title: Rust functions
 ---

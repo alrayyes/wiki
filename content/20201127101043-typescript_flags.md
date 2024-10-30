@@ -1,5 +1,5 @@
 ---
-date: 2020-11-27
+date: 20201127
 id: 169f131e-80fa-440c-aded-5defb3631288
 title: TypeScript Flags
 ---

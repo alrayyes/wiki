@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: 5280d3db-1858-4b6c-82d7-6a5d5bf5d5c6
 title: JavaScript Consuming Promises
 ---

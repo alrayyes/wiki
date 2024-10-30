@@ -1,5 +1,5 @@
 ---
-date: 2020-11-04
+date: 20201104
 id: cd472cb3-445c-4c81-a133-d6ef13eec545
 title: JavaScript RegExp Named Capture Groups
 ---

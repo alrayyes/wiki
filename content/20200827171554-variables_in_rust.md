@@ -1,5 +1,5 @@
 ---
-date: 2020-08-27
+date: 20200827
 id: 9a604084-80a1-4868-be7b-950e7f43b65d
 title: Rust variables
 ---

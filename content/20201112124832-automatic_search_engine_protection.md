@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: c6744b2e-f845-4ac7-83d5-ef206743e4a6
 title: Automatic Search Engine Protection
 ---

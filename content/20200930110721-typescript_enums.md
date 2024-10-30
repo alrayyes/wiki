@@ -1,5 +1,5 @@
 ---
-date: 2020-09-30
+date: 20200930
 id: 4e52541b-5119-4228-97b2-f17f5a23b138
 title: TypeScript Enums
 ---

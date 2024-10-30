@@ -1,5 +1,5 @@
 ---
-date: 2020-11-17
+date: 20201117
 id: 5bf39571-2d13-4394-b882-aa7e6c1a341a
 title: Symfony Routing Annotations
 ---

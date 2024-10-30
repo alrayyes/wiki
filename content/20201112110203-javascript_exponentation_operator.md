@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: fe4897ce-ad46-4279-a35b-9e7958645f9c
 title: JavaScript Exponentation Operator
 ---

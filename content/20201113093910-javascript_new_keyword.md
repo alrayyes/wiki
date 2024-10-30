@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 32b0031a-0830-4e8c-a39c-3bf6d8791f84
 title: JavaScript New Keyword
 ---

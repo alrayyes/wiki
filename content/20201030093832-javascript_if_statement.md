@@ -1,5 +1,5 @@
 ---
-date: 2020-10-30
+date: 20201030
 id: 3791e37d-c3cd-4e61-8802-76eeee25c08b
 title: JavaScript If Statement
 ---

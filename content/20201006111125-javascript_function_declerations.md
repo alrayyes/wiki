@@ -1,5 +1,5 @@
 ---
-date: 2020-10-06
+date: 20201006
 id: 0e8d8e26-e36d-48b6-a333-9c0fbd07b7b0
 title: JavaScript function declarations
 ---

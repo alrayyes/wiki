@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: c74d4f32-ff6b-419e-8ed7-eb0b018de44d
 title: CardScheme Constraint
 ---

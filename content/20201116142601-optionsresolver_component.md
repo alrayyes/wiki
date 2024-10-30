@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 382f31fb-1b69-4384-9434-488695f437f8
 title: OptionsResolver Component
 ---

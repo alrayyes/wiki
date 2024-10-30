@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: e04ce909-2885-406b-8e0e-e5846354ce86
 title: Array.prototype.values()
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2020-10-07
+date: 20201007
 id: 94a1d579-bd29-42f0-a6c6-2aa0700703d4
 title: JavaScript object getters & setters
 ---

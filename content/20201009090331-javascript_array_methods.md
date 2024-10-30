@@ -1,5 +1,5 @@
 ---
-date: 2020-10-09
+date: 20201009
 id: c76b3766-a1ed-43f9-bdb6-4076e6bb5b7a
 title: JavaScript Array Methods
 ---

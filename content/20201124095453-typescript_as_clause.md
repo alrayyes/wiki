@@ -1,5 +1,5 @@
 ---
-date: 2020-11-24
+date: 20201124
 id: 34b7094a-87a7-4424-ac04-f5b7cb4327dc
 title: TypeScript as Clause
 ---

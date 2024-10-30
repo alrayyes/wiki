@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 9f1208cf-37c6-4577-8c15-7e0979c3a065
 title: Symbol.prototype.description
 ---

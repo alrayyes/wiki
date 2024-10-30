@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 16729463-8ac7-4389-8558-cf243066aa42
 title: JavaScript String Operators
 ---

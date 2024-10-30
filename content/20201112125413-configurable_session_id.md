@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 9a6ba6b5-92b8-4422-a31a-3d78ba563ef2
 title: Configurable Session ID
 ---

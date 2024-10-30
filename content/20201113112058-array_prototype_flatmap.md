@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 1aa59b86-bbea-4eb7-beac-67c7e1460ecf
 title: Array.prototype.flatMap()
 ---

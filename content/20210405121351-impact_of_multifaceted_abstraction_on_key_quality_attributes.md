@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05
+date: 20210405
 id: 9e3bc9a2-cda1-4097-81ea-6e15736a5e9b
 title: Impact of Multifaceted Abstraction on Key Quality Attributes
 ---

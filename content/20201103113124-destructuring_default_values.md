@@ -1,5 +1,5 @@
 ---
-date: 2020-11-03
+date: 20201103
 id: eb8253f8-f376-4b73-9098-35da64a5a6e7
 title: Destructuring Default Values
 ---

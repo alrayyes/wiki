@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 9256ee27-61e2-4c9f-b49c-bc2efe01d528
 title: Signing and Encrypting Messages
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: d4bcfd55-088e-4658-9e7b-5429f7ec060f
 title: PHP Throw Expression
 ---

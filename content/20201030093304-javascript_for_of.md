@@ -1,5 +1,5 @@
 ---
-date: 2020-10-30
+date: 20201030
 id: 88c7d978-30a1-4908-bbd8-3263fb6c1d44
 title: JavaScript For Of
 ---

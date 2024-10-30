@@ -1,5 +1,5 @@
 ---
-date: 2020-11-25
+date: 20201125
 id: 45c9ba48-85b1-42fe-9992-e683d8f07e47
 title: TypeScript Recursive Conditional Types
 ---

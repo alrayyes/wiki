@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: adc652c4-6f67-46e9-a975-8e72b852234c
 title: Number Constraints
 ---

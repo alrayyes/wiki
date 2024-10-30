@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: bf07be35-319c-4a57-8ee5-658e4591ec8c
 title: JavaScript Logical Operators
 ---

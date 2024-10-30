@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 20201109
 id: 3644daaa-2b31-4ead-b4e1-65ae720cd053
 title: debug autowiring
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2020-11-17
+date: 20201117
 id: 65433588-930a-4386-a010-77240faaca80
 title: Pseudo-localization Translator
 ---

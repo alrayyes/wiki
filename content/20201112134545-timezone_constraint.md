@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: ba952b1d-0609-4bc6-94b9-0192df3bf4f2
 title: Timezone Constraint
 ---

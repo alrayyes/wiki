@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 0b983a9b-2314-43a8-bd48-62eea3772821
 title: Array.prototype.find()
 ---

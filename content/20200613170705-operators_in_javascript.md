@@ -1,5 +1,5 @@
 ---
-date: 2020-06-13
+date: 20200613
 id: a8f1290e-b4ef-4f80-bc21-69ddb4c22aca
 title: JavaScript Operators
 ---

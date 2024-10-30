@@ -1,5 +1,5 @@
 ---
-date: 2020-10-29
+date: 20201029
 id: 9e38c047-00aa-4734-96ed-fc9257e6c19c
 title: Intercommunicating zones
 ---

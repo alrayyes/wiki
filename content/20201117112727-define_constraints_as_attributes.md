@@ -1,5 +1,5 @@
 ---
-date: 2020-11-17
+date: 20201117
 id: b632a78b-9e93-4b56-8cfe-daa3e4db12a2
 title: Define Constraints as Attributes
 ---

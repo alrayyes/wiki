@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: da46f6f1-d81f-48f7-9704-fd1f69debb85
 title: JavaScript String includes Method
 ---

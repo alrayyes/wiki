@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: c7132269-2084-4d87-9888-0f860db29aaf
 title: Automatic Validation Based on Doctrine Mapping
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 47dd501e-a567-481a-8d85-5eb1cd0bad15
 title: NotBlank allowNull
 ---

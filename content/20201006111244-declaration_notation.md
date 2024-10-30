@@ -1,5 +1,5 @@
 ---
-date: 2020-10-06
+date: 20201006
 id: 2b93c1c4-b0ed-4b03-846b-557ccc9d6080
 title: JavaScript declaration notation
 ---

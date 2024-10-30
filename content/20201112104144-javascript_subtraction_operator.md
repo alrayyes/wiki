@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 996c32e9-5c8d-4c90-af71-c28e040eae41
 title: JavaScript Subtraction Operator
 ---

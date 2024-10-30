@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 58b56604-9283-46c5-bbdc-459778ee11ec
 title: JavaScript Arithmetic Operators
 ---

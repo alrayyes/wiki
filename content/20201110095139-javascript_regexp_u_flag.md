@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 20201110
 id: 76fc0a0a-7d56-49c7-8c57-7686cca110fc
 title: JavaScript RegExp /u flag
 ---

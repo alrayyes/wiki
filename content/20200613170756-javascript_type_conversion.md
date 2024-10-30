@@ -1,5 +1,5 @@
 ---
-date: 2020-06-13
+date: 20200613
 id: 9e542d77-7a1f-4f6b-a48d-ce12afc68101
 title: JavaScript Type Conversion
 ---

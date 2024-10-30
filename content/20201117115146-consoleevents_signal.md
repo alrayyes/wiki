@@ -1,5 +1,5 @@
 ---
-date: 2020-11-17
+date: 20201117
 id: 03320caf-dc21-416f-9d74-dc1bc219101e
 title: "ConsoleEvents::SIGNAL"
 ---

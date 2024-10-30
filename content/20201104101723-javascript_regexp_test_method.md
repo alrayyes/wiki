@@ -1,5 +1,5 @@
 ---
-date: 2020-11-04
+date: 20201104
 id: eff92c39-8459-4f55-a34b-d924eb603056
 title: JavaScript RegExp Test Method
 ---

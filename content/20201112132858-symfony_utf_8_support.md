@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 72aaa2a1-89f1-4f86-b666-299d77e5a75f
 title: Symfony UTF-8 Support
 ---

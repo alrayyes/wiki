@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: ebc9cf71-62ed-44fa-98c6-b2d01fbd69fe
 title: Sodium password encoder
 ---

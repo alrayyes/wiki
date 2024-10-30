@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 20201109
 id: 91c73796-f9c1-4876-a0c7-07911a7f51e1
 title: Validator information in the Symfony profiler
 ---

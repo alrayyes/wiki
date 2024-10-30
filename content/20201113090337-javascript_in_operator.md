@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 4cd0d42b-3414-4402-95f1-7498fbc52c20
 title: JavaScript In Operator
 ---

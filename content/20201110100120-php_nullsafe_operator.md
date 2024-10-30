@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 20201110
 id: d07536b9-8d42-4b60-92a5-0348acb0a3db
 title: PHP nullsafe operator
 ---

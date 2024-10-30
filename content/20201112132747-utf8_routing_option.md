@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 45b1f81a-d5f4-4f28-99d6-6a1592c75f7d
 title: UTF8 Routing Option
 ---

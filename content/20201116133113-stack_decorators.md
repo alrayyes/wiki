@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: bf86be19-256d-408e-b26e-dcd30d4f1e39
 title: Stack Decorators
 ---

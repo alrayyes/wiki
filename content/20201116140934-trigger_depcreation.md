@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: d6b8e744-b6f2-41aa-a3c9-c4d366ca5eca
 title: trigger~depcreation~
 ---

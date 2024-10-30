@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: 5cc7016f-2142-47c3-b256-d295a58339a7
 title: Symfony DivisibleBy Constraint
 ---

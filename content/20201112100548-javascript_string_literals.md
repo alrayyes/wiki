@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 923e16d1-33dd-4753-bf51-0e77de10efaa
 title: JavaScript String Literals
 ---

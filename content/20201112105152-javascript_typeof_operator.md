@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 9e6dcb99-ffe8-48f2-95d2-3ec5dd20dc9f
 title: JavaScript Typeof Operator
 ---

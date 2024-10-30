@@ -1,5 +1,5 @@
 ---
-date: 2020-08-27
+date: 20200827
 id: 513ff88e-d0c9-41d1-8416-57a4aff100c7
 title: JavaScript higher-order functions
 ---

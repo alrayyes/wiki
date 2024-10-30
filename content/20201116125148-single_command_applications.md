@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 1b9bdd03-0b2c-4ed1-8bf5-fe9169b434b3
 title: Single Command Applications
 ---

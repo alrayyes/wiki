@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: f966e2d6-6e78-40c5-b8ac-73f3ea4f24fe
 title: Doctrine Entity Listeners
 ---

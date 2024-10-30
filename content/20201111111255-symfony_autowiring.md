@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: 470b2f08-e50c-4ec4-8d42-dd369ea1fbb1
 title: Symfony Autowiring
 ---

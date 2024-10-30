@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 20201109
 id: a36e7f58-041b-46f7-9fd8-15bfa73460a1
 title: Symfony Translation Component
 ---

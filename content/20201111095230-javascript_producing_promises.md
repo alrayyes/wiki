@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: 1cd276d1-1af0-4472-aec6-bfd148cb5361
 title: JavaScript Producing Promises
 ---

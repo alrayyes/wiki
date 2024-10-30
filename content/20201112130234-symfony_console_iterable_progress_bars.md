@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: b4fc3714-24f9-4eb6-9d46-3c42bdcd5be2
 title: Symfony Console Iterable Progress Bars
 ---

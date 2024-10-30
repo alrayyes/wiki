@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: 3bdd7ddf-9039-438a-abc7-435d6ccc1a61
 title: Symfony Configuration
 ---

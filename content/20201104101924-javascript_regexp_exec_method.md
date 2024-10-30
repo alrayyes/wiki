@@ -1,5 +1,5 @@
 ---
-date: 2020-11-04
+date: 20201104
 id: 879b1425-8e59-4a5b-a2d8-08838e193b88
 title: JavaScript RegExp Exec Method
 ---

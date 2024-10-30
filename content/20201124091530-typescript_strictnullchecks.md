@@ -1,5 +1,5 @@
 ---
-date: 2020-11-24
+date: 20201124
 id: 40929849-a8dc-4293-8e24-afa2ff04620d
 title: TypeScript strictNullChecks
 ---

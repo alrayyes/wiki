@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 653df156-531e-48c9-a637-a1609069ff8e
 title: Optional Chaining Operator (?.)
 ---

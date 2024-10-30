@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: ebceb7b8-5242-482b-b258-2cf9c25d1788
 title: Unique Constraint
 ---

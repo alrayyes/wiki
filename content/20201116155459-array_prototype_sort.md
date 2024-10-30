@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: bf6cf8fb-dd68-43fa-927f-6efbc2bc8ead
 title: Array.prototype.Sort()
 ---

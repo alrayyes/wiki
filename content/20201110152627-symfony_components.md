@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 20201110
 id: 534272ec-1634-40e9-953e-b1e683805239
 title: Symfony Components
 ---

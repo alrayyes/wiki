@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 20201112
 id: ba104198-9038-4219-994e-503ee655d9f3
 title: NotBlank Constraint
 ---

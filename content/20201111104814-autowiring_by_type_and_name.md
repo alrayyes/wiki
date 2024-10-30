@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: 5d2da6a0-e612-41f3-9ac7-756a541dc8e8
 title: Autowiring By Type and Name
 ---

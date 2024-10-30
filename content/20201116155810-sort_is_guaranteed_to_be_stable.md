@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 15a17612-7b15-4d40-9294-caa6d1e4fe1a
 title: .sort() is guaranteed to be stable
 ---

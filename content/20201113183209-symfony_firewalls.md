@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 020efb3e-eef9-47d0-869b-e5e4e0e34796
 title: Symfony Firewalls
 ---

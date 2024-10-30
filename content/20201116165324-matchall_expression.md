@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: 32ffc92c-6a1d-4bf1-8f4c-b8d53ced6203
 title: MatchAll Expression
 ---

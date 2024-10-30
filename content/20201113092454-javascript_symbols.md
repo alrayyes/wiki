@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: 1e9f826e-69c6-4a52-8cf8-135abc082fb3
 title: JavaScript Symbols
 ---

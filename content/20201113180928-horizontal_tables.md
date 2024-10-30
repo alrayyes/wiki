@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: f236ec20-fe58-437d-bfe1-a1ed58bcf3e0
 title: Horizontal Tables
 ---

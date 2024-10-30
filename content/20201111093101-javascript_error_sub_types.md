@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: ee97bef0-7d38-4911-a2ce-a9741572d162
 title: JavaScript Error Sub Types
 ---

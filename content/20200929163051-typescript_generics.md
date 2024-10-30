@@ -1,5 +1,5 @@
 ---
-date: 2020-09-29
+date: 20200929
 id: aacdac15-4e00-4d75-9888-79b23bb47498
 title: TypeScript Generics
 ---

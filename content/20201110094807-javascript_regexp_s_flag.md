@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 20201110
 id: 8bf1886a-0754-467f-a441-cb21bccfbd46
 title: JavaScript RegExp /s flag
 ---

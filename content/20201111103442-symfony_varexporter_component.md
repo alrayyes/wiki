@@ -1,5 +1,5 @@
 ---
-date: 2020-11-11
+date: 20201111
 id: a334a0bb-a462-4e8f-94df-6a9985a2c5e3
 title: Symfony VarExporter Component
 ---

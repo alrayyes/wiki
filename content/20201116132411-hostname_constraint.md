@@ -1,5 +1,5 @@
 ---
-date: 2020-11-16
+date: 20201116
 id: de7c8974-5636-4e6d-baf7-afc90985c535
 title: Hostname Constraint
 ---

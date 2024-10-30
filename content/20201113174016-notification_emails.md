@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13
+date: 20201113
 id: b6e6c503-c614-4bf3-872a-3a6202e2dbfb
 title: Notification Emails
 ---
