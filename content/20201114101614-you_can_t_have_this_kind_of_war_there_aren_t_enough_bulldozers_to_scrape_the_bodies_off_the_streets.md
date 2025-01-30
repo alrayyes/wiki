@@ -7,4 +7,4 @@ title: You can't have this kind of war. There aren't enough bulldozers
 
 > You just can't have this kind of war. There aren't enough bulldozers
 > to scrape the bodies off the streets. —[Dwight D.
-> Eisenhowfr](20201114102043-dwight_d_eisenhower)
+> Eisenhower](20201114102043-dwight_d_eisenhower)

@@ -39,6 +39,10 @@ This is my personal wiki, with notes you might find handy.
 
 -   [Development Tools](20211015195242-development_tools)
 
+## People
+
+-   [Kent Beck](20250130143551-kent_beck)
+
 # Cheatsheets
 
 -   [Ledger](20200704151950-ledger)
