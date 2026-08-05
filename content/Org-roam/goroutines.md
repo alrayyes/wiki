@@ -1,0 +1,295 @@
+---
+publish: true
+title: Goroutines
+created: 2020-09-01T14:11:41
+modified: 2026-08-05T07:58:56.684Z
+---
+
+# Goroutines
+
+- [Basics](#basics)
+- [Channels](#channels)
+- [Range and close](#range-and-close)
+- [Select](#select)
+  - [Timeout](#timeout)
+- [sync.Mutex](#syncmutex)
+
+# Basics
+
+A ~goroutine~ is a lightweight thread managed by the Go runtime.
+
+```go
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func say(s string) {
+	for i := 0; i < 5; i++ {
+		time.Sleep(100 * time.Millisecond)
+		fmt.Println(s)
+	}
+}
+
+func main() {
+	go say("world")
+	say("hello")
+}
+```
+
+# Channels
+
+Channels are a typed conduit through whichyou can send and receive values with the channel operator `<-`. By default, sends and receives block until the other side is ready. This allows goroutines to synchronize without explicit locks or condition variables. Channels should generally be used for \[\[https://github.com/golang/go/wiki/MutexOrChannel]\[passing ownership of data]].
+
+```go
+package main
+
+import "fmt"
+
+func sum(s []int, c chan int) {
+	sum := 0
+	for _, v := range s {
+		sum += v
+	}
+	c <- sum // send sum to c
+}
+
+func main() {
+	s := []int{7, 2, 8, -9, 4, 0}
+
+	c := make(chan int)
+	go sum(s[:len(s)/2], c)
+	go sum(s[len(s)/2:], c)
+	x, y := <-c, <-c // receive from c
+
+	fmt.Println(x, y, x+y)
+}
+```
+
+Channels can also be _buffered_. Provide the buffer length as the second argument to `make` to initialize a buffered channel:
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	ch := make(chan int, 2)
+	ch <- 1
+	ch <- 2
+	fmt.Println(<-ch)
+	fmt.Println(<-ch)
+}
+```
+
+Sends to a buffered channel block only when the buffer is full. Receives block when the buffer is empty.
+
+# Range and close
+
+A sender can close a channel to indicate that no more values will be sent. Receivers can test whether a channel has been closed by assigning a second parameter to the receive expression.
+
+Only the sender should close a channel, never the receiver. Sending on a closed channel will cause a panic. Channels aren't like files; you don't usually need to close them. Closing is only necessary when the receiver must be told there are no more values coming, such as to terminate a range loop.
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func fibonacci(n int, c chan int) {
+	x, y := 0, 1
+	for i := 0; i < n; i++ {
+		c <- x
+		x, y = y, x+y
+	}
+	close(c)
+}
+
+func main() {
+	c := make(chan int, 10)
+	go fibonacci(cap(c), c)
+	for i := range c {
+		fmt.Println(i)
+	}
+}
+```
+
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+
+# Select
+
+The select statement lets a goroutine wait on multiple communication operations.
+
+A select blocks until one of its cases can run, then it executes that case. It chooses one at random if multiple are ready.
+
+```go
+package main
+
+import "fmt"
+
+func fibonacci(c, quit chan int) {
+	x, y := 0, 1
+	for {
+		select {
+		case c <- x:
+			x, y = y, x+y
+		case <-quit:
+			fmt.Println("quit")
+			return
+		}
+	}
+}
+
+func main() {
+	c := make(chan int)
+	quit := make(chan int)
+	go func() {
+		for i := 0; i < 10; i++ {
+			fmt.Println(<-c)
+		}
+		quit <- 0
+	}()
+	fibonacci(c, quit)
+}
+```
+
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+quit
+
+`default` case in `select` is run if no other case is ready, as one would expect
+
+```go
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
+	tick := time.Tick(100 * time.Millisecond)
+	boom := time.After(500 * time.Millisecond)
+	for {
+		select {
+		case <-tick:
+			fmt.Println("tick.")
+		case <-boom:
+			fmt.Println("BOOM!")
+			return
+		default:
+			fmt.Println("    .")
+			time.Sleep(50 * time.Millisecond)
+		}
+	}
+}
+```
+
+.
+.
+tick.
+.
+.
+tick.
+.
+.
+tick.
+.
+.
+tick.
+.
+.
+tick.
+BOOM!
+
+## Timeout
+
+Often you want to set a timeout value for ~select~ so it won't run forver. \[\[https://golang.org/pkg/time/#After]\[time.After]] is a good way of doing this:
+
+```go
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+var c chan int
+
+func handle(int) {}
+
+func main() {
+	select {
+	case m := <-c:
+		handle(m)
+	case <-time.After(10 * time.Second):
+		fmt.Println("timed out")
+	}
+}
+```
+
+# sync.Mutex
+
+TO make sure only one goroutine at a time can access a variable we can use `sync.Mutex`
+
+```go
+package main
+
+import (
+	"fmt"
+	"sync"
+	"time"
+)
+
+// SafeCounter is safe to use concurrently.
+type SafeCounter struct {
+	mu sync.Mutex
+	v  map[string]int
+}
+
+// Inc increments the counter for the given key.
+func (c *SafeCounter) Inc(key string) {
+	c.mu.Lock()
+	// Lock so only one goroutine at a time can access the map c.v.
+	c.v[key]++
+	c.mu.Unlock()
+}
+
+// Value returns the current value of the counter for the given key.
+func (c *SafeCounter) Value(key string) int {
+	c.mu.Lock()
+	// Lock so only one goroutine at a time can access the map c.v.
+	defer c.mu.Unlock()
+	return c.v[key]
+}
+
+func main() {
+	c := SafeCounter{v: make(map[string]int)}
+	for i := 0; i < 1000; i++ {
+		go c.Inc("somekey")
+	}
+
+	time.Sleep(time.Second)
+	fmt.Println(c.Value("somekey"))
+}
+```

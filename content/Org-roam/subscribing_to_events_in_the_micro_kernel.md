@@ -1,0 +1,48 @@
+---
+publish: true
+title: Subscribing to events in the micro kernel
+created: 2020-11-09T15:01:09
+modified: 2026-08-05T07:58:56.711Z
+---
+
+# Subscribing to events in the micro kernel
+
+# Introduction
+
+From \[Symfony 4.0]\(Symfony 4.0) it's possible to subscribe to events using the ~EventSubscriberInterface~ Interface
+
+# Syntax
+
+// src/Kernel.php
+namespace App;
+
+use App\Exception\DangerException;
+use Symfony\Bundle\FrameworkBundle\Kernel\MicroKernelTrait;
+use Symfony\Component\EventDispatcher\EventSubscriberInterface;
+use Symfony\Component\HttpKernel\Event\GetResponseForExceptionEvent;
+use Symfony\Component\HttpKernel\Kernel as BaseKernel;
+use Symfony\Component\HttpKernel\KernelEvents;
+
+class Kernel extends BaseKernel implements EventSubscriberInterface
+{
+use MicroKernelTrait;
+
+```
+// ...
+
+public static function getSubscribedEvents()
+{
+    return [KernelEvents::EXCEPTION => 'handleExceptions'];
+}
+
+public function handleExceptions(GetResponseForExceptionEvent $event)
+{
+    if ($event->getException() instanceof DangerException) {
+        $event->setResponse(Response::create('It\'s dangerous to go alone. Take this ⚔'));
+    }
+
+    // ...
+}
+```
+
+}
