@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Parenthesis Operator
 created: 2020-11-12T10:45:44
-modified: 2026-08-05T07:58:56.691Z
+modified: 2026-08-05T10:26:50.505Z
 ---
 
 # JavaScript Parenthesis Operator

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Lookbehind Assertions
 created: 2020-11-09T13:29:44
-modified: 2026-08-05T07:58:56.690Z
+modified: 2026-08-05T10:26:50.505Z
 ---
 
 # JavaScript Lookbehind Assertions

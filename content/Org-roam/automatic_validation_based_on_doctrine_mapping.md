@@ -2,7 +2,7 @@
 publish: true
 title: Automatic Validation Based on Doctrine Mapping
 created: 2020-11-12T13:20:07
-modified: 2026-08-05T07:58:56.672Z
+modified: 2026-08-05T10:26:50.494Z
 ---
 
 # Automatic Validation Based on Doctrine Mapping

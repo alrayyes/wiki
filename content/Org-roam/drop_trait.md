@@ -2,7 +2,7 @@
 publish: true
 title: Drop Trait
 created: 2020-09-29T14:29:32
-modified: 2026-08-05T07:58:56.679Z
+modified: 2026-08-05T10:26:50.499Z
 ---
 
 # Drop Trait

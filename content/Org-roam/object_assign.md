@@ -2,7 +2,7 @@
 publish: true
 title: Object.assign
 created: 2020-11-13T09:52:44
-modified: 2026-08-05T07:58:56.699Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # Object.assign

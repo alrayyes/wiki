@@ -2,7 +2,7 @@
 publish: true
 title: Optional arguments in JavaScript functions
 created: 2020-07-02T20:42:26
-modified: 2026-08-05T07:58:56.700Z
+modified: 2026-08-05T10:26:50.511Z
 ---
 
 # Optional arguments in JavaScript functions

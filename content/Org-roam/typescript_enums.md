@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Enums
 created: 2020-09-30T11:07:21
-modified: 2026-08-05T07:58:56.718Z
+modified: 2026-08-05T10:26:50.520Z
 ---
 
 # TypeScript Enums

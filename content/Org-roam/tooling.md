@@ -2,7 +2,7 @@
 publish: true
 title: Rust tooling
 created: 2020-08-27T17:10:36
-modified: 2026-08-05T07:58:56.716Z
+modified: 2026-08-05T10:26:50.519Z
 ---
 
 # Rust tooling

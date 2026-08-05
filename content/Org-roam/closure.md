@@ -2,7 +2,7 @@
 publish: true
 title: Closure in JavaScript
 created: 2020-07-02T20:43:51
-modified: 2026-08-05T07:58:56.674Z
+modified: 2026-08-05T10:26:50.496Z
 ---
 
 # Closure in JavaScript

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Prototypes
 created: 2020-11-13T09:14:24
-modified: 2026-08-05T07:58:56.691Z
+modified: 2026-08-05T10:26:50.506Z
 ---
 
 # JavaScript Prototypes

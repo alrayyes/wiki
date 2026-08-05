@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Object Functions
 created: 2020-08-26T20:19:59
-modified: 2026-08-05T07:58:56.699Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # JavaScript Object Functions

@@ -2,7 +2,7 @@
 publish: true
 title: Important quality attributes and their definitions
 created: 2021-04-05T12:04:26
-modified: 2026-08-05T07:58:56.685Z
+modified: 2026-08-05T10:26:50.502Z
 ---
 
 # Important quality attributes and their definitions

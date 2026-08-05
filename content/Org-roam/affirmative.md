@@ -2,7 +2,7 @@
 publish: true
 title: affirmative
 created: 2020-11-16T14:35:26
-modified: 2026-08-05T07:58:56.668Z
+modified: 2026-08-05T10:26:50.493Z
 ---
 
 # affirmative

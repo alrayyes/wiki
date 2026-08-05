@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Producing Promises
 created: 2020-11-11T09:52:30
-modified: 2026-08-05T07:58:56.691Z
+modified: 2026-08-05T10:26:50.506Z
 ---
 
 # JavaScript Producing Promises

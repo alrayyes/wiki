@@ -2,7 +2,7 @@
 publish: true
 title: CommonJS
 created: 2020-09-16T17:28:02
-modified: 2026-08-05T07:58:56.675Z
+modified: 2026-08-05T10:26:50.496Z
 ---
 
 # CommonJS

@@ -2,7 +2,7 @@
 publish: true
 title: Array.from()
 created: 2020-11-13T10:58:32
-modified: 2026-08-05T07:58:56.670Z
+modified: 2026-08-05T10:26:50.493Z
 ---
 
 # Array.from()

@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Union Type
 created: 2020-09-29T16:32:19
-modified: 2026-08-05T07:58:56.720Z
+modified: 2026-08-05T10:26:50.521Z
 ---
 
 # TypeScript Union Type

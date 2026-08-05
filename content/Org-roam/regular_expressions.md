@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Regular Expressions
 created: 2020-09-02T16:23:05
-modified: 2026-08-05T07:58:56.706Z
+modified: 2026-08-05T10:26:50.514Z
 ---
 
 # JavaScript Regular Expressions

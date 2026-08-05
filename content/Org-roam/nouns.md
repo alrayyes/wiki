@@ -2,7 +2,7 @@
 publish: true
 title: Nouns
 created: 2020-10-30T18:32:37
-modified: 2026-08-05T07:58:56.698Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # Nouns

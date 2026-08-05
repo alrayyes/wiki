@@ -2,7 +2,7 @@
 publish: true
 title: Destructuring Arrays
 created: 2020-11-03T11:15:09
-modified: 2026-08-05T07:58:56.678Z
+modified: 2026-08-05T10:26:50.498Z
 ---
 
 # Destructuring Arrays

@@ -2,7 +2,7 @@
 publish: true
 title: Microseconds support
 created: 2020-11-09T14:11:16
-modified: 2026-08-05T07:58:56.697Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # Microseconds support

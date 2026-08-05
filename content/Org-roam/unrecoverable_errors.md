@@ -2,7 +2,7 @@
 publish: true
 title: Rust Unrecoverable Errors
 created: 2020-09-16T16:27:27
-modified: 2026-08-05T07:58:56.720Z
+modified: 2026-08-05T10:26:50.521Z
 ---
 
 # Rust Unrecoverable Errors

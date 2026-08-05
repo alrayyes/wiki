@@ -2,7 +2,7 @@
 publish: true
 title: The 10 stages of Islamic History
 created: 2020-07-06T16:11:34
-modified: 2026-08-05T07:58:56.710Z
+modified: 2026-08-05T10:26:50.515Z
 ---
 
 # The 10 stages of Islamic History

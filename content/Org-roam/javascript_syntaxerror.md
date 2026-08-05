@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript SyntaxError
 created: 2020-11-11T09:33:38
-modified: 2026-08-05T07:58:56.694Z
+modified: 2026-08-05T10:26:50.507Z
 ---
 
 # JavaScript SyntaxError

@@ -2,7 +2,7 @@
 publish: true
 title: Symfony User
 created: 2020-11-17T10:30:21
-modified: 2026-08-05T07:58:56.715Z
+modified: 2026-08-05T10:26:50.518Z
 ---
 
 # Symfony User

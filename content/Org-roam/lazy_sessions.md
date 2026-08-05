@@ -2,7 +2,7 @@
 publish: true
 title: Lazy Sessions
 created: 2020-11-09T15:10:19
-modified: 2026-08-05T07:58:56.695Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # Lazy Sessions

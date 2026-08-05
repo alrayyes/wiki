@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Validation
 created: 2020-11-09T14:04:30
-modified: 2026-08-05T07:58:56.715Z
+modified: 2026-08-05T10:26:50.518Z
 ---
 
 # Symfony Validation

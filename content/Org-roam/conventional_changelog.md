@@ -2,7 +2,7 @@
 publish: true
 title: Conventional changelog
 created: 2020-11-15T14:14:21
-modified: 2026-08-05T07:58:56.676Z
+modified: 2026-08-05T10:26:50.497Z
 ---
 
 # Conventional changelog

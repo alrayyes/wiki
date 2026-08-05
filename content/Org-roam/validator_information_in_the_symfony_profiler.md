@@ -2,7 +2,7 @@
 publish: true
 title: Validator information in the Symfony profiler
 created: 2020-11-09T14:00:46
-modified: 2026-08-05T07:58:56.721Z
+modified: 2026-08-05T10:26:50.521Z
 ---
 
 # Validator information in the Symfony profiler

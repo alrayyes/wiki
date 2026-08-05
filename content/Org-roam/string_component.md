@@ -2,7 +2,7 @@
 publish: true
 title: String Component
 created: 2020-11-13T18:34:42
-modified: 2026-08-05T07:58:56.710Z
+modified: 2026-08-05T10:26:50.516Z
 ---
 
 # String Component

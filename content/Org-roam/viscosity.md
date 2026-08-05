@@ -2,7 +2,7 @@
 publish: true
 title: viscosity
 created: 2021-04-05T12:32:14
-modified: 2026-08-05T07:58:56.721Z
+modified: 2026-08-05T10:26:50.522Z
 ---
 
 # viscosity

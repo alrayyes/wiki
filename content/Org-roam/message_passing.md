@@ -2,7 +2,7 @@
 publish: true
 title: Rust message passing
 created: 2020-09-30T12:30:03
-modified: 2026-08-05T07:58:56.697Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # Rust message passing

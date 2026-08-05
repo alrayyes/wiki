@@ -2,7 +2,7 @@
 publish: true
 title: PHP string functions
 created: 2020-11-13T11:52:01
-modified: 2026-08-05T07:58:56.702Z
+modified: 2026-08-05T10:26:50.512Z
 ---
 
 # PHP string functions

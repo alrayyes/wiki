@@ -2,7 +2,7 @@
 publish: true
 title: Rust Recoverable Errors
 created: 2020-09-16T16:37:37
-modified: 2026-08-05T07:58:56.705Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # Rust Recoverable Errors

@@ -2,7 +2,7 @@
 publish: true
 title: reset() method
 created: 2020-11-09T14:10:42
-modified: 2026-08-05T07:58:56.706Z
+modified: 2026-08-05T10:26:50.514Z
 ---
 
 # reset() method

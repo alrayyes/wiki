@@ -2,7 +2,7 @@
 publish: true
 title: as_mut_ptr_range
 created: 2020-11-20T10:10:47
-modified: 2026-08-05T07:58:56.671Z
+modified: 2026-08-05T10:26:50.494Z
 ---
 
 # as\_mut\_ptr\_range

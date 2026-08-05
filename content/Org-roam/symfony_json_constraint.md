@@ -2,7 +2,7 @@
 publish: true
 title: Symfony JSON Constraint
 created: 2020-11-12T12:56:37
-modified: 2026-08-05T07:58:56.714Z
+modified: 2026-08-05T10:26:50.517Z
 ---
 
 # Symfony JSON Constraint

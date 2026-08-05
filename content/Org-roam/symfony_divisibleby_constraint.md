@@ -2,7 +2,7 @@
 publish: true
 title: Symfony DivisibleBy Constraint
 created: 2020-11-11T10:30:48
-modified: 2026-08-05T07:58:56.713Z
+modified: 2026-08-05T10:26:50.517Z
 ---
 
 # Symfony DivisibleBy Constraint

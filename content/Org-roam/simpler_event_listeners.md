@@ -2,7 +2,7 @@
 publish: true
 title: Simpler Event Listeners
 created: 2020-11-13T18:02:27
-modified: 2026-08-05T07:58:56.709Z
+modified: 2026-08-05T10:26:50.515Z
 ---
 
 # Simpler Event Listeners

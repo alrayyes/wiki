@@ -2,7 +2,7 @@
 publish: true
 title: Pournelle's Iron Law of Bureaucracy
 created: 2022-05-07T13:06:34
-modified: 2026-08-05T07:58:56.703Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # Pournelle's Iron Law of Bureaucracy

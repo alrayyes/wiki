@@ -2,7 +2,7 @@
 publish: true
 title: Impact of Multifaceted Abstraction on Key Quality Attributes
 created: 2021-04-05T12:13:51
-modified: 2026-08-05T07:58:56.685Z
+modified: 2026-08-05T10:26:50.502Z
 ---
 
 # Impact of Multifaceted Abstraction on Key Quality Attributes

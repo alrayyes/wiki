@@ -2,7 +2,7 @@
 publish: true
 title: Configuring Services With Immutable Setters
 created: 2020-11-12T13:13:10
-modified: 2026-08-05T07:58:56.676Z
+modified: 2026-08-05T10:26:50.497Z
 ---
 
 # Configuring Services With Immutable Setters

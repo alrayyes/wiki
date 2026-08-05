@@ -2,7 +2,7 @@
 publish: true
 title: Ledger
 created: 2020-07-04T15:19:50
-modified: 2026-08-05T07:58:56.695Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # Ledger

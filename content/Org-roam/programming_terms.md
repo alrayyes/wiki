@@ -2,7 +2,7 @@
 publish: true
 title: Programming Terms
 created: 2020-11-26T09:52:54
-modified: 2026-08-05T07:58:56.704Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # Programming Terms

@@ -2,7 +2,7 @@
 publish: true
 title: Rust Iterators
 created: 2020-09-23T15:00:06
-modified: 2026-08-05T07:58:56.687Z
+modified: 2026-08-05T10:26:50.503Z
 ---
 
 # Rust Iterators

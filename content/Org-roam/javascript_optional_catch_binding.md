@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Optional Catch Binding
 created: 2020-11-16T15:48:24
-modified: 2026-08-05T07:58:56.691Z
+modified: 2026-08-05T10:26:50.505Z
 ---
 
 # JavaScript Optional Catch Binding

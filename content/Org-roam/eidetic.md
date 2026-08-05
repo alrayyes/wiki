@@ -2,7 +2,7 @@
 publish: true
 title: eidetic
 created: 2020-11-09T12:40:59
-modified: 2026-08-05T07:58:56.680Z
+modified: 2026-08-05T10:26:50.499Z
 ---
 
 # eidetic

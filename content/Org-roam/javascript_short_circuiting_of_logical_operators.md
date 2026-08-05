@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Short Circuiting of Logical Operators
 created: 2020-11-12T10:58:33
-modified: 2026-08-05T07:58:56.692Z
+modified: 2026-08-05T10:26:50.506Z
 ---
 
 # JavaScript Short Circuiting of Logical Operators

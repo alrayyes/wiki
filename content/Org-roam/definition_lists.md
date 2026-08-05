@@ -2,7 +2,7 @@
 publish: true
 title: Definition Lists
 created: 2020-11-13T18:13:56
-modified: 2026-08-05T07:58:56.678Z
+modified: 2026-08-05T10:26:50.498Z
 ---
 
 # Definition Lists

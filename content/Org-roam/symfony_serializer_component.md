@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Serializer Component
 created: 2020-11-11T11:20:55
-modified: 2026-08-05T07:58:56.715Z
+modified: 2026-08-05T10:26:50.518Z
 ---
 
 # Symfony Serializer Component

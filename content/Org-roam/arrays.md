@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Arrays
 created: 2020-09-29T16:21:29
-modified: 2026-08-05T07:58:56.671Z
+modified: 2026-08-05T10:26:50.494Z
 ---
 
 # TypeScript Arrays

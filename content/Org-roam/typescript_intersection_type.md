@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Intersection Type
 created: 2020-09-29T16:33:16
-modified: 2026-08-05T07:58:56.718Z
+modified: 2026-08-05T10:26:50.520Z
 ---
 
 # TypeScript Intersection Type

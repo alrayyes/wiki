@@ -2,7 +2,7 @@
 publish: true
 title: Economics
 created: 2020-07-04T15:17:15
-modified: 2026-08-05T07:58:56.680Z
+modified: 2026-08-05T10:26:50.499Z
 ---
 
 # Economics

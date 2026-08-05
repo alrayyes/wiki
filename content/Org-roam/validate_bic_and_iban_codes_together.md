@@ -2,7 +2,7 @@
 publish: true
 title: Validate BIC and IBAN Codes Together
 created: 2020-11-12T12:32:44
-modified: 2026-08-05T07:58:56.721Z
+modified: 2026-08-05T10:26:50.521Z
 ---
 
 # Validate BIC and IBAN Codes Together

@@ -2,7 +2,7 @@
 publish: true
 title: Different Hosts Per Locale
 created: 2020-11-16T13:36:27
-modified: 2026-08-05T07:58:56.679Z
+modified: 2026-08-05T10:26:50.499Z
 ---
 
 # Different Hosts Per Locale

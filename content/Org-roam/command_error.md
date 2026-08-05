@@ -2,7 +2,7 @@
 publish: true
 title: Command::ERROR
 created: 2020-11-16T14:18:17
-modified: 2026-08-05T07:58:56.675Z
+modified: 2026-08-05T10:26:50.496Z
 ---
 
 # Command::ERROR

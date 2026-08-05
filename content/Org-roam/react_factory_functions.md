@@ -2,7 +2,7 @@
 publish: true
 title: React factory functions
 created: 2020-11-30T08:46:08
-modified: 2026-08-05T07:58:56.705Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # React factory functions

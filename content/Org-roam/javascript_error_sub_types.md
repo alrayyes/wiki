@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Error Sub Types
 created: 2020-11-11T09:31:01
-modified: 2026-08-05T07:58:56.689Z
+modified: 2026-08-05T10:26:50.504Z
 ---
 
 # JavaScript Error Sub Types

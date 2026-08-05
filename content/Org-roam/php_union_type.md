@@ -2,7 +2,7 @@
 publish: true
 title: PHP Union Type
 created: 2020-11-09T13:39:23
-modified: 2026-08-05T07:58:56.702Z
+modified: 2026-08-05T10:26:50.512Z
 ---
 
 # PHP Union Type

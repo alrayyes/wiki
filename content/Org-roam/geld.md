@@ -2,7 +2,7 @@
 publish: true
 title: geld
 created: 2020-10-30T18:30:19
-modified: 2026-08-05T07:58:56.683Z
+modified: 2026-08-05T10:26:50.501Z
 ---
 
 # geld

@@ -2,7 +2,7 @@
 publish: true
 title: Uppercase
 created: 2020-11-23T10:32:50
-modified: 2026-08-05T07:58:56.720Z
+modified: 2026-08-05T10:26:50.521Z
 ---
 
 # Uppercase

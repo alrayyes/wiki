@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Never Type
 created: 2020-10-07T09:56:14
-modified: 2026-08-05T07:58:56.719Z
+modified: 2026-08-05T10:26:50.520Z
 ---
 
 # TypeScript Never Type

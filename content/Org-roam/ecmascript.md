@@ -2,7 +2,7 @@
 publish: true
 title: ECMAScript Modules
 created: 2020-09-16T17:29:14
-modified: 2026-08-05T07:58:56.680Z
+modified: 2026-08-05T10:26:50.499Z
 ---
 
 # ECMAScript Modules

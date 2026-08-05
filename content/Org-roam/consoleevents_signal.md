@@ -2,7 +2,7 @@
 publish: true
 title: ConsoleEvents::SIGNAL
 created: 2020-11-17T11:51:46
-modified: 2026-08-05T07:58:56.676Z
+modified: 2026-08-05T10:26:50.497Z
 ---
 
 # ConsoleEvents::SIGNAL

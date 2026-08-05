@@ -2,7 +2,7 @@
 publish: true
 title: Characters That Count as Whitespace
 created: 2020-11-16T10:09:26
-modified: 2026-08-05T07:58:56.674Z
+modified: 2026-08-05T10:26:50.496Z
 ---
 
 # Characters That Count as Whitespace

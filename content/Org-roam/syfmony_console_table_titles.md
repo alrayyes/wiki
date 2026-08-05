@@ -2,7 +2,7 @@
 publish: true
 title: Syfmony Console Table Titles
 created: 2020-11-11T10:41:24
-modified: 2026-08-05T07:58:56.711Z
+modified: 2026-08-05T10:26:50.516Z
 ---
 
 # Syfmony Console Table Titles

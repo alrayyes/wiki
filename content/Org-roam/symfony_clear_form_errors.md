@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Clear Form Errors
 created: 2020-11-11T10:54:22
-modified: 2026-08-05T07:58:56.712Z
+modified: 2026-08-05T10:26:50.517Z
 ---
 
 # Symfony Clear Form Errors

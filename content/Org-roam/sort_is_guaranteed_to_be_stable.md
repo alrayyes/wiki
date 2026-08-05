@@ -2,7 +2,7 @@
 publish: true
 title: .sort() is guaranteed to be stable
 created: 2020-11-16T15:58:10
-modified: 2026-08-05T07:58:56.710Z
+modified: 2026-08-05T10:26:50.515Z
 ---
 
 # .sort() is guaranteed to be stable

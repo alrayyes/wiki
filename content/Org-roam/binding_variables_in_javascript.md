@@ -2,7 +2,7 @@
 publish: true
 title: Binding / Variables in JavaScript
 created: 2020-06-13T17:21:37
-modified: 2026-08-05T07:58:56.672Z
+modified: 2026-08-05T10:26:50.495Z
 ---
 
 # Binding / Variables in JavaScript

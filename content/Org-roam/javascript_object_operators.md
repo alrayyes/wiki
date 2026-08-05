@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Object Operators
 created: 2020-11-13T09:00:50
-modified: 2026-08-05T07:58:56.690Z
+modified: 2026-08-05T10:26:50.505Z
 ---
 
 # JavaScript Object Operators

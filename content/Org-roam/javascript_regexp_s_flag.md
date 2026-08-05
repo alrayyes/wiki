@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp /s flag
 created: 2020-11-10T09:48:07
-modified: 2026-08-05T07:58:56.692Z
+modified: 2026-08-05T10:26:50.506Z
 ---
 
 # JavaScript RegExp /s flag

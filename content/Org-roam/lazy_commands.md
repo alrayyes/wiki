@@ -2,7 +2,7 @@
 publish: true
 title: Lazy Commands
 created: 2020-11-09T14:15:40
-modified: 2026-08-05T07:58:56.695Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # Lazy Commands

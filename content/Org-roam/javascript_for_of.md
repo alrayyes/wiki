@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript For Of
 created: 2020-10-30T09:33:04
-modified: 2026-08-05T07:58:56.689Z
+modified: 2026-08-05T10:26:50.504Z
 ---
 
 # JavaScript For Of

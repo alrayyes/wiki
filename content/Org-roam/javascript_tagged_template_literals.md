@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Tagged Template Literals
 created: 2020-11-12T10:08:59
-modified: 2026-08-05T07:58:56.694Z
+modified: 2026-08-05T10:26:50.507Z
 ---
 
 # JavaScript Tagged Template Literals

@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript as Clause
 created: 2020-11-24T09:54:53
-modified: 2026-08-05T07:58:56.718Z
+modified: 2026-08-05T10:26:50.520Z
 ---
 
 # TypeScript as Clause

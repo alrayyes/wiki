@@ -2,7 +2,7 @@
 publish: true
 title: First make the change easy, then make the easy change.
 created: 2025-01-30T18:48:54
-modified: 2026-08-05T07:58:56.682Z
+modified: 2026-08-05T10:26:50.501Z
 ---
 
 # First make the change easy, then make the easy change.

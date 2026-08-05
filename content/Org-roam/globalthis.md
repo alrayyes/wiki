@@ -2,7 +2,7 @@
 publish: true
 title: globalThis
 created: 2020-11-16T17:05:38
-modified: 2026-08-05T07:58:56.684Z
+modified: 2026-08-05T10:26:50.502Z
 ---
 
 # globalThis

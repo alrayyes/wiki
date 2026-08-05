@@ -2,7 +2,7 @@
 publish: true
 title: Define Constraints as Attributes
 created: 2020-11-17T11:27:27
-modified: 2026-08-05T07:58:56.677Z
+modified: 2026-08-05T10:26:50.498Z
 ---
 
 # Define Constraints as Attributes

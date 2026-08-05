@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Components
 created: 2020-11-10T15:26:27
-modified: 2026-08-05T07:58:56.712Z
+modified: 2026-08-05T10:26:50.517Z
 ---
 
 # Symfony Components

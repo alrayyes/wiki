@@ -2,7 +2,7 @@
 publish: true
 title: detritus
 created: 2020-10-29T19:51:42
-modified: 2026-08-05T07:58:56.678Z
+modified: 2026-08-05T10:26:50.498Z
 ---
 
 # detritus

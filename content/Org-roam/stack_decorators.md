@@ -2,7 +2,7 @@
 publish: true
 title: Stack Decorators
 created: 2020-11-16T13:31:13
-modified: 2026-08-05T07:58:56.710Z
+modified: 2026-08-05T10:26:50.515Z
 ---
 
 # Stack Decorators

@@ -2,7 +2,7 @@
 publish: true
 title: createFromInterface()
 created: 2020-11-13T12:33:27
-modified: 2026-08-05T07:58:56.677Z
+modified: 2026-08-05T10:26:50.497Z
 ---
 
 # createFromInterface()

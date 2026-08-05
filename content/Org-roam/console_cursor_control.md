@@ -2,7 +2,7 @@
 publish: true
 title: Console Cursor Control
 created: 2020-11-16T13:41:42
-modified: 2026-08-05T07:58:56.676Z
+modified: 2026-08-05T10:26:50.497Z
 ---
 
 # Console Cursor Control

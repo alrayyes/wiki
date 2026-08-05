@@ -2,7 +2,7 @@
 publish: true
 title: Object.getOwnPropertyDescriptors
 created: 2020-11-13T10:21:25
-modified: 2026-08-05T07:58:56.699Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # Object.getOwnPropertyDescriptors

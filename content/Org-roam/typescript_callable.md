@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Callable
 created: 2020-10-01T11:21:26
-modified: 2026-08-05T07:58:56.718Z
+modified: 2026-08-05T10:26:50.520Z
 ---
 
 # TypeScript Callable

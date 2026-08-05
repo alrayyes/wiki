@@ -2,7 +2,7 @@
 publish: true
 title: Code debt
 created: 2021-04-05T11:49:31
-modified: 2026-08-05T07:58:56.675Z
+modified: 2026-08-05T10:26:50.496Z
 ---
 
 # Code debt

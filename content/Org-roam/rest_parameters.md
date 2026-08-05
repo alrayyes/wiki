@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Rest Parameters
 created: 2020-09-22T16:25:00
-modified: 2026-08-05T07:58:56.706Z
+modified: 2026-08-05T10:26:50.514Z
 ---
 
 # JavaScript Rest Parameters

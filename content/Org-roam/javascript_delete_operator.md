@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Delete Operator
 created: 2020-11-13T09:46:52
-modified: 2026-08-05T07:58:56.689Z
+modified: 2026-08-05T10:26:50.504Z
 ---
 
 # JavaScript Delete Operator

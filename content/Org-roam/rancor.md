@@ -2,7 +2,7 @@
 publish: true
 title: rancor
 created: 2020-11-09T12:39:23
-modified: 2026-08-05T07:58:56.704Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # rancor

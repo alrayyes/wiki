@@ -2,7 +2,7 @@
 publish: true
 title: PHP nullsafe operator
 created: 2020-11-10T10:01:20
-modified: 2026-08-05T07:58:56.702Z
+modified: 2026-08-05T10:26:50.512Z
 ---
 
 # PHP nullsafe operator

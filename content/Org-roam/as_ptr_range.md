@@ -2,7 +2,7 @@
 publish: true
 title: as_ptr_range
 created: 2020-11-20T09:57:39
-modified: 2026-08-05T07:58:56.672Z
+modified: 2026-08-05T10:26:50.494Z
 ---
 
 # as\_ptr\_range

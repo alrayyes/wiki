@@ -2,7 +2,7 @@
 publish: true
 title: define()
 created: 2020-11-16T14:27:09
-modified: 2026-08-05T07:58:56.677Z
+modified: 2026-08-05T10:26:50.498Z
 ---
 
 # define()

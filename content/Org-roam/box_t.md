@@ -2,7 +2,7 @@
 publish: true
 title: Box<T>
 created: 2020-09-29T13:56:09
-modified: 2026-08-05T07:58:56.673Z
+modified: 2026-08-05T10:26:50.495Z
 ---
 
 # Box<T>

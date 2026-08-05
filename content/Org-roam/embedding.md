@@ -2,7 +2,7 @@
 publish: true
 title: Golang Embedding
 created: 2020-09-28T19:32:45
-modified: 2026-08-05T07:58:56.680Z
+modified: 2026-08-05T10:26:50.499Z
 ---
 
 # Golang Embedding

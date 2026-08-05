@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Booleans
 created: 2020-09-22T16:47:27
-modified: 2026-08-05T07:58:56.673Z
+modified: 2026-08-05T10:26:50.495Z
 ---
 
 # JavaScript Booleans

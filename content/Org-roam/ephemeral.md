@@ -2,7 +2,7 @@
 publish: true
 title: ephemeral
 created: 2020-11-26T10:03:31
-modified: 2026-08-05T07:58:56.680Z
+modified: 2026-08-05T10:26:50.500Z
 ---
 
 # ephemeral

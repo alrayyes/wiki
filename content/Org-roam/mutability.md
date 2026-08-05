@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Object Mutability
 created: 2020-08-26T20:17:37
-modified: 2026-08-05T07:58:56.697Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # JavaScript Object Mutability

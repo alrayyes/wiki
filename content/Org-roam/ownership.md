@@ -2,7 +2,7 @@
 publish: true
 title: Ownership in Rust
 created: 2020-08-28T17:09:45
-modified: 2026-08-05T07:58:56.700Z
+modified: 2026-08-05T10:26:50.511Z
 ---
 
 # Ownership in Rust

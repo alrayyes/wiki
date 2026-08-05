@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Objects
 created: 2020-08-26T20:16:05
-modified: 2026-08-05T07:58:56.699Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # JavaScript Objects

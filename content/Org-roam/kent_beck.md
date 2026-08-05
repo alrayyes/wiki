@@ -2,7 +2,7 @@
 publish: true
 title: Kent Beck
 created: 2025-01-30T14:35:51
-modified: 2026-08-05T07:58:56.695Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # Kent Beck

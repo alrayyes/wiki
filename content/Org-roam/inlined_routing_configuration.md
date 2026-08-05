@@ -2,7 +2,7 @@
 publish: true
 title: Inlined Routing Configuration
 created: 2020-11-10T15:42:29
-modified: 2026-08-05T07:58:56.686Z
+modified: 2026-08-05T10:26:50.503Z
 ---
 
 # Inlined Routing Configuration

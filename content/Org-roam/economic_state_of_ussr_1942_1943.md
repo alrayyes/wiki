@@ -2,7 +2,7 @@
 publish: true
 title: Economic state of USSR 1942-1943
 created: 2020-07-04T15:15:08
-modified: 2026-08-05T07:58:56.680Z
+modified: 2026-08-05T10:26:50.499Z
 ---
 
 # Economic state of USSR 1942-1943

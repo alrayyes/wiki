@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript User Defined Type Guards
 created: 2020-11-24T09:17:40
-modified: 2026-08-05T07:58:56.720Z
+modified: 2026-08-05T10:26:50.521Z
 ---
 
 # TypeScript User Defined Type Guards

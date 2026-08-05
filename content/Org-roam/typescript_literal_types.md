@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Literal Types
 created: 2020-10-02T10:33:57
-modified: 2026-08-05T07:58:56.719Z
+modified: 2026-08-05T10:26:50.520Z
 ---
 
 # TypeScript Literal Types

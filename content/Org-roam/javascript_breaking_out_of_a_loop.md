@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Breaking Out of a Loop
 created: 2020-10-30T09:43:43
-modified: 2026-08-05T07:58:56.688Z
+modified: 2026-08-05T10:26:50.504Z
 ---
 
 # JavaScript Breaking Out of a Loop

@@ -2,7 +2,7 @@
 publish: true
 title: get_resource_id()
 created: 2020-11-13T12:02:46
-modified: 2026-08-05T07:58:56.683Z
+modified: 2026-08-05T10:26:50.502Z
 ---
 
 # get\_resource\_id()

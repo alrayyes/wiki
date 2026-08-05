@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Error Handling
 created: 2020-09-01T10:52:37
-modified: 2026-08-05T07:58:56.680Z
+modified: 2026-08-05T10:26:50.500Z
 ---
 
 # JavaScript Error Handling

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript higher-order functions
 created: 2020-08-27T14:28:18
-modified: 2026-08-05T07:58:56.684Z
+modified: 2026-08-05T10:26:50.502Z
 ---
 
 # JavaScript higher-order functions

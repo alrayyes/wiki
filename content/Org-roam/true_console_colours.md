@@ -2,7 +2,7 @@
 publish: true
 title: True Console Colours
 created: 2020-11-17T10:08:55
-modified: 2026-08-05T07:58:56.717Z
+modified: 2026-08-05T10:26:50.519Z
 ---
 
 # True Console Colours

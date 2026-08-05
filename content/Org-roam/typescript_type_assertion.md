@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Type Assertion
 created: 2020-10-02T10:17:45
-modified: 2026-08-05T07:58:56.719Z
+modified: 2026-08-05T10:26:50.521Z
 ---
 
 # TypeScript Type Assertion

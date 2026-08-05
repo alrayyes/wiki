@@ -2,7 +2,7 @@
 publish: true
 title: Commit guidelines
 created: 2020-11-15T14:16:20
-modified: 2026-08-05T07:58:56.675Z
+modified: 2026-08-05T10:26:50.496Z
 ---
 
 # Commit guidelines

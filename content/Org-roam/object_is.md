@@ -2,7 +2,7 @@
 publish: true
 title: Object.is
 created: 2020-11-13T09:53:00
-modified: 2026-08-05T07:58:56.699Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # Object.is

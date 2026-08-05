@@ -2,7 +2,7 @@
 publish: true
 title: containsAny()
 created: 2020-11-16T13:05:03
-modified: 2026-08-05T07:58:56.676Z
+modified: 2026-08-05T10:26:50.497Z
 ---
 
 # containsAny()

@@ -2,7 +2,7 @@
 publish: true
 title: Horizontal Tables
 created: 2020-11-13T18:09:28
-modified: 2026-08-05T07:58:56.685Z
+modified: 2026-08-05T10:26:50.502Z
 ---
 
 # Horizontal Tables

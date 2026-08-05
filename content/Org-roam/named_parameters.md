@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Named parameters
 created: 2020-09-22T16:21:27
-modified: 2026-08-05T07:58:56.698Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # JavaScript Named parameters

@@ -2,7 +2,7 @@
 publish: true
 title: Array.prototype.keys()
 created: 2020-11-13T10:44:54
-modified: 2026-08-05T07:58:56.671Z
+modified: 2026-08-05T10:26:50.494Z
 ---
 
 # Array.prototype.keys()

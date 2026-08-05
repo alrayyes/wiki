@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Async Iterator
 created: 2020-10-30T09:22:00
-modified: 2026-08-05T07:58:56.688Z
+modified: 2026-08-05T10:26:50.504Z
 ---
 
 # JavaScript Async Iterator

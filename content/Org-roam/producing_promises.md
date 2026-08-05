@@ -2,7 +2,7 @@
 publish: true
 title: Producing Promises
 created: 2020-11-11T09:52:30
-modified: 2026-08-05T07:58:56.704Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # Producing Promises

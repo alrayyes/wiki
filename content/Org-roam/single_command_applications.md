@@ -2,7 +2,7 @@
 publish: true
 title: Single Command Applications
 created: 2020-11-16T12:51:48
-modified: 2026-08-05T07:58:56.709Z
+modified: 2026-08-05T10:26:50.515Z
 ---
 
 # Single Command Applications

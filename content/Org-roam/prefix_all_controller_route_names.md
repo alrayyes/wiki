@@ -2,7 +2,7 @@
 publish: true
 title: Prefix all controller route names
 created: 2020-11-09T14:23:51
-modified: 2026-08-05T07:58:56.703Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # Prefix all controller route names

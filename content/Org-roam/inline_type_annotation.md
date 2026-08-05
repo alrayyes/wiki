@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Inline Type Annotation
 created: 2020-09-29T16:24:17
-modified: 2026-08-05T07:58:56.686Z
+modified: 2026-08-05T10:26:50.503Z
 ---
 
 # TypeScript Inline Type Annotation

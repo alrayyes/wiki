@@ -2,7 +2,7 @@
 publish: true
 title: noUncheckedIndexAccess
 created: 2020-11-26T10:49:31
-modified: 2026-08-05T07:58:56.698Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # noUncheckedIndexAccess

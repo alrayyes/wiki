@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp Unicode Property Escapes
 created: 2020-11-06T09:06:34
-modified: 2026-08-05T07:58:56.692Z
+modified: 2026-08-05T10:26:50.506Z
 ---
 
 # JavaScript RegExp Unicode Property Escapes

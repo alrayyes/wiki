@@ -2,7 +2,7 @@
 publish: true
 title: bluestocking
 created: 2020-10-29T20:14:15
-modified: 2026-08-05T07:58:56.673Z
+modified: 2026-08-05T10:26:50.495Z
 ---
 
 # bluestocking

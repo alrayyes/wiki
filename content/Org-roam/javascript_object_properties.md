@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Object Properties
 created: 2020-11-13T09:11:10
-modified: 2026-08-05T07:58:56.690Z
+modified: 2026-08-05T10:26:50.505Z
 ---
 
 # JavaScript Object Properties

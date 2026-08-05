@@ -2,7 +2,7 @@
 publish: true
 title: ExpressionLanguageSyntax Constraint
 created: 2020-11-16T13:55:23
-modified: 2026-08-05T07:58:56.682Z
+modified: 2026-08-05T10:26:50.501Z
 ---
 
 # ExpressionLanguageSyntax Constraint

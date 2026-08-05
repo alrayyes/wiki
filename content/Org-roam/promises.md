@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Promises
 created: 2020-09-11T15:43:51
-modified: 2026-08-05T07:58:56.704Z
+modified: 2026-08-05T10:26:50.513Z
 ---
 
 # JavaScript Promises

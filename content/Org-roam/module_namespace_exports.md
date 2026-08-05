@@ -2,7 +2,7 @@
 publish: true
 title: Module Namespace Exports
 created: 2020-11-16T17:03:47
-modified: 2026-08-05T07:58:56.697Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # Module Namespace Exports

@@ -2,7 +2,7 @@
 publish: true
 title: Golang flow control statements
 created: 2020-08-26T15:18:46
-modified: 2026-08-05T07:58:56.682Z
+modified: 2026-08-05T10:26:50.501Z
 ---
 
 # Golang flow control statements

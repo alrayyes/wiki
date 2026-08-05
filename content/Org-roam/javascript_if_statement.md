@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript If Statement
 created: 2020-10-30T09:38:32
-modified: 2026-08-05T07:58:56.689Z
+modified: 2026-08-05T10:26:50.505Z
 ---
 
 # JavaScript If Statement

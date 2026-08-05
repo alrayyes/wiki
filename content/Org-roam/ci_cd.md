@@ -2,7 +2,7 @@
 publish: true
 title: CI/CD
 created: 2022-05-07T13:18:35
-modified: 2026-08-05T07:58:56.674Z
+modified: 2026-08-05T10:26:50.496Z
 ---
 
 # CI/CD

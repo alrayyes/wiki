@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript WeakMaps
 created: 2020-10-12T09:47:49
-modified: 2026-08-05T07:58:56.695Z
+modified: 2026-08-05T10:26:50.509Z
 ---
 
 # JavaScript WeakMaps

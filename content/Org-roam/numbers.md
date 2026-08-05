@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Numbers
 created: 2020-09-22T16:44:16
-modified: 2026-08-05T07:58:56.699Z
+modified: 2026-08-05T10:26:50.510Z
 ---
 
 # JavaScript Numbers

@@ -2,7 +2,7 @@
 publish: true
 title: Switch expression
 created: 2020-11-13T12:20:00
-modified: 2026-08-05T07:58:56.711Z
+modified: 2026-08-05T10:26:50.516Z
 ---
 
 # Switch expression

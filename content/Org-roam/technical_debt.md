@@ -2,7 +2,7 @@
 publish: true
 title: Technical Debt
 created: 2021-04-05T11:48:13
-modified: 2026-08-05T07:58:56.716Z
+modified: 2026-08-05T10:26:50.518Z
 ---
 
 # Technical Debt
