@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-09T17:38:38.676Z
-modified: 2026-08-09T17:51:18.892Z
+modified: 2026-08-09T17:52:39.285Z
 ---
 
 # Index
 
 Welcome to my wiki. There are many like it, but this one is mine.
 
-Nearly all of it started life somewhere else:  years of [org-roam](https://www.orgroam.com)
+Nearly all of it started life somewhere else: years of [org-roam](https://www.orgroam.com)
 notes, exported and flattened into markdown. They are uneven on purpose. Some
 are worked-through explanations, some are one line I got tired of looking up for
 the fourth time, and a few are wrong in ways I haven't noticed yet. None of it is
