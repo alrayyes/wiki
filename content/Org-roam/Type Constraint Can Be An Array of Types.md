@@ -2,7 +2,7 @@
 publish: true
 title: Type Constraint Can Be An Array of Types
 created: 2020-11-13T17:28:16
-modified: 2026-08-12T09:32:15.640Z
+modified: 2026-08-12T09:44:58.361Z
 ---
 
 # Type Constraint Can Be An Array of Types

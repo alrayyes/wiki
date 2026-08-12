@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Recursive Conditional Types
 created: 2020-11-25T08:57:27
-modified: 2026-08-12T09:32:15.642Z
+modified: 2026-08-12T09:44:58.363Z
 ---
 
 # TypeScript Recursive Conditional Types

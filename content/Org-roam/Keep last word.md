@@ -2,7 +2,7 @@
 publish: true
 title: Keep last word
 created: 2020-11-16T13:03:27
-modified: 2026-08-12T09:32:15.622Z
+modified: 2026-08-12T09:44:58.339Z
 ---
 
 # Keep last word

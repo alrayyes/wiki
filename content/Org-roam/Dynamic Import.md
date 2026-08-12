@@ -2,7 +2,7 @@
 publish: true
 title: Dynamic Import
 created: 2020-11-16T17:01:51
-modified: 2026-08-12T09:32:15.602Z
+modified: 2026-08-12T09:44:58.320Z
 ---
 
 # Dynamic Import

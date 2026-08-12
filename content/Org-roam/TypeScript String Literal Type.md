@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript String Literal Type
 created: 2020-11-23T10:05:51
-modified: 2026-08-12T09:32:15.643Z
+modified: 2026-08-12T09:44:58.363Z
 ---
 
 # TypeScript String Literal Type

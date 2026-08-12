@@ -2,7 +2,7 @@
 publish: true
 title: Match expression
 created: 2020-11-13T12:18:13
-modified: 2026-08-12T09:32:15.623Z
+modified: 2026-08-12T09:44:58.341Z
 ---
 
 # Match expression

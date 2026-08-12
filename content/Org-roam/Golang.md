@@ -2,7 +2,7 @@
 publish: true
 title: Golang
 created: 2020-08-26T14:26:41
-modified: 2026-08-12T09:32:15.607Z
+modified: 2026-08-12T09:44:58.326Z
 ---
 
 # Golang

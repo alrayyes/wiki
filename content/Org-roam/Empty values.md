@@ -2,7 +2,7 @@
 publish: true
 title: Empty values
 created: 2020-09-22T16:48:30
-modified: 2026-08-12T09:32:15.602Z
+modified: 2026-08-12T09:44:58.321Z
 ---
 
 # Empty values

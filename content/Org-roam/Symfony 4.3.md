@@ -2,7 +2,7 @@
 publish: true
 title: Symfony 4.3
 created: 2020-11-12T12:01:18
-modified: 2026-08-12T09:32:15.635Z
+modified: 2026-08-12T09:44:58.354Z
 ---
 
 # Symfony 4.3

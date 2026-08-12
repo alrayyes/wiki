@@ -2,7 +2,7 @@
 publish: true
 title: Rust Pattern Syntax
 created: 2020-10-06T10:29:34
-modified: 2026-08-12T09:32:15.630Z
+modified: 2026-08-12T09:44:58.349Z
 ---
 
 # Rust Pattern Syntax

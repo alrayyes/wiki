@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript object getters & setters
 created: 2020-10-07T09:34:18
-modified: 2026-08-12T09:32:15.615Z
+modified: 2026-08-12T09:44:58.334Z
 ---
 
 # JavaScript object getters & setters

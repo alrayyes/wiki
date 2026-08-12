@@ -2,7 +2,7 @@
 publish: true
 title: PHP
 created: 2020-11-09T13:37:20
-modified: 2026-08-12T09:32:15.627Z
+modified: 2026-08-12T09:44:58.345Z
 ---
 
 # PHP

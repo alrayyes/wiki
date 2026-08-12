@@ -2,7 +2,7 @@
 publish: true
 title: PHP Mixed Type
 created: 2020-11-13T12:29:59
-modified: 2026-08-12T09:32:15.626Z
+modified: 2026-08-12T09:44:58.344Z
 ---
 
 # PHP Mixed Type

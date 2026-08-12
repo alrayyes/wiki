@@ -4,7 +4,7 @@ aliases:
   - lint:yaml
 title: lint:yaml
 created: 2020-11-16T14:12:32
-modified: 2026-08-12T09:32:15.622Z
+modified: 2026-08-12T09:44:58.340Z
 ---
 
 # lint:yaml

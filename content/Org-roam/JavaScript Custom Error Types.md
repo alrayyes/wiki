@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Custom Error Types
 created: 2020-11-11T09:36:51
-modified: 2026-08-12T09:32:15.613Z
+modified: 2026-08-12T09:44:58.331Z
 ---
 
 # JavaScript Custom Error Types

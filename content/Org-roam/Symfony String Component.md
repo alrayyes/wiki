@@ -2,7 +2,7 @@
 publish: true
 title: Symfony String Component
 created: 2020-11-13T18:34:42
-modified: 2026-08-12T09:32:15.638Z
+modified: 2026-08-12T09:44:58.358Z
 ---
 
 # Symfony String Component

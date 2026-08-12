@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript String Prototype Methods
 created: 2020-11-12T09:53:41
-modified: 2026-08-12T09:32:15.620Z
+modified: 2026-08-12T09:44:58.337Z
 ---
 
 # JavaScript String Prototype Methods

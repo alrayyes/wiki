@@ -2,7 +2,7 @@
 publish: true
 title: Goroutines
 created: 2020-09-01T14:11:41
-modified: 2026-08-12T09:32:15.607Z
+modified: 2026-08-12T09:44:58.326Z
 ---
 
 # Goroutines

@@ -2,7 +2,7 @@
 publish: true
 title: Type Constraint
 created: 2020-11-13T17:25:17
-modified: 2026-08-12T09:32:15.640Z
+modified: 2026-08-12T09:44:58.361Z
 ---
 
 # Type Constraint

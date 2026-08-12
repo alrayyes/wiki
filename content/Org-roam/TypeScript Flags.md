@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Flags
 created: 2020-11-27T10:10:43
-modified: 2026-08-12T09:32:15.641Z
+modified: 2026-08-12T09:44:58.362Z
 ---
 
 # TypeScript Flags

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Consuming Promises
 created: 2020-11-11T09:53:16
-modified: 2026-08-12T09:32:15.612Z
+modified: 2026-08-12T09:44:58.331Z
 ---
 
 # JavaScript Consuming Promises

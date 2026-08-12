@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript in Operator
 created: 2020-11-24T09:04:50
-modified: 2026-08-12T09:32:15.641Z
+modified: 2026-08-12T09:44:58.362Z
 ---
 
 # TypeScript in Operator

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Comparison Operators
 created: 2020-11-12T10:53:10
-modified: 2026-08-12T09:32:15.612Z
+modified: 2026-08-12T09:44:58.330Z
 ---
 
 # JavaScript Comparison Operators

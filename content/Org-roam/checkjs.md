@@ -2,7 +2,7 @@
 publish: true
 title: checkJs
 created: 2020-11-27T10:13:36
-modified: 2026-08-12T09:32:15.597Z
+modified: 2026-08-12T09:44:58.315Z
 ---
 
 # checkJs

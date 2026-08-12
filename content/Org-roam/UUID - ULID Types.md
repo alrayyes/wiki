@@ -4,7 +4,7 @@ aliases:
   - UUID / ULID Types
 title: UUID / ULID Types
 created: 2020-11-17T10:14:52
-modified: 2026-08-12T09:32:15.644Z
+modified: 2026-08-12T09:44:58.366Z
 ---
 
 # UUID / ULID Types

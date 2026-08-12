@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Proxies
 created: 2020-10-22T09:42:07
-modified: 2026-08-12T09:32:15.617Z
+modified: 2026-08-12T09:44:58.335Z
 ---
 
 # JavaScript Proxies

@@ -2,7 +2,7 @@
 publish: true
 title: anteroom
 created: 2020-11-09T12:34:52
-modified: 2026-08-12T09:32:15.592Z
+modified: 2026-08-12T09:44:58.310Z
 ---
 
 # anteroom

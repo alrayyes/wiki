@@ -2,7 +2,7 @@
 publish: true
 title: ES6
 created: 2020-10-30T09:34:04
-modified: 2026-08-12T09:32:15.602Z
+modified: 2026-08-12T09:44:58.321Z
 ---
 
 # ES6

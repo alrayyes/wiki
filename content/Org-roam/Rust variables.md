@@ -2,7 +2,7 @@
 publish: true
 title: Rust variables
 created: 2020-08-27T17:15:54
-modified: 2026-08-12T09:32:15.632Z
+modified: 2026-08-12T09:44:58.351Z
 ---
 
 # Rust variables

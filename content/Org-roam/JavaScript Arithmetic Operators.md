@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Arithmetic Operators
 created: 2020-11-12T10:38:49
-modified: 2026-08-12T09:32:15.610Z
+modified: 2026-08-12T09:44:58.329Z
 ---
 
 # JavaScript Arithmetic Operators

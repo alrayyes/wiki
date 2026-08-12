@@ -2,7 +2,7 @@
 publish: true
 title: Doctrine
 created: 2020-11-12T13:18:45
-modified: 2026-08-12T09:32:15.601Z
+modified: 2026-08-12T09:44:58.320Z
 ---
 
 # Doctrine

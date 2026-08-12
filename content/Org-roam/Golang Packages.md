@@ -2,7 +2,7 @@
 publish: true
 title: Golang Packages
 created: 2020-08-26T14:27:55
-modified: 2026-08-12T09:32:15.606Z
+modified: 2026-08-12T09:44:58.325Z
 ---
 
 # Golang Packages

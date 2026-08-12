@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Literal Type Guard
 created: 2020-11-24T09:10:25
-modified: 2026-08-12T09:32:15.642Z
+modified: 2026-08-12T09:44:58.362Z
 ---
 
 # TypeScript Literal Type Guard

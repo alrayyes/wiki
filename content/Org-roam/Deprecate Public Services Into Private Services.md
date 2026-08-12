@@ -2,7 +2,7 @@
 publish: true
 title: Deprecate Public Services Into Private Services
 created: 2020-11-16T13:47:58
-modified: 2026-08-12T09:32:15.600Z
+modified: 2026-08-12T09:44:58.319Z
 ---
 
 # Deprecate Public Services Into Private Services

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Array Prototype Methods
 created: 2020-10-09T09:03:31
-modified: 2026-08-12T09:32:15.611Z
+modified: 2026-08-12T09:44:58.329Z
 ---
 
 # JavaScript Array Prototype Methods

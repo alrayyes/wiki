@@ -2,7 +2,7 @@
 publish: true
 title: Binary Notation
 created: 2020-11-16T16:47:48
-modified: 2026-08-12T09:32:15.595Z
+modified: 2026-08-12T09:44:58.314Z
 ---
 
 # Binary Notation

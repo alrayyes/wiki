@@ -2,7 +2,7 @@
 publish: true
 title: Array.prototype.findIndex()
 created: 2020-11-13T10:43:32
-modified: 2026-08-12T09:32:15.594Z
+modified: 2026-08-12T09:44:58.311Z
 ---
 
 # Array.prototype.findIndex()

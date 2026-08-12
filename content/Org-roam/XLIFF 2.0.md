@@ -2,7 +2,7 @@
 publish: true
 title: XLIFF 2.0
 created: 2020-11-09T14:29:07
-modified: 2026-08-12T09:32:15.645Z
+modified: 2026-08-12T09:44:58.367Z
 ---
 
 # XLIFF 2.0

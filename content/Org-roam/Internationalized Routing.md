@@ -2,7 +2,7 @@
 publish: true
 title: Internationalized Routing
 created: 2020-11-10T15:45:48
-modified: 2026-08-12T09:32:15.609Z
+modified: 2026-08-12T09:44:58.328Z
 ---
 
 # Internationalized Routing

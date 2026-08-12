@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript function declarations
 created: 2020-10-06T11:11:25
-modified: 2026-08-12T09:32:15.614Z
+modified: 2026-08-12T09:44:58.332Z
 ---
 
 # JavaScript function declarations

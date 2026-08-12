@@ -2,7 +2,7 @@
 publish: true
 title: prig
 created: 2020-11-09T12:25:57
-modified: 2026-08-12T09:32:15.627Z
+modified: 2026-08-12T09:44:58.346Z
 ---
 
 # prig

@@ -2,7 +2,7 @@
 publish: true
 title: Object.fromEntries
 created: 2020-11-16T09:51:24
-modified: 2026-08-12T09:32:15.624Z
+modified: 2026-08-12T09:44:58.342Z
 ---
 
 # Object.fromEntries

@@ -2,7 +2,7 @@
 publish: true
 title: TryInto
 created: 2020-11-19T17:12:45
-modified: 2026-08-12T09:32:15.640Z
+modified: 2026-08-12T09:44:58.360Z
 ---
 
 # TryInto

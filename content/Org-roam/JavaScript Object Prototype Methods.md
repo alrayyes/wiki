@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Object Prototype Methods
 created: 2020-11-13T09:32:04
-modified: 2026-08-12T09:32:15.616Z
+modified: 2026-08-12T09:44:58.334Z
 ---
 
 # JavaScript Object Prototype Methods

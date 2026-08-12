@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript String startsWith Method
 created: 2020-11-12T09:55:25
-modified: 2026-08-12T09:32:15.620Z
+modified: 2026-08-12T09:44:58.338Z
 ---
 
 # JavaScript String startsWith Method

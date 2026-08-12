@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp Test Method
 created: 2020-11-04T10:17:23
-modified: 2026-08-12T09:32:15.618Z
+modified: 2026-08-12T09:44:58.336Z
 ---
 
 # JavaScript RegExp Test Method

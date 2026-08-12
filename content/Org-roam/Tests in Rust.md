@@ -2,7 +2,7 @@
 publish: true
 title: Tests in Rust
 created: 2020-09-18T18:35:24
-modified: 2026-08-12T09:32:15.639Z
+modified: 2026-08-12T09:44:58.359Z
 ---
 
 # Tests in Rust

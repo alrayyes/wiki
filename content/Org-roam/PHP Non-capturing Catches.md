@@ -2,7 +2,7 @@
 publish: true
 title: PHP Non-capturing Catches
 created: 2020-11-11T10:11:48
-modified: 2026-08-12T09:32:15.626Z
+modified: 2026-08-12T09:44:58.344Z
 ---
 
 # PHP Non-capturing Catches

@@ -2,7 +2,7 @@
 publish: true
 title: Catching Promise Errors
 created: 2020-11-11T09:51:00
-modified: 2026-08-12T09:32:15.596Z
+modified: 2026-08-12T09:44:58.315Z
 ---
 
 # Catching Promise Errors

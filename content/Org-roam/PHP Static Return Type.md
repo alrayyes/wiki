@@ -2,7 +2,7 @@
 publish: true
 title: PHP Static Return Type
 created: 2020-11-10T10:23:32
-modified: 2026-08-12T09:32:15.626Z
+modified: 2026-08-12T09:44:58.344Z
 ---
 
 # PHP Static Return Type

@@ -2,7 +2,7 @@
 publish: true
 title: Rust enums
 created: 2020-09-02T15:07:14
-modified: 2026-08-12T09:32:15.630Z
+modified: 2026-08-12T09:44:58.349Z
 ---
 
 # Rust enums

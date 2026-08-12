@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript New Keyword
 created: 2020-11-13T09:39:10
-modified: 2026-08-12T09:32:15.615Z
+modified: 2026-08-12T09:44:58.333Z
 ---
 
 # JavaScript New Keyword

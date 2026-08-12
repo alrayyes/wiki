@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp Replace Method
 created: 2020-11-04T10:23:43
-modified: 2026-08-12T09:32:15.618Z
+modified: 2026-08-12T09:44:58.336Z
 ---
 
 # JavaScript RegExp Replace Method

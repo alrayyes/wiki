@@ -2,7 +2,7 @@
 publish: true
 title: anathema
 created: 2020-11-09T12:24:45
-modified: 2026-08-12T09:32:15.592Z
+modified: 2026-08-12T09:44:58.310Z
 ---
 
 # anathema

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript For Await Of
 created: 2020-10-30T09:57:41
-modified: 2026-08-12T09:32:15.613Z
+modified: 2026-08-12T09:44:58.332Z
 ---
 
 # JavaScript For Await Of

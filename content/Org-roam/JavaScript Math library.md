@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Math library
 created: 2020-09-23T15:36:14
-modified: 2026-08-12T09:32:15.615Z
+modified: 2026-08-12T09:44:58.333Z
 ---
 
 # JavaScript Math library

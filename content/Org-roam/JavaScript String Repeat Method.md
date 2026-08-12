@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript String Repeat Method
 created: 2020-11-12T09:54:51
-modified: 2026-08-12T09:32:15.620Z
+modified: 2026-08-12T09:44:58.338Z
 ---
 
 # JavaScript String Repeat Method

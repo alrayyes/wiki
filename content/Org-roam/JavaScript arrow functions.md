@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript arrow functions
 created: 2020-10-06T11:13:49
-modified: 2026-08-12T09:32:15.611Z
+modified: 2026-08-12T09:44:58.329Z
 ---
 
 # JavaScript arrow functions

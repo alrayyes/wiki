@@ -2,7 +2,7 @@
 publish: true
 title: Fallback For Internationalized Routes
 created: 2020-11-11T11:16:36
-modified: 2026-08-12T09:32:15.604Z
+modified: 2026-08-12T09:44:58.323Z
 ---
 
 # Fallback For Internationalized Routes

@@ -2,7 +2,7 @@
 publish: true
 title: trimEnd
 created: 2020-11-16T10:02:39
-modified: 2026-08-12T09:32:15.640Z
+modified: 2026-08-12T09:44:58.360Z
 ---
 
 # trimEnd

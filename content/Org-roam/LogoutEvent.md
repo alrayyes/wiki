@@ -2,7 +2,7 @@
 publish: true
 title: LogoutEvent
 created: 2020-11-16T13:39:07
-modified: 2026-08-12T09:32:15.622Z
+modified: 2026-08-12T09:44:58.340Z
 ---
 
 # LogoutEvent

@@ -2,7 +2,7 @@
 publish: true
 title: PHP Throw Expression
 created: 2020-11-11T10:08:07
-modified: 2026-08-12T09:32:15.626Z
+modified: 2026-08-12T09:44:58.345Z
 ---
 
 # PHP Throw Expression

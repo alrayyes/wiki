@@ -2,7 +2,7 @@
 publish: true
 title: Deref Trait
 created: 2020-09-29T14:17:11
-modified: 2026-08-12T09:32:15.600Z
+modified: 2026-08-12T09:44:58.319Z
 ---
 
 # Deref Trait

@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript strictNullChecks
 created: 2020-11-24T09:15:30
-modified: 2026-08-12T09:32:15.642Z
+modified: 2026-08-12T09:44:58.363Z
 ---
 
 # TypeScript strictNullChecks

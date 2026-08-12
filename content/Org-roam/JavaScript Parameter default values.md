@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Parameter default values
 created: 2020-09-22T16:20:03
-modified: 2026-08-12T09:32:15.616Z
+modified: 2026-08-12T09:44:58.335Z
 ---
 
 # JavaScript Parameter default values

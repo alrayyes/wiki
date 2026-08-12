@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Generics
 created: 2020-09-29T16:30:51
-modified: 2026-08-12T09:32:15.641Z
+modified: 2026-08-12T09:44:58.362Z
 ---
 
 # TypeScript Generics

@@ -2,7 +2,7 @@
 publish: true
 title: Tests in Golang
 created: 2020-08-26T19:11:27
-modified: 2026-08-12T09:32:15.639Z
+modified: 2026-08-12T09:44:58.359Z
 ---
 
 # Tests in Golang

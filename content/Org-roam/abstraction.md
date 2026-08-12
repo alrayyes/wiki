@@ -2,7 +2,7 @@
 publish: true
 title: abstraction
 created: 2020-11-26T10:27:08
-modified: 2026-08-12T09:32:15.591Z
+modified: 2026-08-12T09:44:58.309Z
 ---
 
 # abstraction

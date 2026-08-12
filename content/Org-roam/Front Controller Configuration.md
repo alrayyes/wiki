@@ -2,7 +2,7 @@
 publish: true
 title: Front Controller Configuration
 created: 2020-11-17T11:44:43
-modified: 2026-08-12T09:32:15.604Z
+modified: 2026-08-12T09:44:58.323Z
 ---
 
 # Front Controller Configuration

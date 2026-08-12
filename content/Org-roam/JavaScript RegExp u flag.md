@@ -4,7 +4,7 @@ aliases:
   - JavaScript RegExp /u flag
 title: JavaScript RegExp /u flag
 created: 2020-11-10T09:51:39
-modified: 2026-08-12T09:32:15.618Z
+modified: 2026-08-12T09:44:58.336Z
 ---
 
 # JavaScript RegExp /u flag

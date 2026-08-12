@@ -4,7 +4,7 @@ aliases:
   - Binding / Variables in JavaScript
 title: Binding / Variables in JavaScript
 created: 2020-06-13T17:21:37
-modified: 2026-08-12T09:32:15.595Z
+modified: 2026-08-12T09:44:58.314Z
 ---
 
 # Binding / Variables in JavaScript

@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Index Signatures
 created: 2020-10-08T09:22:25
-modified: 2026-08-12T09:32:15.642Z
+modified: 2026-08-12T09:44:58.362Z
 ---
 
 # TypeScript Index Signatures

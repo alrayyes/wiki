@@ -2,7 +2,7 @@
 publish: true
 title: Recursion in JavaScript
 created: 2020-07-02T20:44:37
-modified: 2026-08-12T09:32:15.629Z
+modified: 2026-08-12T09:44:58.347Z
 ---
 
 # Recursion in JavaScript

@@ -2,7 +2,7 @@
 publish: true
 title: Infinity
 created: 2020-11-16T16:39:25
-modified: 2026-08-12T09:32:15.609Z
+modified: 2026-08-12T09:44:58.327Z
 ---
 
 # Infinity

@@ -2,7 +2,7 @@
 publish: true
 title: Autowiring By Type and Name
 created: 2020-11-11T10:48:14
-modified: 2026-08-12T09:32:15.595Z
+modified: 2026-08-12T09:44:58.313Z
 ---
 
 # Autowiring By Type and Name

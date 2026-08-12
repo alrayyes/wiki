@@ -2,7 +2,7 @@
 publish: true
 title: Stateless Route Attribute
 created: 2020-11-16T13:10:57
-modified: 2026-08-12T09:32:15.633Z
+modified: 2026-08-12T09:44:58.353Z
 ---
 
 # Stateless Route Attribute

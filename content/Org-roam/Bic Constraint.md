@@ -2,7 +2,7 @@
 publish: true
 title: Bic Constraint
 created: 2020-11-12T12:29:29
-modified: 2026-08-12T09:32:15.595Z
+modified: 2026-08-12T09:44:58.313Z
 ---
 
 # Bic Constraint

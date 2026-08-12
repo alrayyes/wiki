@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp Exec Method
 created: 2020-11-04T10:19:24
-modified: 2026-08-12T09:32:15.617Z
+modified: 2026-08-12T09:44:58.335Z
 ---
 
 # JavaScript RegExp Exec Method

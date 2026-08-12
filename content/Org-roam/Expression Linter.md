@@ -2,7 +2,7 @@
 publish: true
 title: Expression Linter
 created: 2020-11-16T13:59:15
-modified: 2026-08-12T09:32:15.603Z
+modified: 2026-08-12T09:44:58.322Z
 ---
 
 # Expression Linter

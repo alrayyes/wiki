@@ -2,7 +2,7 @@
 publish: true
 title: str_contains()
 created: 2020-11-13T11:52:31
-modified: 2026-08-12T09:32:15.633Z
+modified: 2026-08-12T09:44:58.353Z
 ---
 
 # str\_contains()

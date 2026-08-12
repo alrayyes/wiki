@@ -2,7 +2,7 @@
 publish: true
 title: Symfony RateLimiter Component
 created: 2020-11-17T11:34:04
-modified: 2026-08-12T09:32:15.637Z
+modified: 2026-08-12T09:44:58.357Z
 ---
 
 # Symfony RateLimiter Component

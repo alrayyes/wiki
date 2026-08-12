@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Tuple Type
 created: 2020-09-29T16:36:24
-modified: 2026-08-12T09:32:15.643Z
+modified: 2026-08-12T09:44:58.363Z
 ---
 
 # TypeScript Tuple Type

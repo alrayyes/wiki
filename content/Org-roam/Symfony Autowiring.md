@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Autowiring
 created: 2020-11-11T11:12:55
-modified: 2026-08-12T09:32:15.635Z
+modified: 2026-08-12T09:44:58.355Z
 ---
 
 # Symfony Autowiring

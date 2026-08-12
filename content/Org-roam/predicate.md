@@ -2,7 +2,7 @@
 publish: true
 title: predicate
 created: 2020-11-26T10:13:27
-modified: 2026-08-12T09:32:15.627Z
+modified: 2026-08-12T09:44:58.345Z
 ---
 
 # predicate

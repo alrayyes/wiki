@@ -2,7 +2,7 @@
 publish: true
 title: Carthaginian peace
 created: 2020-10-29T19:48:38
-modified: 2026-08-12T09:32:15.596Z
+modified: 2026-08-12T09:44:58.315Z
 ---
 
 # Carthaginian peace

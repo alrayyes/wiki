@@ -2,7 +2,7 @@
 publish: true
 title: Pseudo-localization Translator
 created: 2020-11-17T10:01:12
-modified: 2026-08-12T09:32:15.628Z
+modified: 2026-08-12T09:44:58.346Z
 ---
 
 # Pseudo-localization Translator

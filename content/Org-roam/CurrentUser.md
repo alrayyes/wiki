@@ -2,7 +2,7 @@
 publish: true
 title: CurrentUser
 created: 2020-11-17T10:27:46
-modified: 2026-08-12T09:32:15.599Z
+modified: 2026-08-12T09:44:58.318Z
 ---
 
 # CurrentUser

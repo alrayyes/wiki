@@ -2,7 +2,7 @@
 publish: true
 title: horizontalTable()
 created: 2020-11-13T18:12:35
-modified: 2026-08-12T09:32:15.608Z
+modified: 2026-08-12T09:44:58.326Z
 ---
 
 # horizontalTable()

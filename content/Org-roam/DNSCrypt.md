@@ -2,7 +2,7 @@
 publish: true
 title: DNSCrypt
 created: 2022-05-07T13:26:57
-modified: 2026-08-12T09:32:15.601Z
+modified: 2026-08-12T09:44:58.320Z
 ---
 
 # DNSCrypt

@@ -2,7 +2,7 @@
 publish: true
 title: Golang Functions
 created: 2020-08-26T15:13:37
-modified: 2026-08-12T09:32:15.606Z
+modified: 2026-08-12T09:44:58.325Z
 ---
 
 # Golang Functions

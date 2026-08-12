@@ -2,7 +2,7 @@
 publish: true
 title: Readonly
 created: 2020-10-05T17:12:53
-modified: 2026-08-12T09:32:15.628Z
+modified: 2026-08-12T09:44:58.347Z
 ---
 
 # Readonly

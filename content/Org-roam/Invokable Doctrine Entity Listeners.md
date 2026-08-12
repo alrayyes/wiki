@@ -2,7 +2,7 @@
 publish: true
 title: Invokable Doctrine Entity Listeners
 created: 2020-11-13T18:07:22
-modified: 2026-08-12T09:32:15.609Z
+modified: 2026-08-12T09:44:58.328Z
 ---
 
 # Invokable Doctrine Entity Listeners

@@ -4,7 +4,7 @@ aliases:
   - First make the change easy, then make the easy change.
 title: First make the change easy, then make the easy change.
 created: 2025-01-30T18:48:54
-modified: 2026-08-12T09:32:15.604Z
+modified: 2026-08-12T09:44:58.323Z
 ---
 
 # First make the change easy, then make the easy change.

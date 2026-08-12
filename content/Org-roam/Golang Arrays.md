@@ -2,7 +2,7 @@
 publish: true
 title: Golang Arrays
 created: 2020-08-28T18:23:27
-modified: 2026-08-12T09:32:15.605Z
+modified: 2026-08-12T09:44:58.324Z
 ---
 
 # Golang Arrays

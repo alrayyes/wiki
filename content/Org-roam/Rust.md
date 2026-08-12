@@ -2,7 +2,7 @@
 publish: true
 title: Rust
 created: 2020-07-04T15:24:42
-modified: 2026-08-12T09:32:15.632Z
+modified: 2026-08-12T09:44:58.351Z
 ---
 
 # Rust

@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Interfaces
 created: 2020-09-29T16:22:20
-modified: 2026-08-12T09:32:15.642Z
+modified: 2026-08-12T09:44:58.362Z
 ---
 
 # TypeScript Interfaces

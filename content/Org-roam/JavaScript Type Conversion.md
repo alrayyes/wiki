@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Type Conversion
 created: 2020-06-13T17:07:56
-modified: 2026-08-12T09:32:15.620Z
+modified: 2026-08-12T09:44:58.338Z
 ---
 
 # JavaScript Type Conversion

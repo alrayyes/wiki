@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Constraints
 created: 2020-11-12T12:19:38
-modified: 2026-08-12T09:32:15.636Z
+modified: 2026-08-12T09:44:58.355Z
 ---
 
 # Symfony Constraints

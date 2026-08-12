@@ -2,7 +2,7 @@
 publish: true
 title: Subscribing to events in the micro kernel
 created: 2020-11-09T15:01:09
-modified: 2026-08-12T09:32:15.634Z
+modified: 2026-08-12T09:44:58.353Z
 ---
 
 # Subscribing to events in the micro kernel

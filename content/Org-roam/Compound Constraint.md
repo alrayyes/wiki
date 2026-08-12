@@ -2,7 +2,7 @@
 publish: true
 title: Compound Constraint
 created: 2020-11-16T12:42:10
-modified: 2026-08-12T09:32:15.598Z
+modified: 2026-08-12T09:44:58.317Z
 ---
 
 # Compound Constraint

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Conditional (Ternary) Operator
 created: 2020-11-12T11:00:25
-modified: 2026-08-12T09:32:15.612Z
+modified: 2026-08-12T09:44:58.331Z
 ---
 
 # JavaScript Conditional (Ternary) Operator

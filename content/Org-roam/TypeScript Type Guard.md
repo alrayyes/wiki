@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Type Guard
 created: 2020-10-02T10:24:55
-modified: 2026-08-12T09:32:15.643Z
+modified: 2026-08-12T09:44:58.364Z
 ---
 
 # TypeScript Type Guard

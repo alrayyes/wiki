@@ -4,7 +4,7 @@ aliases:
   - info() / setInfo()
 title: info() / setInfo()
 created: 2020-11-16T14:30:04
-modified: 2026-08-12T09:32:15.609Z
+modified: 2026-08-12T09:44:58.327Z
 ---
 
 # info() / setInfo()

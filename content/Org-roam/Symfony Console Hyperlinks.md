@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Console Hyperlinks
 created: 2020-11-12T12:03:58
-modified: 2026-08-12T09:32:15.636Z
+modified: 2026-08-12T09:44:58.355Z
 ---
 
 # Symfony Console Hyperlinks

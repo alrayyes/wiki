@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Routing Annotations
 created: 2020-11-17T10:56:17
-modified: 2026-08-12T09:32:15.637Z
+modified: 2026-08-12T09:44:58.357Z
 ---
 
 # Symfony Routing Annotations

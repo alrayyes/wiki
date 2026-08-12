@@ -2,7 +2,7 @@
 publish: true
 title: Search Aliases
 created: 2020-11-19T17:07:10
-modified: 2026-08-12T09:32:15.632Z
+modified: 2026-08-12T09:44:58.351Z
 ---
 
 # Search Aliases

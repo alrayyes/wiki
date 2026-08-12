@@ -2,7 +2,7 @@
 publish: true
 title: Workflow PlanetUML format dump
 created: 2020-11-10T15:40:17
-modified: 2026-08-12T09:32:15.645Z
+modified: 2026-08-12T09:44:58.367Z
 ---
 
 # Workflow PlanetUML format dump

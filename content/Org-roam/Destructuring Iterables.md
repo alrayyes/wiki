@@ -2,7 +2,7 @@
 publish: true
 title: Destructuring Iterables
 created: 2020-11-03T11:20:01
-modified: 2026-08-12T09:32:15.600Z
+modified: 2026-08-12T09:44:58.319Z
 ---
 
 # Destructuring Iterables

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Instanceof Operator
 created: 2020-11-13T09:42:46
-modified: 2026-08-12T09:32:15.614Z
+modified: 2026-08-12T09:44:58.332Z
 ---
 
 # JavaScript Instanceof Operator

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript TypeError
 created: 2020-11-11T09:34:00
-modified: 2026-08-12T09:32:15.621Z
+modified: 2026-08-12T09:44:58.338Z
 ---
 
 # JavaScript TypeError

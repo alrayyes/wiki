@@ -2,7 +2,7 @@
 publish: true
 title: Number Constraints
 created: 2020-11-12T14:09:17
-modified: 2026-08-12T09:32:15.624Z
+modified: 2026-08-12T09:44:58.342Z
 ---
 
 # Number Constraints

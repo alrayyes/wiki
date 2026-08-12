@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Class Notation
 created: 2020-10-08T09:03:16
-modified: 2026-08-12T09:32:15.612Z
+modified: 2026-08-12T09:44:58.330Z
 ---
 
 # JavaScript Class Notation

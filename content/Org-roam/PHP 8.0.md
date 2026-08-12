@@ -2,7 +2,7 @@
 publish: true
 title: PHP 8.0
 created: 2020-11-09T13:38:34
-modified: 2026-08-12T09:32:15.625Z
+modified: 2026-08-12T09:44:58.343Z
 ---
 
 # PHP 8.0

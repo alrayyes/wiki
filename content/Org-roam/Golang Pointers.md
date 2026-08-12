@@ -2,7 +2,7 @@
 publish: true
 title: Golang Pointers
 created: 2020-08-28T18:09:57
-modified: 2026-08-12T09:32:15.606Z
+modified: 2026-08-12T09:44:58.325Z
 ---
 
 # Golang Pointers

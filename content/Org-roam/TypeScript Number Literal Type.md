@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Number Literal Type
 created: 2020-11-23T10:11:23
-modified: 2026-08-12T09:32:15.642Z
+modified: 2026-08-12T09:44:58.363Z
 ---
 
 # TypeScript Number Literal Type

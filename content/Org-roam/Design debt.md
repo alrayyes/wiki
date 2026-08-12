@@ -2,7 +2,7 @@
 publish: true
 title: Design debt
 created: 2021-04-05T11:53:33
-modified: 2026-08-12T09:32:15.600Z
+modified: 2026-08-12T09:44:58.319Z
 ---
 
 # Design debt

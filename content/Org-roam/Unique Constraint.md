@@ -2,7 +2,7 @@
 publish: true
 title: Unique Constraint
 created: 2020-11-12T13:23:31
-modified: 2026-08-12T09:32:15.644Z
+modified: 2026-08-12T09:44:58.365Z
 ---
 
 # Unique Constraint

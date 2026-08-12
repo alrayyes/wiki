@@ -2,7 +2,7 @@
 publish: true
 title: react-jsx
 created: 2020-11-30T08:52:53
-modified: 2026-08-12T09:32:15.628Z
+modified: 2026-08-12T09:44:58.347Z
 ---
 
 # react-jsx

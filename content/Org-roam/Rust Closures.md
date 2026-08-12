@@ -2,7 +2,7 @@
 publish: true
 title: Rust Closures
 created: 2020-09-23T14:40:22
-modified: 2026-08-12T09:32:15.630Z
+modified: 2026-08-12T09:44:58.348Z
 ---
 
 # Rust Closures

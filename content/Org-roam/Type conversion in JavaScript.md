@@ -2,7 +2,7 @@
 publish: true
 title: Type conversion in JavaScript
 created: 2020-06-13T17:07:56
-modified: 2026-08-12T09:32:15.640Z
+modified: 2026-08-12T09:44:58.361Z
 ---
 
 # Type conversion in JavaScript

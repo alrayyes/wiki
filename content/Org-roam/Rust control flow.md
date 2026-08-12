@@ -2,7 +2,7 @@
 publish: true
 title: Rust control flow
 created: 2020-08-27T19:04:43
-modified: 2026-08-12T09:32:15.630Z
+modified: 2026-08-12T09:44:58.348Z
 ---
 
 # Rust control flow

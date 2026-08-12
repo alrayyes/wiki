@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Classes
 created: 2020-10-09T10:44:11
-modified: 2026-08-12T09:32:15.641Z
+modified: 2026-08-12T09:44:58.361Z
 ---
 
 # TypeScript Classes

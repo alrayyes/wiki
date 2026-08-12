@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Subtraction Operator
 created: 2020-11-12T10:41:44
-modified: 2026-08-12T09:32:15.620Z
+modified: 2026-08-12T09:44:58.338Z
 ---
 
 # JavaScript Subtraction Operator

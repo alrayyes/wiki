@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Books
 created: 2020-06-13T17:09:34
-modified: 2026-08-12T09:32:15.611Z
+modified: 2026-08-12T09:44:58.330Z
 ---
 
 # JavaScript Books

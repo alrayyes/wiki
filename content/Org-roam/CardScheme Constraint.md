@@ -2,7 +2,7 @@
 publish: true
 title: CardScheme Constraint
 created: 2020-11-12T12:37:04
-modified: 2026-08-12T09:32:15.596Z
+modified: 2026-08-12T09:44:58.314Z
 ---
 
 # CardScheme Constraint

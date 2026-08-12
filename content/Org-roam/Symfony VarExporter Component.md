@@ -2,7 +2,7 @@
 publish: true
 title: Symfony VarExporter Component
 created: 2020-11-11T10:34:42
-modified: 2026-08-12T09:32:15.638Z
+modified: 2026-08-12T09:44:58.359Z
 ---
 
 # Symfony VarExporter Component

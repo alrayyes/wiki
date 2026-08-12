@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Exceptions Finally
 created: 2020-11-11T09:40:33
-modified: 2026-08-12T09:32:15.613Z
+modified: 2026-08-12T09:44:58.331Z
 ---
 
 # JavaScript Exceptions Finally

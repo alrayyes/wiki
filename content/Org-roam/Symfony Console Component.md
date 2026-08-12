@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Console Component
 created: 2020-11-09T14:13:25
-modified: 2026-08-12T09:32:15.635Z
+modified: 2026-08-12T09:44:58.355Z
 ---
 
 # Symfony Console Component

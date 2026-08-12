@@ -2,7 +2,7 @@
 publish: true
 title: iterate() method
 created: 2020-11-12T13:04:35
-modified: 2026-08-12T09:32:15.610Z
+modified: 2026-08-12T09:44:58.329Z
 ---
 
 # iterate() method

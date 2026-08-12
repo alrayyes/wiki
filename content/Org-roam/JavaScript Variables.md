@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Variables
 created: 2020-06-13T17:05:32
-modified: 2026-08-12T09:32:15.621Z
+modified: 2026-08-12T09:44:58.339Z
 ---
 
 # JavaScript Variables

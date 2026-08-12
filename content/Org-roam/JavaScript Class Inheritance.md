@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Class Inheritance
 created: 2020-10-08T09:06:13
-modified: 2026-08-12T09:32:15.612Z
+modified: 2026-08-12T09:44:58.330Z
 ---
 
 # JavaScript Class Inheritance

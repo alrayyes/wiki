@@ -2,7 +2,7 @@
 publish: true
 title: Local Service Binding
 created: 2020-11-09T15:31:59
-modified: 2026-08-12T09:32:15.622Z
+modified: 2026-08-12T09:44:58.340Z
 ---
 
 # Local Service Binding

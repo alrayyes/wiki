@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Iterator
 created: 2020-10-14T09:28:46
-modified: 2026-08-12T09:32:15.614Z
+modified: 2026-08-12T09:44:58.333Z
 ---
 
 # JavaScript Iterator

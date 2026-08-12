@@ -2,7 +2,7 @@
 publish: true
 title: fianchetto
 created: 2020-11-09T12:09:12
-modified: 2026-08-12T09:32:15.604Z
+modified: 2026-08-12T09:44:58.323Z
 ---
 
 # fianchetto

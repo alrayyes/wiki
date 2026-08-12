@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Controller Argument Attributes
 created: 2020-11-17T10:24:40
-modified: 2026-08-12T09:32:15.636Z
+modified: 2026-08-12T09:44:58.356Z
 ---
 
 # Symfony Controller Argument Attributes

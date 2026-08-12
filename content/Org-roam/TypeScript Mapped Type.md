@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Mapped Type
 created: 2020-11-24T08:53:35
-modified: 2026-08-12T09:32:15.642Z
+modified: 2026-08-12T09:44:58.363Z
 ---
 
 # TypeScript Mapped Type

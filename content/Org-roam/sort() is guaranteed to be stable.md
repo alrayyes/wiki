@@ -4,7 +4,7 @@ aliases:
   - .sort() is guaranteed to be stable
 title: .sort() is guaranteed to be stable
 created: 2020-11-16T15:58:10
-modified: 2026-08-12T09:32:15.633Z
+modified: 2026-08-12T09:44:58.352Z
 ---
 
 # .sort() is guaranteed to be stable

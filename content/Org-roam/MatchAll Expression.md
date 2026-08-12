@@ -2,7 +2,7 @@
 publish: true
 title: MatchAll Expression
 created: 2020-11-16T16:53:24
-modified: 2026-08-12T09:32:15.623Z
+modified: 2026-08-12T09:44:58.341Z
 ---
 
 # MatchAll Expression

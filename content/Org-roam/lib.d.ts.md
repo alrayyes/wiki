@@ -2,7 +2,7 @@
 publish: true
 title: lib.d.ts
 created: 2020-10-01T10:55:45
-modified: 2026-08-12T09:32:15.622Z
+modified: 2026-08-12T09:44:58.340Z
 ---
 
 # lib.d.ts

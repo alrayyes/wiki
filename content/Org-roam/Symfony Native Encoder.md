@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Native Encoder
 created: 2020-11-12T13:58:51
-modified: 2026-08-12T09:32:15.637Z
+modified: 2026-08-12T09:44:58.357Z
 ---
 
 # Symfony Native Encoder
