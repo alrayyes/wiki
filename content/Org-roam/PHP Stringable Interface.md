@@ -2,7 +2,7 @@
 publish: true
 title: PHP Stringable Interface
 created: 2020-11-10T10:34:09
-modified: 2026-08-12T09:44:58.344Z
+modified: 2026-08-12T10:26:13.193Z
 ---
 
 # PHP Stringable Interface

@@ -2,7 +2,7 @@
 publish: true
 title: debug autowiring
 created: 2020-11-09T15:19:37
-modified: 2026-08-12T09:44:58.318Z
+modified: 2026-08-12T10:26:13.163Z
 ---
 
 # debug autowiring

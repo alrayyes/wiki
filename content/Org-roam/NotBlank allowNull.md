@@ -2,7 +2,7 @@
 publish: true
 title: NotBlank allowNull
 created: 2020-11-12T13:08:16
-modified: 2026-08-12T09:44:58.341Z
+modified: 2026-08-12T10:26:13.189Z
 ---
 
 # NotBlank allowNull

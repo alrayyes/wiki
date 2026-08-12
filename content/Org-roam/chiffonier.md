@@ -2,7 +2,7 @@
 publish: true
 title: chiffonier
 created: 2020-11-04T09:02:29
-modified: 2026-08-12T09:44:58.315Z
+modified: 2026-08-12T10:26:13.160Z
 ---
 
 # chiffonier

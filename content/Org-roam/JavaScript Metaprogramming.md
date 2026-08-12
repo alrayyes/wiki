@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Metaprogramming
 created: 2020-10-22T09:54:38
-modified: 2026-08-12T09:44:58.333Z
+modified: 2026-08-12T10:26:13.179Z
 ---
 
 # JavaScript Metaprogramming

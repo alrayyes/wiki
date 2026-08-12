@@ -2,7 +2,7 @@
 publish: true
 title: Rust books & exercises
 created: 2020-08-27T17:13:18
-modified: 2026-08-12T09:44:58.348Z
+modified: 2026-08-12T10:26:13.197Z
 ---
 
 # Rust books & exercises

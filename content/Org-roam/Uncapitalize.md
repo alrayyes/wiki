@@ -2,7 +2,7 @@
 publish: true
 title: Uncapitalize
 created: 2020-11-23T10:34:00
-modified: 2026-08-12T09:44:58.365Z
+modified: 2026-08-12T10:26:13.214Z
 ---
 
 # Uncapitalize

@@ -2,7 +2,7 @@
 publish: true
 title: str_ends_with()
 created: 2020-11-13T11:54:52
-modified: 2026-08-12T09:44:58.353Z
+modified: 2026-08-12T10:26:13.202Z
 ---
 
 # str\_ends\_with()

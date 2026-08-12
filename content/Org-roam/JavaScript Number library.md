@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Number library
 created: 2020-09-23T15:34:25
-modified: 2026-08-12T09:44:58.333Z
+modified: 2026-08-12T10:26:13.180Z
 ---
 
 # JavaScript Number library

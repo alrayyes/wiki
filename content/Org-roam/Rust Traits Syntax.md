@@ -2,7 +2,7 @@
 publish: true
 title: Rust Traits Syntax
 created: 2020-09-17T16:32:03
-modified: 2026-08-12T09:44:58.350Z
+modified: 2026-08-12T10:26:13.199Z
 ---
 
 # Rust Traits Syntax

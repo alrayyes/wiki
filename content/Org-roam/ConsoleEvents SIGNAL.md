@@ -4,7 +4,7 @@ aliases:
   - ConsoleEvents::SIGNAL
 title: ConsoleEvents::SIGNAL
 created: 2020-11-17T11:51:46
-modified: 2026-08-12T09:44:58.317Z
+modified: 2026-08-12T10:26:13.162Z
 ---
 
 # ConsoleEvents::SIGNAL

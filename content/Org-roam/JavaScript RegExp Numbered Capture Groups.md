@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp Numbered Capture Groups
 created: 2020-11-04T09:58:51
-modified: 2026-08-12T09:44:58.336Z
+modified: 2026-08-12T10:26:13.182Z
 ---
 
 # JavaScript RegExp Numbered Capture Groups

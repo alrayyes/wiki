@@ -2,7 +2,7 @@
 publish: true
 title: react-jsxdev
 created: 2020-11-30T08:53:17
-modified: 2026-08-12T09:44:58.347Z
+modified: 2026-08-12T10:26:13.195Z
 ---
 
 # react-jsxdev

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Maps
 created: 2020-10-12T09:37:45
-modified: 2026-08-12T09:44:58.333Z
+modified: 2026-08-12T10:26:13.179Z
 ---
 
 # JavaScript Maps

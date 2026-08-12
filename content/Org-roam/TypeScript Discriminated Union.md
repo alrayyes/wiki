@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Discriminated Union
 created: 2020-10-07T10:11:33
-modified: 2026-08-12T09:44:58.361Z
+modified: 2026-08-12T10:26:13.211Z
 ---
 
 # TypeScript Discriminated Union

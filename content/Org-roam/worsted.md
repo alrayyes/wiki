@@ -2,7 +2,7 @@
 publish: true
 title: worsted
 created: 2020-11-09T12:33:26
-modified: 2026-08-12T09:44:58.367Z
+modified: 2026-08-12T10:26:13.216Z
 ---
 
 # worsted

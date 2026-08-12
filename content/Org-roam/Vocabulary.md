@@ -2,7 +2,7 @@
 publish: true
 title: Vocabulary
 created: 2020-07-04T15:22:49
-modified: 2026-08-12T09:44:58.366Z
+modified: 2026-08-12T10:26:13.215Z
 ---
 
 # Vocabulary

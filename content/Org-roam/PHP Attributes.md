@@ -2,7 +2,7 @@
 publish: true
 title: PHP Attributes
 created: 2020-11-10T10:04:20
-modified: 2026-08-12T09:44:58.343Z
+modified: 2026-08-12T10:26:13.192Z
 ---
 
 # PHP Attributes

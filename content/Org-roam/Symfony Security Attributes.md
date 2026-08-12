@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Security Attributes
 created: 2020-11-16T12:15:19
-modified: 2026-08-12T09:44:58.357Z
+modified: 2026-08-12T10:26:13.206Z
 ---
 
 # Symfony Security Attributes

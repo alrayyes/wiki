@@ -2,7 +2,7 @@
 publish: true
 title: Trailing Comma in Parameter Lists
 created: 2020-11-12T11:32:36
-modified: 2026-08-12T09:44:58.360Z
+modified: 2026-08-12T10:26:13.209Z
 ---
 
 # Trailing Comma in Parameter Lists

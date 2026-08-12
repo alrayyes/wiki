@@ -2,7 +2,7 @@
 publish: true
 title: Destructuring Objects
 created: 2020-11-03T11:17:46
-modified: 2026-08-12T09:44:58.319Z
+modified: 2026-08-12T10:26:13.165Z
 ---
 
 # Destructuring Objects

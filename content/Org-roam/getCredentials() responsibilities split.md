@@ -2,7 +2,7 @@
 publish: true
 title: getCredentials() responsibilities split
 created: 2020-11-09T15:25:27
-modified: 2026-08-12T09:44:58.324Z
+modified: 2026-08-12T10:26:13.169Z
 ---
 
 # getCredentials() responsibilities split

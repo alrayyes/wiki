@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Destructuring
 created: 2020-09-22T16:08:50
-modified: 2026-08-12T09:44:58.331Z
+modified: 2026-08-12T10:26:13.177Z
 ---
 
 # JavaScript Destructuring

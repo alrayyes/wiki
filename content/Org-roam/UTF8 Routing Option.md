@@ -2,7 +2,7 @@
 publish: true
 title: UTF8 Routing Option
 created: 2020-11-12T13:27:47
-modified: 2026-08-12T09:44:58.365Z
+modified: 2026-08-12T10:26:13.214Z
 ---
 
 # UTF8 Routing Option

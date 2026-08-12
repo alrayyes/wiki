@@ -2,7 +2,7 @@
 publish: true
 title: antecedent
 created: 2020-10-30T19:57:42
-modified: 2026-08-12T09:44:58.310Z
+modified: 2026-08-12T10:26:13.156Z
 ---
 
 # antecedent

@@ -4,7 +4,7 @@ aliases:
   - RefCell<T>
 title: RefCell<T>
 created: 2020-09-29T15:26:28
-modified: 2026-08-12T09:44:58.347Z
+modified: 2026-08-12T10:26:13.196Z
 ---
 
 # RefCell<T>

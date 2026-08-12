@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Attributes
 created: 2020-11-17T11:14:10
-modified: 2026-08-12T09:44:58.355Z
+modified: 2026-08-12T10:26:13.204Z
 ---
 
 # Symfony Attributes

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Async Functions
 created: 2020-10-26T10:37:14
-modified: 2026-08-12T09:44:58.329Z
+modified: 2026-08-12T10:26:13.175Z
 ---
 
 # JavaScript Async Functions

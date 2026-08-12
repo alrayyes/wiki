@@ -2,7 +2,7 @@
 publish: true
 title: get_debug_type()
 created: 2020-11-13T11:59:39
-modified: 2026-08-12T09:44:58.324Z
+modified: 2026-08-12T10:26:13.169Z
 ---
 
 # get\_debug\_type()

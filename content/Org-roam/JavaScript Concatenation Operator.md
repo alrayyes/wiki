@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Concatenation Operator
 created: 2020-11-12T10:49:34
-modified: 2026-08-12T09:44:58.330Z
+modified: 2026-08-12T10:26:13.176Z
 ---
 
 # JavaScript Concatenation Operator

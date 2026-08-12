@@ -2,7 +2,7 @@
 publish: true
 title: Golang Errors
 created: 2020-09-09T20:24:54
-modified: 2026-08-12T09:44:58.324Z
+modified: 2026-08-12T10:26:13.170Z
 ---
 
 # Golang Errors

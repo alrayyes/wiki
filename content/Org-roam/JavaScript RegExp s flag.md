@@ -4,7 +4,7 @@ aliases:
   - JavaScript RegExp /s flag
 title: JavaScript RegExp /s flag
 created: 2020-11-10T09:48:07
-modified: 2026-08-12T09:44:58.336Z
+modified: 2026-08-12T10:26:13.182Z
 ---
 
 # JavaScript RegExp /s flag

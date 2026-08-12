@@ -2,7 +2,7 @@
 publish: true
 title: Rust Pointers
 created: 2020-11-20T10:20:04
-modified: 2026-08-12T09:44:58.349Z
+modified: 2026-08-12T10:26:13.198Z
 ---
 
 # Rust Pointers

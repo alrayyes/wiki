@@ -2,7 +2,7 @@
 publish: true
 title: Service Decoration
 created: 2020-11-16T13:28:26
-modified: 2026-08-12T09:44:58.352Z
+modified: 2026-08-12T10:26:13.201Z
 ---
 
 # Service Decoration

@@ -2,7 +2,7 @@
 publish: true
 title: PHP Named Arguments
 created: 2020-11-12T11:19:10
-modified: 2026-08-12T09:44:58.344Z
+modified: 2026-08-12T10:26:13.192Z
 ---
 
 # PHP Named Arguments

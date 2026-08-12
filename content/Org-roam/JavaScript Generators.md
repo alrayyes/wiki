@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Generators
 created: 2020-09-11T15:59:47
-modified: 2026-08-12T09:44:58.332Z
+modified: 2026-08-12T10:26:13.178Z
 ---
 
 # JavaScript Generators

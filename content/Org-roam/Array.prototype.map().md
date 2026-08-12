@@ -2,7 +2,7 @@
 publish: true
 title: Array.prototype.map()
 created: 2020-11-13T11:31:41
-modified: 2026-08-12T09:44:58.312Z
+modified: 2026-08-12T10:26:13.157Z
 ---
 
 # Array.prototype.map()

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Iterables
 created: 2020-10-14T09:26:25
-modified: 2026-08-12T09:44:58.333Z
+modified: 2026-08-12T10:26:13.179Z
 ---
 
 # JavaScript Iterables

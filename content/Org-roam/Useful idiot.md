@@ -2,7 +2,7 @@
 publish: true
 title: Useful idiot
 created: 2020-10-29T19:53:02
-modified: 2026-08-12T09:44:58.365Z
+modified: 2026-08-12T10:26:13.214Z
 ---
 
 # Useful idiot

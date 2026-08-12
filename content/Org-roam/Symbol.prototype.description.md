@@ -2,7 +2,7 @@
 publish: true
 title: Symbol.prototype.description
 created: 2020-11-16T10:15:09
-modified: 2026-08-12T09:44:58.354Z
+modified: 2026-08-12T10:26:13.203Z
 ---
 
 # Symbol.prototype.description

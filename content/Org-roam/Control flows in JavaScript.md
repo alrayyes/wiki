@@ -2,7 +2,7 @@
 publish: true
 title: Control flows in JavaScript
 created: 2020-06-13T17:25:34
-modified: 2026-08-12T09:44:58.318Z
+modified: 2026-08-12T10:26:13.162Z
 ---
 
 # Control flows in JavaScript

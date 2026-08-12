@@ -2,7 +2,7 @@
 publish: true
 title: Array.prototype.includes()
 created: 2020-11-13T10:57:07
-modified: 2026-08-12T09:44:58.312Z
+modified: 2026-08-12T10:26:13.157Z
 ---
 
 # Array.prototype.includes()

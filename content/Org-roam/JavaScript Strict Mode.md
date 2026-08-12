@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Strict Mode
 created: 2020-11-11T09:25:10
-modified: 2026-08-12T09:44:58.337Z
+modified: 2026-08-12T10:26:13.183Z
 ---
 
 # JavaScript Strict Mode

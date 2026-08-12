@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript primitive types
 created: 2020-09-29T16:15:44
-modified: 2026-08-12T09:44:58.363Z
+modified: 2026-08-12T10:26:13.213Z
 ---
 
 # TypeScript primitive types

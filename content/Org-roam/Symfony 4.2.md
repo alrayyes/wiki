@@ -2,7 +2,7 @@
 publish: true
 title: Symfony 4.2
 created: 2020-11-11T10:17:06
-modified: 2026-08-12T09:44:58.354Z
+modified: 2026-08-12T10:26:13.203Z
 ---
 
 # Symfony 4.2

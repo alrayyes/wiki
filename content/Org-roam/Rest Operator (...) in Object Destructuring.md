@@ -2,7 +2,7 @@
 publish: true
 title: Rest Operator (...) in Object Destructuring
 created: 2020-11-03T11:13:57
-modified: 2026-08-12T09:44:58.348Z
+modified: 2026-08-12T10:26:13.196Z
 ---
 
 # Rest Operator (...) in Object Destructuring

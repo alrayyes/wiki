@@ -4,7 +4,7 @@ aliases:
   - Rc<T>
 title: Rc<T>
 created: 2020-09-29T14:55:34
-modified: 2026-08-12T09:44:58.347Z
+modified: 2026-08-12T10:26:13.195Z
 ---
 
 # Rc<T>

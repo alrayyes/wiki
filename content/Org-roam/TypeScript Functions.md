@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Functions
 created: 2020-10-01T11:08:06
-modified: 2026-08-12T09:44:58.362Z
+modified: 2026-08-12T10:26:13.211Z
 ---
 
 # TypeScript Functions

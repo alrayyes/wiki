@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Workflow Component
 created: 2020-11-10T15:36:11
-modified: 2026-08-12T09:44:58.359Z
+modified: 2026-08-12T10:26:13.208Z
 ---
 
 # Symfony Workflow Component

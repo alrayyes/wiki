@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Multiplication Operator
 created: 2020-11-12T10:42:54
-modified: 2026-08-12T09:44:58.333Z
+modified: 2026-08-12T10:26:13.179Z
 ---
 
 # JavaScript Multiplication Operator

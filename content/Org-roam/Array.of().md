@@ -2,7 +2,7 @@
 publish: true
 title: Array.of()
 created: 2020-11-13T10:58:47
-modified: 2026-08-12T09:44:58.311Z
+modified: 2026-08-12T10:26:13.156Z
 ---
 
 # Array.of()

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Strings
 created: 2020-09-22T16:45:51
-modified: 2026-08-12T09:44:58.338Z
+modified: 2026-08-12T10:26:13.184Z
 ---
 
 # JavaScript Strings

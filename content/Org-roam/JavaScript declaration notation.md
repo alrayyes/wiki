@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript declaration notation
 created: 2020-10-06T11:12:44
-modified: 2026-08-12T09:44:58.331Z
+modified: 2026-08-12T10:26:13.177Z
 ---
 
 # JavaScript declaration notation

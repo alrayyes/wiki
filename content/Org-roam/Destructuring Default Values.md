@@ -2,7 +2,7 @@
 publish: true
 title: Destructuring Default Values
 created: 2020-11-03T11:31:24
-modified: 2026-08-12T09:44:58.319Z
+modified: 2026-08-12T10:26:13.164Z
 ---
 
 # Destructuring Default Values

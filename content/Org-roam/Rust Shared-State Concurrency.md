@@ -2,7 +2,7 @@
 publish: true
 title: Rust Shared-State Concurrency
 created: 2020-09-30T12:37:49
-modified: 2026-08-12T09:44:58.350Z
+modified: 2026-08-12T10:26:13.199Z
 ---
 
 # Rust Shared-State Concurrency

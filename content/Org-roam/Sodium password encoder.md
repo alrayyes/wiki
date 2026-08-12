@@ -2,7 +2,7 @@
 publish: true
 title: Sodium password encoder
 created: 2020-11-12T13:37:36
-modified: 2026-08-12T09:44:58.352Z
+modified: 2026-08-12T10:26:13.201Z
 ---
 
 # Sodium password encoder

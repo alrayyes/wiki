@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp Match Method
 created: 2020-11-04T10:22:12
-modified: 2026-08-12T09:44:58.336Z
+modified: 2026-08-12T10:26:13.181Z
 ---
 
 # JavaScript RegExp Match Method

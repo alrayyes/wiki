@@ -2,7 +2,7 @@
 publish: true
 title: Golang maps
 created: 2020-08-28T19:20:34
-modified: 2026-08-12T09:44:58.325Z
+modified: 2026-08-12T10:26:13.170Z
 ---
 
 # Golang maps

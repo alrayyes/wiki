@@ -2,7 +2,7 @@
 publish: true
 title: The Chaldeans
 created: 2020-07-06T16:58:03
-modified: 2026-08-12T09:44:58.359Z
+modified: 2026-08-12T10:26:13.209Z
 ---
 
 # The Chaldeans

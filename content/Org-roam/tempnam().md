@@ -2,7 +2,7 @@
 publish: true
 title: tempnam()
 created: 2020-11-16T14:21:05
-modified: 2026-08-12T09:44:58.359Z
+modified: 2026-08-12T10:26:13.208Z
 ---
 
 # tempnam()

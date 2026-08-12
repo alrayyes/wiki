@@ -2,7 +2,7 @@
 publish: true
 title: NotBlank Constraint
 created: 2020-11-12T13:07:10
-modified: 2026-08-12T09:44:58.342Z
+modified: 2026-08-12T10:26:13.189Z
 ---
 
 # NotBlank Constraint

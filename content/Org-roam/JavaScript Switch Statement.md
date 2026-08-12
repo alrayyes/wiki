@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Switch Statement
 created: 2020-10-30T09:41:38
-modified: 2026-08-12T09:44:58.338Z
+modified: 2026-08-12T10:26:13.184Z
 ---
 
 # JavaScript Switch Statement

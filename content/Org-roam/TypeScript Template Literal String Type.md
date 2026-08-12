@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript Template Literal String Type
 created: 2020-11-23T10:18:10
-modified: 2026-08-12T09:44:58.363Z
+modified: 2026-08-12T10:26:13.213Z
 ---
 
 # TypeScript Template Literal String Type

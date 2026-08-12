@@ -4,7 +4,7 @@ aliases:
   - Box<T>
 title: Box<T>
 created: 2020-09-29T13:56:09
-modified: 2026-08-12T09:44:58.314Z
+modified: 2026-08-12T10:26:13.159Z
 ---
 
 # Box<T>

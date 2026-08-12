@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript
 created: 2020-09-29T16:11:26
-modified: 2026-08-12T09:44:58.364Z
+modified: 2026-08-12T10:26:13.214Z
 ---
 
 # TypeScript

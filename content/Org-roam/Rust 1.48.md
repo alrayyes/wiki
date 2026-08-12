@@ -2,7 +2,7 @@
 publish: true
 title: Rust 1.48
 created: 2020-11-19T16:52:57
-modified: 2026-08-12T09:44:58.348Z
+modified: 2026-08-12T10:26:13.197Z
 ---
 
 # Rust 1.48

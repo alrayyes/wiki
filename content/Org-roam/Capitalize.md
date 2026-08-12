@@ -2,7 +2,7 @@
 publish: true
 title: Capitalize
 created: 2020-11-23T10:33:33
-modified: 2026-08-12T09:44:58.314Z
+modified: 2026-08-12T10:26:13.159Z
 ---
 
 # Capitalize

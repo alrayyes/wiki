@@ -2,7 +2,7 @@
 publish: true
 title: Bindings and scopes in JavaScript
 created: 2020-07-02T20:32:50
-modified: 2026-08-12T09:44:58.314Z
+modified: 2026-08-12T10:26:13.159Z
 ---
 
 # Bindings and scopes in JavaScript

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Lookahead Assertions
 created: 2020-11-09T13:24:57
-modified: 2026-08-12T09:44:58.333Z
+modified: 2026-08-12T10:26:13.179Z
 ---
 
 # JavaScript Lookahead Assertions

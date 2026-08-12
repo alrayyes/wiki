@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Logical Operators
 created: 2020-11-12T10:56:47
-modified: 2026-08-12T09:44:58.333Z
+modified: 2026-08-12T10:26:13.179Z
 ---
 
 # JavaScript Logical Operators

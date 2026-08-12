@@ -2,7 +2,7 @@
 publish: true
 title: Promise.allSettled
 created: 2020-11-16T16:33:27
-modified: 2026-08-12T09:44:58.346Z
+modified: 2026-08-12T10:26:13.195Z
 ---
 
 # Promise.allSettled

@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Configuration
 created: 2020-11-12T12:47:15
-modified: 2026-08-12T09:44:58.355Z
+modified: 2026-08-12T10:26:13.204Z
 ---
 
 # Symfony Configuration

@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript
 created: 2020-06-13T17:09:05
-modified: 2026-08-12T09:44:58.339Z
+modified: 2026-08-12T10:26:13.186Z
 ---
 
 # JavaScript

@@ -2,7 +2,7 @@
 publish: true
 title: Rust functions
 created: 2020-08-27T17:09:31
-modified: 2026-08-12T09:44:58.349Z
+modified: 2026-08-12T10:26:13.198Z
 ---
 
 # Rust functions

@@ -2,7 +2,7 @@
 publish: true
 title: Symfony UUID Component
 created: 2020-11-16T13:18:15
-modified: 2026-08-12T09:44:58.358Z
+modified: 2026-08-12T10:26:13.208Z
 ---
 
 # Symfony UUID Component

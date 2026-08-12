@@ -2,7 +2,7 @@
 publish: true
 title: TypeScript 4.1
 created: 2020-11-23T09:47:35
-modified: 2026-08-12T09:44:58.361Z
+modified: 2026-08-12T10:26:13.210Z
 ---
 
 # TypeScript 4.1

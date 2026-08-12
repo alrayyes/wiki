@@ -2,7 +2,7 @@
 publish: true
 title: Rust Structs Syntax
 created: 2020-08-31T19:34:17
-modified: 2026-08-12T09:44:58.350Z
+modified: 2026-08-12T10:26:13.199Z
 ---
 
 # Rust Structs Syntax

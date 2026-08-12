@@ -2,7 +2,7 @@
 publish: true
 title: Golang methods
 created: 2020-08-31T15:53:04
-modified: 2026-08-12T09:44:58.325Z
+modified: 2026-08-12T10:26:13.170Z
 ---
 
 # Golang methods

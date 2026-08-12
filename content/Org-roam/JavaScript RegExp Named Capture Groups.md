@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript RegExp Named Capture Groups
 created: 2020-11-04T10:04:31
-modified: 2026-08-12T09:44:58.336Z
+modified: 2026-08-12T10:26:13.182Z
 ---
 
 # JavaScript RegExp Named Capture Groups

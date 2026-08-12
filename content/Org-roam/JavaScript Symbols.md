@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Symbols
 created: 2020-11-13T09:24:54
-modified: 2026-08-12T09:44:58.338Z
+modified: 2026-08-12T10:26:13.184Z
 ---
 
 # JavaScript Symbols

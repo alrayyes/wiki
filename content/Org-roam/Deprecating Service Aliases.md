@@ -2,7 +2,7 @@
 publish: true
 title: Deprecating Service Aliases
 created: 2020-11-12T12:41:59
-modified: 2026-08-12T09:44:58.319Z
+modified: 2026-08-12T10:26:13.164Z
 ---
 
 # Deprecating Service Aliases

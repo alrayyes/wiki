@@ -2,7 +2,7 @@
 publish: true
 title: Console Signals
 created: 2020-11-17T11:49:30
-modified: 2026-08-12T09:44:58.317Z
+modified: 2026-08-12T10:26:13.162Z
 ---
 
 # Console Signals

@@ -2,7 +2,7 @@
 publish: true
 title: Symfony 5.2
 created: 2020-11-17T09:59:53
-modified: 2026-08-12T09:44:58.354Z
+modified: 2026-08-12T10:26:13.204Z
 ---
 
 # Symfony 5.2

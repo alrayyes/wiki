@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Callbacks
 created: 2020-09-11T15:04:51
-modified: 2026-08-12T09:44:58.330Z
+modified: 2026-08-12T10:26:13.176Z
 ---
 
 # JavaScript Callbacks

@@ -2,7 +2,7 @@
 publish: true
 title: Syfony Controller
 created: 2020-11-17T10:22:42
-modified: 2026-08-12T09:44:58.354Z
+modified: 2026-08-12T10:26:13.203Z
 ---
 
 # Syfony Controller

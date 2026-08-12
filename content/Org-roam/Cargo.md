@@ -2,7 +2,7 @@
 publish: true
 title: Cargo
 created: 2020-09-18T18:07:50
-modified: 2026-08-12T09:44:58.314Z
+modified: 2026-08-12T10:26:13.160Z
 ---
 
 # Cargo

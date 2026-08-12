@@ -2,7 +2,7 @@
 publish: true
 title: ULID Constraint
 created: 2020-11-17T10:43:32
-modified: 2026-08-12T09:44:58.364Z
+modified: 2026-08-12T10:26:13.214Z
 ---
 
 # ULID Constraint

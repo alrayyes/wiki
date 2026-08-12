@@ -2,7 +2,7 @@
 publish: true
 title: Dwight D. Eisenhower
 created: 2020-11-14T10:20:43
-modified: 2026-08-12T09:44:58.320Z
+modified: 2026-08-12T10:26:13.166Z
 ---
 
 # Dwight D. Eisenhower

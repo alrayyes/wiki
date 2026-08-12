@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript String To Array Conversion
 created: 2020-11-12T10:25:37
-modified: 2026-08-12T09:44:58.338Z
+modified: 2026-08-12T10:26:13.184Z
 ---
 
 # JavaScript String To Array Conversion

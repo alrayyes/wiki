@@ -2,7 +2,7 @@
 publish: true
 title: ready
 created: 2020-11-20T11:11:57
-modified: 2026-08-12T09:44:58.347Z
+modified: 2026-08-12T10:26:13.196Z
 ---
 
 # ready

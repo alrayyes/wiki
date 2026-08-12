@@ -2,7 +2,7 @@
 publish: true
 title: Symfony 5.1
 created: 2020-11-16T10:59:19
-modified: 2026-08-12T09:44:58.354Z
+modified: 2026-08-12T10:26:13.203Z
 ---
 
 # Symfony 5.1

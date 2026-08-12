@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Typeof Operator
 created: 2020-11-12T10:51:52
-modified: 2026-08-12T09:44:58.339Z
+modified: 2026-08-12T10:26:13.185Z
 ---
 
 # JavaScript Typeof Operator

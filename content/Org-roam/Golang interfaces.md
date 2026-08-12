@@ -2,7 +2,7 @@
 publish: true
 title: Golang interfaces
 created: 2020-08-31T17:18:22
-modified: 2026-08-12T09:44:58.325Z
+modified: 2026-08-12T10:26:13.170Z
 ---
 
 # Golang interfaces

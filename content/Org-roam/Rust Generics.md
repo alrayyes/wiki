@@ -2,7 +2,7 @@
 publish: true
 title: Rust Generics
 created: 2020-09-17T16:17:57
-modified: 2026-08-12T09:44:58.349Z
+modified: 2026-08-12T10:26:13.198Z
 ---
 
 # Rust Generics

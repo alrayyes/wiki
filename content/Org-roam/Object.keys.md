@@ -2,7 +2,7 @@
 publish: true
 title: Object.keys
 created: 2020-11-13T09:52:26
-modified: 2026-08-12T09:44:58.342Z
+modified: 2026-08-12T10:26:13.190Z
 ---
 
 # Object.keys

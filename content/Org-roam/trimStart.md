@@ -2,7 +2,7 @@
 publish: true
 title: trimStart
 created: 2020-11-16T10:02:05
-modified: 2026-08-12T09:44:58.360Z
+modified: 2026-08-12T10:26:13.210Z
 ---
 
 # trimStart

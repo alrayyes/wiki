@@ -4,7 +4,7 @@ aliases:
   - Command::ERROR
 title: Command::ERROR
 created: 2020-11-16T14:18:17
-modified: 2026-08-12T09:44:58.316Z
+modified: 2026-08-12T10:26:13.161Z
 ---
 
 # Command::ERROR

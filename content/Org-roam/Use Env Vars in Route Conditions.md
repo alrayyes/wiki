@@ -2,7 +2,7 @@
 publish: true
 title: Use Env Vars in Route Conditions
 created: 2020-11-16T13:16:33
-modified: 2026-08-12T09:44:58.365Z
+modified: 2026-08-12T10:26:13.214Z
 ---
 
 # Use Env Vars in Route Conditions

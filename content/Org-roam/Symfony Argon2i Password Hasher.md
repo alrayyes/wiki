@@ -2,7 +2,7 @@
 publish: true
 title: Symfony Argon2i Password Hasher
 created: 2020-11-10T15:27:30
-modified: 2026-08-12T09:44:58.355Z
+modified: 2026-08-12T10:26:13.204Z
 ---
 
 # Symfony Argon2i Password Hasher

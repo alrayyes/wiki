@@ -2,7 +2,7 @@
 publish: true
 title: Rust Comments
 created: 2020-08-27T19:00:35
-modified: 2026-08-12T09:44:58.348Z
+modified: 2026-08-12T10:26:13.197Z
 ---
 
 # Rust Comments

@@ -2,7 +2,7 @@
 publish: true
 title: PHP Class Name Literal
 created: 2020-11-10T10:29:00
-modified: 2026-08-12T09:44:58.344Z
+modified: 2026-08-12T10:26:13.192Z
 ---
 
 # PHP Class Name Literal

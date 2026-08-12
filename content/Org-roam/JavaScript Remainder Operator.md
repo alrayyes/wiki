@@ -2,7 +2,7 @@
 publish: true
 title: JavaScript Remainder Operator
 created: 2020-11-12T10:46:54
-modified: 2026-08-12T09:44:58.336Z
+modified: 2026-08-12T10:26:13.182Z
 ---
 
 # JavaScript Remainder Operator

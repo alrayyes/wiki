@@ -2,7 +2,7 @@
 publish: true
 title: Golang variables
 created: 2020-08-26T15:15:14
-modified: 2026-08-12T09:44:58.326Z
+modified: 2026-08-12T10:26:13.171Z
 ---
 
 # Golang variables

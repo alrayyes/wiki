@@ -2,7 +2,7 @@
 publish: true
 title: Array.prototype.Sort()
 created: 2020-11-16T15:54:59
-modified: 2026-08-12T09:44:58.312Z
+modified: 2026-08-12T10:26:13.157Z
 ---
 
 # Array.prototype.Sort()

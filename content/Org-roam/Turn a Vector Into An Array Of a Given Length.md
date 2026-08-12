@@ -2,7 +2,7 @@
 publish: true
 title: Turn a Vector Into An Array Of a Given Length
 created: 2020-11-20T10:46:59
-modified: 2026-08-12T09:44:58.361Z
+modified: 2026-08-12T10:26:13.210Z
 ---
 
 # Turn a Vector Into An Array Of a Given Length
