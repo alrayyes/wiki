@@ -1,0 +1,9 @@
+---
+publish: true
+title: Geographical terms
+created: 2020-10-29T19:59:45
+---
+
+# Geographical terms
+
+- [[detritus]]
