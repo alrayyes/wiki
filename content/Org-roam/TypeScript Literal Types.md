@@ -4,8 +4,6 @@ title: TypeScript Literal Types
 created: 2020-10-02T10:33:57
 ---
 
-# TypeScript Literal Types
-
 ## Introduction
 
 Literals are /exact/ values that are JavaScript primitives.

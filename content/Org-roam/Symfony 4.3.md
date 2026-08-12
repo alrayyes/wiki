@@ -4,8 +4,6 @@ title: Symfony 4.3
 created: 2020-11-12T12:01:18
 ---
 
-# Symfony 4.3
-
 ## What's new
 
 ### Components

@@ -4,8 +4,6 @@ title: JavaScript Optional Catch Binding
 created: 2020-11-16T15:48:24
 ---
 
-# JavaScript Optional Catch Binding
-
 ## Description
 
 Sometimes you don't care about the error and you're allowed to ignore it.

@@ -4,8 +4,6 @@ title: Configuring Services With Immutable Setters
 created: 2020-11-12T13:13:10
 ---
 
-# Configuring Services With Immutable Setters
-
 ## Description
 
 A common need in some Symfony applications is to use immutable services while still using traits for composing their optional features. Although the Symfony service container supports setter injection, they have some drawbacks (e.g. setters can be called more than just at the time of construction so you cannot be sure the dependency is not replaced during the lifetime of the object).

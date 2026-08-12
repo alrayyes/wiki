@@ -4,8 +4,6 @@ title: Timezone Constraint
 created: 2020-11-12T13:45:45
 ---
 
-# Timezone Constraint
-
 ## Syntax
 
 ```php

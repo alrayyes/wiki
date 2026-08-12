@@ -4,8 +4,6 @@ title: Golang Packages
 created: 2020-08-26T14:27:55
 ---
 
-# Golang Packages
-
 ## Basics
 
 Every Go program is made up of packages. Programs start running in package `main`.

@@ -4,8 +4,6 @@ title: str_ends_with()
 created: 2020-11-13T11:54:52
 ---
 
-# str\_ends\_with()
-
 ## Description
 
 Check if string ends with other string. Opposite of [[str_starts_with()]]. See RFC[^rfc] for more details.

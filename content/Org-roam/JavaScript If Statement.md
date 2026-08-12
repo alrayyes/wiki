@@ -4,8 +4,6 @@ title: JavaScript If Statement
 created: 2020-10-30T09:38:32
 ---
 
-# JavaScript If Statement
-
 ## Syntax
 
 ```js

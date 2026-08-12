@@ -4,8 +4,6 @@ title: Autowiring By Type and Name
 created: 2020-11-11T10:48:14
 ---
 
-# Autowiring By Type and Name
-
 ## Introduction
 
 Since [[Symfony 4.2]], services can now be bound by type and name.

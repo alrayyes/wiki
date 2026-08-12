@@ -4,8 +4,6 @@ title: Readonly
 created: 2020-10-05T17:12:53
 ---
 
-# Readonly
-
 ## Introduction
 
 [[TypeScript]] type system allows you to mark individual properties on [[TypeScript Interfaces]], [[TypeScript Type Alias]] and [[TypeScript Classes]] properties as ~readonly~.

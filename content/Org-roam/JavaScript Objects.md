@@ -4,8 +4,6 @@ title: JavaScript Objects
 created: 2020-08-26T20:16:05
 ---
 
-# JavaScript Objects
-
 - [[JavaScript Object Properties]]
 - [[JavaScript Prototypes]]
 - [[JavaScript Object Prototype Methods]]

@@ -4,8 +4,6 @@ title: JavaScript Consuming Promises
 created: 2020-11-11T09:53:16
 ---
 
-# JavaScript Consuming Promises
-
 ## Advice
 
 Use [[JavaScript Async Functions]] instead of this.

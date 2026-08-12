@@ -4,8 +4,6 @@ title: react-jsx
 created: 2020-11-30T08:52:53
 ---
 
-# react-jsx
-
 ## Description
 
 Support production compiles[^pr] for React 17's [[react-jsx]]  and [[jsxs react factory function]] factory functions.

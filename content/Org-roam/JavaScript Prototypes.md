@@ -4,8 +4,6 @@ title: JavaScript Prototypes
 created: 2020-11-13T09:14:24
 ---
 
-# JavaScript Prototypes
-
 ## Description
 
 A prototype can be seen as an [[JavaScript Objects]] another object extends.

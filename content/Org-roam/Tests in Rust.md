@@ -4,8 +4,6 @@ title: Tests in Rust
 created: 2020-09-18T18:35:24
 ---
 
-# Tests in Rust
-
 ## Assertions
 
 ### assert!

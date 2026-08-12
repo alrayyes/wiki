@@ -4,8 +4,6 @@ title: JavaScript RegExp Replace Method
 created: 2020-11-04T10:23:43
 ---
 
-# JavaScript RegExp Replace Method
-
 replace[^replace] is a nice way to use regexps to replace text:
 
 ```js

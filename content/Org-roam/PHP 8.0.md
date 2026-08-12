@@ -4,8 +4,6 @@ title: PHP 8.0
 created: 2020-11-09T13:38:34
 ---
 
-# PHP 8.0
-
 ## Changes
 
 ### Types

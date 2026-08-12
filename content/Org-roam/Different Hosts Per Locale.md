@@ -4,8 +4,6 @@ title: Different Hosts Per Locale
 created: 2020-11-16T13:36:27
 ---
 
-# Different Hosts Per Locale
-
 ## Syntax
 
 ```yaml

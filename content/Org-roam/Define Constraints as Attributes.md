@@ -4,8 +4,6 @@ title: Define Constraints as Attributes
 created: 2020-11-17T11:27:27
 ---
 
-# Define Constraints as Attributes
-
 ## Syntax
 
 ### Annotations

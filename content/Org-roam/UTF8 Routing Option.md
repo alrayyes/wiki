@@ -4,8 +4,6 @@ title: UTF8 Routing Option
 created: 2020-11-12T13:27:47
 ---
 
-# UTF8 Routing Option
-
 ## Syntax
 
 ```php

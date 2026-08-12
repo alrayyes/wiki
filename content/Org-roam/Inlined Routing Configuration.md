@@ -4,8 +4,6 @@ title: Inlined Routing Configuration
 created: 2020-11-10T15:42:29
 ---
 
-# Inlined Routing Configuration
-
 ## Introduction
 
 Added in [[Symfony 4.1]], inlined routing configuration allows us to define requirements and default values for route placeholders.

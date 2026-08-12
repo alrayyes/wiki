@@ -4,8 +4,6 @@ title: Capitalize
 created: 2020-11-23T10:33:33
 ---
 
-# Capitalize
-
 ## Description
 
 Transforms the first string character to uppercase for [[TypeScript Template Literal String Type]].

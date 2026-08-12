@@ -4,8 +4,6 @@ title: Vocabulary
 created: 2020-07-04T15:22:49
 ---
 
-# Vocabulary
-
 ## Categories
 
 - [[Architecture]]

@@ -4,8 +4,6 @@ title: Rust Iterators
 created: 2020-09-23T15:00:06
 ---
 
-# Rust Iterators
-
 ## Syntax
 
 ```rust

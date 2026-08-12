@@ -4,8 +4,6 @@ title: JavaScript String endsWith Method
 created: 2020-11-12T09:54:28
 ---
 
-# JavaScript String endsWith Method
-
 ## Introduction
 
 Introduced in [[ES6]]

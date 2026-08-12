@@ -4,8 +4,6 @@ title: Deprecating Service Aliases
 created: 2020-11-12T12:41:59
 ---
 
-# Deprecating Service Aliases
-
 ## Description
 
 It's possible to deprecate [[Symfony Services]] aliases

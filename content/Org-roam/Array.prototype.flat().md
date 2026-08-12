@@ -4,8 +4,6 @@ title: Array.prototype.flat()
 created: 2020-11-13T11:20:29
 ---
 
-# Array.prototype.flat()
-
 ## Description
 
 Flattens an [[JavaScript Arrays]].

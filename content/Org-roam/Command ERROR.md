@@ -6,8 +6,6 @@ title: Command::ERROR
 created: 2020-11-16T14:18:17
 ---
 
-# Command::ERROR
-
 ## Description
 
 ERROR constant to be used as command exit code

@@ -4,8 +4,6 @@ title: JavaScript Sets
 created: 2020-10-12T09:42:48
 ---
 
-# JavaScript Sets
-
 ## Introduction
 
 A [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) is a collection of unique elements.

@@ -4,8 +4,6 @@ title: trigger_depcreation
 created: 2020-11-16T14:09:34
 ---
 
-# trigger\_depcreation
-
 ## Syntax
 
 ```php

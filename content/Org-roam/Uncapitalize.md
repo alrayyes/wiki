@@ -4,8 +4,6 @@ title: Uncapitalize
 created: 2020-11-23T10:34:00
 ---
 
-# Uncapitalize
-
 ## Description
 
 Transforms the first string character to lowercase for [[TypeScript Template Literal String Type]].

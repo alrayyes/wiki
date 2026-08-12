@@ -4,8 +4,6 @@ title: CurrentUser
 created: 2020-11-17T10:27:46
 ---
 
-# CurrentUser
-
 ## Description
 
 Turns controller argument into the object that represents the currently logged in user.

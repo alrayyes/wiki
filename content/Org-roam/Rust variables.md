@@ -4,8 +4,6 @@ title: Rust variables
 created: 2020-08-27T17:15:54
 ---
 
-# Rust variables
-
 ## Mutability
 
 By default variables in Rust are immutable. To make a variable mutable one must explicity add `mut` in front of it

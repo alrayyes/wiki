@@ -4,8 +4,6 @@ title: JavaScript String padEnd Method
 created: 2020-11-12T09:57:11
 ---
 
-# JavaScript String padEnd Method
-
 ## Syntax
 
 ```js

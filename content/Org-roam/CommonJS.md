@@ -4,8 +4,6 @@ title: CommonJS
 created: 2020-09-16T17:28:02
 ---
 
-# CommonJS
-
 ## Syntax
 
 ```js

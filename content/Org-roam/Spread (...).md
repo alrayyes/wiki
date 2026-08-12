@@ -4,8 +4,6 @@ title: Spread (...)
 created: 2020-10-14T09:41:44
 ---
 
-# Spread (...)
-
 ## Examples
 
 Math.max() returns the numerically greatest of its arguments. It works for an arbitrary number of arguments, but not for Arrays.

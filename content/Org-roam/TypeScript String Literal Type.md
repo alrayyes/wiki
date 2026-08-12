@@ -4,8 +4,6 @@ title: TypeScript String Literal Type
 created: 2020-11-23T10:05:51
 ---
 
-# TypeScript String Literal Type
-
 ## Description
 
 Allows a [[JavaScript Strings]] to be used as a literal type.

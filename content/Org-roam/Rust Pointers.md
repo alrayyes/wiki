@@ -4,8 +4,6 @@ title: Rust Pointers
 created: 2020-11-20T10:20:04
 ---
 
-# Rust Pointers
-
 ## Smart Pointers
 
 - [[Box<T>]]

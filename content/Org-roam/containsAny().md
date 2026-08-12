@@ -4,8 +4,6 @@ title: containsAny()
 created: 2020-11-16T13:05:03
 ---
 
-# containsAny()
-
 ## Description
 
 Checks if string contains at least one of all passed strings.

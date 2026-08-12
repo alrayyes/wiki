@@ -4,8 +4,6 @@ title: Type Constraint
 created: 2020-11-13T17:25:17
 ---
 
-# Type Constraint
-
 ## Description
 
 Validates that a given value is of a specific type. This type can be any of the valid PHP types[^validtypes], any of the PHP ctype functions[^ctypefunctions] (e.g. alnum, alpha, digit, etc.) and also the FQCN of any class

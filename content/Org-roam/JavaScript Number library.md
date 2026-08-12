@@ -4,8 +4,6 @@ title: JavaScript Number library
 created: 2020-09-23T15:34:25
 ---
 
-# JavaScript Number library
-
 ## ES6
 
 ### .EPSILON

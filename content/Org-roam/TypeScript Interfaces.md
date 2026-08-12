@@ -4,8 +4,6 @@ title: TypeScript Interfaces
 created: 2020-09-29T16:22:20
 ---
 
-# TypeScript Interfaces
-
 ## Example
 
 ```typescript

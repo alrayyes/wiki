@@ -4,8 +4,6 @@ title: Array.prototype.copyWithin()
 created: 2020-11-13T10:42:40
 ---
 
-# Array.prototype.copyWithin()
-
 ## Description
 
 This copies the elements whose indices are in the range \[start,end) to index target and subsequent indices. If the two index ranges overlap, care is taken that all source elements are copied before they are overwritten. I am confused as to how this is in any way useful.

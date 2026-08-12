@@ -4,8 +4,6 @@ title: Groups support for Valid constraint
 created: 2020-11-09T14:57:24
 ---
 
-# Groups support for Valid constraint
-
 ## Introduction
 
 As per [[Symfony 4.0]] validation groups are supported for the ~Valid~ constraint.

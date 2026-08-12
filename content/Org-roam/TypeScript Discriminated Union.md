@@ -4,8 +4,6 @@ title: TypeScript Discriminated Union
 created: 2020-10-07T10:11:33
 ---
 
-# TypeScript Discriminated Union
-
 ## Description
 
 If your [[TypeScript Classes]] has a [[TypeScript Literal Types]] then you can use that property to discriminate between [[TypeScript Union Type]] members.

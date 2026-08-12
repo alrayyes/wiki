@@ -4,8 +4,6 @@ title: Symfony
 created: 2020-11-09T14:03:00
 ---
 
-# Symfony
-
 ## Framework
 
 - [[Symfony Annotations]]

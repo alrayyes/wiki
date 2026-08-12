@@ -4,8 +4,6 @@ title: Golang flow control statements
 created: 2020-08-26T15:18:46
 ---
 
-# Golang flow control statements
-
 ## For
 
 Go has no `while`, `do` or `until` keywords for iteration, only `for`

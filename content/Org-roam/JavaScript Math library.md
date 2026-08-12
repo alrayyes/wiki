@@ -4,8 +4,6 @@ title: JavaScript Math library
 created: 2020-09-23T15:36:14
 ---
 
-# JavaScript Math library
-
 ## ES6
 
 ### .sign(x)

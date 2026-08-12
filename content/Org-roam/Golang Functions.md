@@ -4,8 +4,6 @@ title: Golang Functions
 created: 2020-08-26T15:13:37
 ---
 
-# Golang Functions
-
 ## Arguments
 
 ### Basics

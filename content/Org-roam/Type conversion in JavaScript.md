@@ -4,8 +4,6 @@ title: Type conversion in JavaScript
 created: 2020-06-13T17:07:56
 ---
 
-# Type conversion in JavaScript
-
 ## Type conversion
 
 ```js

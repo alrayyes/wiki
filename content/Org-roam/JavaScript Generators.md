@@ -4,8 +4,6 @@ title: JavaScript Generators
 created: 2020-09-11T15:59:47
 ---
 
-# JavaScript Generators
-
 ## ES6
 
 ### Introduction

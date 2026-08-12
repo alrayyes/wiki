@@ -4,8 +4,6 @@ title: True Console Colours
 created: 2020-11-17T10:08:55
 ---
 
-# True Console Colours
-
 ## Description
 
 The console supports 24-bit colours.

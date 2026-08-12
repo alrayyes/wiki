@@ -4,8 +4,6 @@ title: Symfony 5.1
 created: 2020-11-16T10:59:19
 ---
 
-# Symfony 5.1
-
 ## Constraints
 
 - [[AtLeastOneOf Constraint]]

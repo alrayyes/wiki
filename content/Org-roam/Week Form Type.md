@@ -4,8 +4,6 @@ title: Week Form Type
 created: 2020-11-13T18:27:53
 ---
 
-# Week Form Type
-
 ## Description
 
 \~WeekType~ form field that allows users to modify data that represents a specific ISO 8601[^iso] week number

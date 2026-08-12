@@ -4,8 +4,6 @@ title: Rust 1.48
 created: 2020-11-19T16:52:57
 ---
 
-# Rust 1.48
-
 ## Changes
 
 ### Rustdoc

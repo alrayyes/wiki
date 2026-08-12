@@ -4,8 +4,6 @@ title: JavaScript Control Flows
 created: 2020-06-13T17:25:34
 ---
 
-# JavaScript Control Flows
-
 ## Statements
 
 - [[JavaScript If Statement]]

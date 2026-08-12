@@ -4,8 +4,6 @@ title: JavaScript Exceptions
 created: 2020-11-11T09:29:05
 ---
 
-# JavaScript Exceptions
-
 ## Introduction
 
 [[JavaScript]] supports exceptions.

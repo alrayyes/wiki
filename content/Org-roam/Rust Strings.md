@@ -4,8 +4,6 @@ title: Rust Strings
 created: 2020-09-15T15:13:58
 ---
 
-# Rust Strings
-
 ## Description
 
 The ~String~ type, which is provided by Rust’s standard library rather than coded into the core language, is a growable, mutable, owned, UTF-8 encoded string type. When Rustaceans refer to “strings” in Rust, they usually mean the ~String~ and the string slice ~\&str~ types, not just one of those types. Although this section is largely about ~String~, both types are used heavily in Rust’s standard library, and both ~String~ and string slices are UTF-8 encoded.

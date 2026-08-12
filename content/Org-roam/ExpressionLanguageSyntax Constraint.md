@@ -4,8 +4,6 @@ title: ExpressionLanguageSyntax Constraint
 created: 2020-11-16T13:55:23
 ---
 
-# ExpressionLanguageSyntax Constraint
-
 ## Description
 
 Checks that passed [[ExpressionLanguage Constraint]] is valid.

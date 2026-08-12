@@ -4,8 +4,6 @@ title: JavaScript Instanceof Operator
 created: 2020-11-13T09:42:46
 ---
 
-# JavaScript Instanceof Operator
-
 ## Description
 
 Sometimes you want to know whether an [[JavaScript Objects]] was derived from a specific [[JavaScript Class Notation]]. To do this one can use the ~instanceof~ [[JavaScript Operators]].

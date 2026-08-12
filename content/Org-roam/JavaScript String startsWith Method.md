@@ -4,8 +4,6 @@ title: JavaScript String startsWith Method
 created: 2020-11-12T09:55:25
 ---
 
-# JavaScript String startsWith Method
-
 ## Syntax
 
 ```js

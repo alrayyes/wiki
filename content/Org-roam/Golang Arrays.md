@@ -4,8 +4,6 @@ title: Golang Arrays
 created: 2020-08-28T18:23:27
 ---
 
-# Golang Arrays
-
 Arrays are a thing in Go as well. Once initialized arrays cannot be resized, if you're into _that_ type of thing (no judgement) see [[Golang slices]]
 
 ```go

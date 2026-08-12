@@ -4,8 +4,6 @@ title: Symfony JSON Constraint
 created: 2020-11-12T12:56:37
 ---
 
-# Symfony JSON Constraint
-
 ## Syntax
 
 ```php

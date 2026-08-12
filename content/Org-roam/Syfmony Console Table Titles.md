@@ -4,8 +4,6 @@ title: Syfmony Console Table Titles
 created: 2020-11-11T10:41:24
 ---
 
-# Syfmony Console Table Titles
-
 ## Introduction
 
 Introduced in [[Symfony 4.2]], you can now add table titles to console output.

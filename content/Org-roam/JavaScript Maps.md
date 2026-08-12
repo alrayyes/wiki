@@ -4,8 +4,6 @@ title: JavaScript Maps
 created: 2020-10-12T09:37:45
 ---
 
-# JavaScript Maps
-
 ## Description
 
 For sane people [[ES6]] comes with a +half assed "solution"+ handy data structure called ~Map~ which prevents the diy shenanigans below.

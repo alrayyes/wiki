@@ -4,8 +4,6 @@ title: Important quality attributes and their definitions
 created: 2021-04-05T12:04:26
 ---
 
-# Important quality attributes and their definitions
-
 ## Summary
 
 | Quality Attribute | Definition                                                                                                                                                  |

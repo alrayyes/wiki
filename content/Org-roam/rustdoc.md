@@ -4,8 +4,6 @@ title: rustdoc
 created: 2020-11-19T16:54:54
 ---
 
-# rustdoc
-
 ## Description
 
 Rustdoc[^rustdoc] is the built in library documentation tool included in the Rust distribution and allows you to write documentation in Markdown[^markdown].

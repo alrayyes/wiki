@@ -4,8 +4,6 @@ title: XLIFF 2.0
 created: 2020-11-09T14:29:07
 ---
 
-# XLIFF 2.0
-
 ## Introduction
 
 From [[Symfony 4.0]] XLIFF support has been added.

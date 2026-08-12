@@ -4,8 +4,6 @@ title: Tests in Golang
 created: 2020-08-26T19:11:27
 ---
 
-# Tests in Golang
-
 ## Rules
 
 Test writing rules:

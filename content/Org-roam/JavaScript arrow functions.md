@@ -4,8 +4,6 @@ title: JavaScript arrow functions
 created: 2020-10-06T11:13:49
 ---
 
-# JavaScript arrow functions
-
 ## Introduction
 
 ```js

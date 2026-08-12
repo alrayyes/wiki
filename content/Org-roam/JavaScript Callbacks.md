@@ -4,8 +4,6 @@ title: JavaScript Callbacks
 created: 2020-09-11T15:04:51
 ---
 
-# JavaScript Callbacks
-
 ## Examples
 
 ### setTimeout

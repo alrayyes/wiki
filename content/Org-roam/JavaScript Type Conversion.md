@@ -4,8 +4,6 @@ title: JavaScript Type Conversion
 created: 2020-06-13T17:07:56
 ---
 
-# JavaScript Type Conversion
-
 ## Syntax
 
 ```js

@@ -4,8 +4,6 @@ title: str_starts_with()
 created: 2020-11-13T11:54:24
 ---
 
-# str\_starts\_with()
-
 ## Description
 
 Checks if string starts with other string. Opposite of [[str_ends_with()]]. See RFC[^rfc].

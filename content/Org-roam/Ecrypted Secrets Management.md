@@ -4,8 +4,6 @@ title: Ecrypted Secrets Management
 created: 2020-11-13T17:44:44
 ---
 
-# Ecrypted Secrets Management
-
 ## Description
 
 Encryption based feature to manage secrets.

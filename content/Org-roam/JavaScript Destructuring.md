@@ -4,8 +4,6 @@ title: JavaScript Destructuring
 created: 2020-09-22T16:08:50
 ---
 
-# JavaScript Destructuring
-
 ## Variants
 
 - [[Destructuring Arrays]]

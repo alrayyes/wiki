@@ -4,8 +4,6 @@ title: TypeScript Classes
 created: 2020-10-09T10:44:11
 ---
 
-# TypeScript Classes
-
 ## TypeScript 4.0
 
 ### Class Property Inference from Constructors

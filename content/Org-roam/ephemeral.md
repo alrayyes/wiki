@@ -4,8 +4,6 @@ title: ephemeral
 created: 2020-11-26T10:03:31
 ---
 
-# ephemeral
-
 ## Origin
 
 Greek ephemeros "lasting only a day".

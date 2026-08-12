@@ -4,8 +4,6 @@ title: Symfony DivisibleBy Constraint
 created: 2020-11-11T10:30:48
 ---
 
-# Symfony DivisibleBy Constraint
-
 ## Introduction
 
 Introduced in [[Symfony 4.2]], ~DivisibleBy~ enforces specific increments on a number.

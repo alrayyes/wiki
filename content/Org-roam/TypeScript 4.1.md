@@ -4,8 +4,6 @@ title: TypeScript 4.1
 created: 2020-11-23T09:47:35
 ---
 
-# TypeScript 4.1
-
 ## Description
 
 See announcement post[^announcement] for full changelog.

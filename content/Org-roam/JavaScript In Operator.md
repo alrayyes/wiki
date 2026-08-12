@@ -4,8 +4,6 @@ title: JavaScript In Operator
 created: 2020-11-13T09:03:37
 ---
 
-# JavaScript In Operator
-
 ## Description
 
 \~in~[^in] tells us if indices inside an [[JavaScript Arrays]] or [[JavaScript Objects]] have no associated element.

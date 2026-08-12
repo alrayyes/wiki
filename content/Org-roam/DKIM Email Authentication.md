@@ -4,8 +4,6 @@ title: DKIM Email Authentication
 created: 2020-11-17T10:46:59
 ---
 
-# DKIM Email Authentication
-
 ## Description
 
 DKIM[^dkim] is supported by the [[Mailer Component]]. There is also documentation[^docs].

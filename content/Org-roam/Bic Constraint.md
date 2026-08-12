@@ -4,8 +4,6 @@ title: Bic Constraint
 created: 2020-11-12T12:29:29
 ---
 
-# Bic Constraint
-
 ## Description
 
 Validates BIC[^bic]. Also See ISO-9362[^iso9362]

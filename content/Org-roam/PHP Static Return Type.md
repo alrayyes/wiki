@@ -4,8 +4,6 @@ title: PHP Static Return Type
 created: 2020-11-10T10:23:32
 ---
 
-# PHP Static Return Type
-
 ## Description
 
 Introduced in [[PHP 8.0]], static return types[^staticreturntype] guarantee that a method will return an instance of its object, and not that of a parent.

@@ -4,8 +4,6 @@ title: Impact of Multifaceted Abstraction on Key Quality Attributes
 created: 2021-04-05T12:13:51
 ---
 
-# Impact of Multifaceted Abstraction on Key Quality Attributes
-
 ## Understandability
 
 A class with the Multifaceted Abstraction smell has multiple aspects realized into the abstraction, increasing the cognitive load on the user. When a class has multiple responsibilities, it takes more time and effort to understand each responsibility, how they releate to each other in the abstraction, etc. This adversely affects its understandability.

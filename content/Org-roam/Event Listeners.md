@@ -4,8 +4,6 @@ title: Event Listeners
 created: 2020-11-13T17:55:27
 ---
 
-# Event Listeners
-
 ## Syntax
 
 ### Pre Symfony 5.0

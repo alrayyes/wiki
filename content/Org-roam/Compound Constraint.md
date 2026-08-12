@@ -4,8 +4,6 @@ title: Compound Constraint
 created: 2020-11-16T12:42:10
 ---
 
-# Compound Constraint
-
 ## Description
 
 Use this when you want to use a set of [[Symfony Constraints]] in multiple places.

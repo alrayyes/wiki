@@ -4,8 +4,6 @@ title: Symfony UUID Component
 created: 2020-11-16T13:18:15
 ---
 
-# Symfony UUID Component
-
 ## Description
 
 Generate UUIDS[^uuids] and ULIDS[^ulids]

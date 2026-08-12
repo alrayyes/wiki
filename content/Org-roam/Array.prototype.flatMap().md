@@ -4,8 +4,6 @@ title: Array.prototype.flatMap()
 created: 2020-11-13T11:20:58
 ---
 
-# Array.prototype.flatMap()
-
 ## Description
 
 Is the same as calling [[JavaScript Maps]] and then flattening the result. Ie:

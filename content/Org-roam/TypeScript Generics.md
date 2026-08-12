@@ -4,8 +4,6 @@ title: TypeScript Generics
 created: 2020-09-29T16:30:51
 ---
 
-# TypeScript Generics
-
 ## Examples
 
 ### Function level

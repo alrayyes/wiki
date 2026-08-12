@@ -4,8 +4,6 @@ title: tempnam()
 created: 2020-11-16T14:21:05
 ---
 
-# tempnam()
-
 ## Description
 
 Like the PHP ~tempnam()~ function this method creates a file with a unique name in the given directory.

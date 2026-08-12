@@ -6,8 +6,6 @@ title: Box<T>
 created: 2020-09-29T13:56:09
 ---
 
-# Box<T>
-
 ## Introduction
 
 Boxes allow you to store data on the heap rather than the stack. What remains on the stack is the pointer to the heap data.

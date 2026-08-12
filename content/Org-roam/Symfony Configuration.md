@@ -4,8 +4,6 @@ title: Symfony Configuration
 created: 2020-11-12T12:47:15
 ---
 
-# Symfony Configuration
-
 - [[Automatic Search Engine Protection]]
 - [[Configurable Session ID]]
 - [[Configuring Services With Immutable Setters]]

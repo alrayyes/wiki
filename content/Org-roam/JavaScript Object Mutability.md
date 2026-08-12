@@ -4,8 +4,6 @@ title: JavaScript Object Mutability
 created: 2020-08-26T20:17:37
 ---
 
-# JavaScript Object Mutability
-
 ## Description
 
 With objects, there is a difference between having two references to the same object and having two different objects that contain the same properties.

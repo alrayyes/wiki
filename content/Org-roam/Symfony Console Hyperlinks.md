@@ -4,8 +4,6 @@ title: Symfony Console Hyperlinks
 created: 2020-11-12T12:03:58
 ---
 
-# Symfony Console Hyperlinks
-
 ## Syntax
 
 ```php

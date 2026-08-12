@@ -4,8 +4,6 @@ title: Simpler Event Listeners
 created: 2020-11-13T18:02:27
 ---
 
-# Simpler Event Listeners
-
 ## Syntax
 
 ```yaml

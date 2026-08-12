@@ -4,8 +4,6 @@ title: JavaScript String includes Method
 created: 2020-11-12T09:55:04
 ---
 
-# JavaScript String includes Method
-
 ## Syntax
 
 ```js

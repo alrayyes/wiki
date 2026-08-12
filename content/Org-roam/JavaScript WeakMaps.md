@@ -4,8 +4,6 @@ title: JavaScript WeakMaps
 created: 2020-10-12T09:47:49
 ---
 
-# JavaScript WeakMaps
-
 ## Introduction
 
 A WeakMap is a [[JavaScript Maps]] that doesn’t prevent its keys from being garbage-collected. That means that you can associate data with [[JavaScript Objects]] without having to worry about memory leaks.

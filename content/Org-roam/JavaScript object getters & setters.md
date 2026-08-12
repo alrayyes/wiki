@@ -4,8 +4,6 @@ title: JavaScript object getters & setters
 created: 2020-10-07T09:34:18
 ---
 
-# JavaScript object getters & setters
-
 ## Example
 
 ```js

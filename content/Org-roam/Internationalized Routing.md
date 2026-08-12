@@ -4,8 +4,6 @@ title: Internationalized Routing
 created: 2020-11-10T15:45:48
 ---
 
-# Internationalized Routing
-
 ## Introduction
 
 Since [[Symfony 4.1]] support for internationalized routes was added.

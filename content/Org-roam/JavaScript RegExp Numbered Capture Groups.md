@@ -4,8 +4,6 @@ title: JavaScript RegExp Numbered Capture Groups
 created: 2020-11-04T09:58:51
 ---
 
-# JavaScript RegExp Numbered Capture Groups
-
 ## Examples
 
 ### Subexpressions

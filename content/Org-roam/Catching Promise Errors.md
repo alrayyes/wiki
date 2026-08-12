@@ -4,8 +4,6 @@ title: Catching Promise Errors
 created: 2020-11-11T09:51:00
 ---
 
-# Catching Promise Errors
-
 ## Syntax
 
 ```js

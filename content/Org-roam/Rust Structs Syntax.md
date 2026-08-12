@@ -4,8 +4,6 @@ title: Rust Structs Syntax
 created: 2020-08-31T19:34:17
 ---
 
-# Rust Structs Syntax
-
 ## Basics
 
 ```rust

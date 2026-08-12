@@ -4,8 +4,6 @@ title: Ledger
 created: 2020-07-04T15:19:50
 ---
 
-# Ledger
-
 ## Common [Ledger](https://www.ledger-cli.org/) CLI Commands ([Source](https://gist.githubusercontent.com/agarrharr/03450c1be7f6b3d2b883c6b5e317d2aa/raw/4c5bfa57be1cd98a232e3f4bda0fcc2a51ba0862/index.md))
 
 ### Income vs expenses this month?

@@ -4,8 +4,6 @@ title: Drop Trait
 created: 2020-09-29T14:29:32
 ---
 
-# Drop Trait
-
 ## Introduction
 
 \~Drop~ lets you customize what happens when a value is about to go out of scope, ie: to release resources like files or network connections.

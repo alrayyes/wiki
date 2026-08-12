@@ -4,8 +4,6 @@ title: TypeScript Union Type
 created: 2020-09-29T16:32:19
 ---
 
-# TypeScript Union Type
-
 ## Syntax
 
 ```typescript

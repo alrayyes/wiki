@@ -4,8 +4,6 @@ title: noUncheckedIndexAccess
 created: 2020-11-26T10:49:31
 ---
 
-# noUncheckedIndexAccess
-
 ## Default
 
 \~false~

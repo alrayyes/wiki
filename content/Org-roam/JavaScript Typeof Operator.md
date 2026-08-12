@@ -4,8 +4,6 @@ title: JavaScript Typeof Operator
 created: 2020-11-12T10:51:52
 ---
 
-# JavaScript Typeof Operator
-
 ## Description
 
 Returns value type.

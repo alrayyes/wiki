@@ -4,8 +4,6 @@ title: Stateless Route Attribute
 created: 2020-11-16T13:10:57
 ---
 
-# Stateless Route Attribute
-
 ## Description
 
 When set to ~true~ declare that [[Sessions]] can't be used during handling of request. Generates Exception if route tries to use the [[Sessions]].

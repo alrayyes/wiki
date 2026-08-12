@@ -4,8 +4,6 @@ title: JavaScript New Keyword
 created: 2020-11-13T09:39:10
 ---
 
-# JavaScript New Keyword
-
 ## Description
 
 When you put the keyword ~new~ in front of a function call, the function is treated as a constructor. An [[JavaScript Objects]] with the proper [[JavaScript Prototypes]] is automatically created, bound to ~this~ in the function and returned at the end of the function. This allows you to do OO type stuff.

@@ -4,8 +4,6 @@ title: Required
 created: 2020-11-17T11:17:57
 ---
 
-# Required
-
 ## Description
 
 Attribute replacement for [[@required]].

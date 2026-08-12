@@ -4,8 +4,6 @@ title: Rust Traits Syntax
 created: 2020-09-17T16:32:03
 ---
 
-# Rust Traits Syntax
-
 ## Definition
 
 ```rust

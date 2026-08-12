@@ -4,8 +4,6 @@ title: JavaScript Comparison Operators
 created: 2020-11-12T10:53:10
 ---
 
-# JavaScript Comparison Operators
-
 ## Operators
 
 ```js

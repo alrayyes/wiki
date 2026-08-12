@@ -6,8 +6,6 @@ title: Binding / Variables in JavaScript
 created: 2020-06-13T17:21:37
 ---
 
-# Binding / Variables in JavaScript
-
 ## ES6
 
 ### Let

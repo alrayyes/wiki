@@ -4,8 +4,6 @@ title: JavaScript Tagged Template Literals
 created: 2020-11-12T10:08:59
 ---
 
-# JavaScript Tagged Template Literals
-
 ## Description
 
 Function calls whose parameters are provided via [[JavaScript Template Literals]].

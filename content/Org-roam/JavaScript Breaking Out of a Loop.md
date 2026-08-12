@@ -4,8 +4,6 @@ title: JavaScript Breaking Out of a Loop
 created: 2020-10-30T09:43:43
 ---
 
-# JavaScript Breaking Out of a Loop
-
 ## Syntax
 
 ```js

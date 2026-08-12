@@ -4,8 +4,6 @@ title: Golang variables
 created: 2020-08-26T15:15:14
 ---
 
-# Golang variables
-
 ## Basics
 
 The `var` statement declares a list of variables. Type is last. A `var` statement can be at package or function level. Use var when you to set a variable type but don't want to set the variable value yet.

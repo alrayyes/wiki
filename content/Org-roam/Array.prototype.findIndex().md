@@ -4,8 +4,6 @@ title: Array.prototype.findIndex()
 created: 2020-11-13T10:43:32
 ---
 
-# Array.prototype.findIndex()
-
 ## Syntax
 
 ```js

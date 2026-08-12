@@ -4,8 +4,6 @@ title: Rust
 created: 2020-07-04T15:24:42
 ---
 
-# Rust
-
 - [[Rust Tooling]]
 
 ## API

@@ -4,8 +4,6 @@ title: JavaScript Addition Operator
 created: 2020-11-12T10:39:31
 ---
 
-# JavaScript Addition Operator
-
 ## Syntax
 
 ```js

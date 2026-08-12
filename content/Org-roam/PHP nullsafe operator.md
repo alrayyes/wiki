@@ -4,8 +4,6 @@ title: PHP nullsafe operator
 created: 2020-11-10T10:01:20
 ---
 
-# PHP nullsafe operator
-
 ## Description
 
 Introduced in [[PHP 8.0]], nullsafe operators[^nullsafe] enable you to safely use methods that may return ~null~.

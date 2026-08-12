@@ -4,8 +4,6 @@ title: Pseudo-localization Translator
 created: 2020-11-17T10:01:12
 ---
 
-# Pseudo-localization Translator
-
 ## Description
 
 Pseudolocalization[^pseudo] is a software testing method for testing internationalization. Instead of translating the text of the software into a foreign language, the textual elements of an application are replaced with an altered version of the original language.

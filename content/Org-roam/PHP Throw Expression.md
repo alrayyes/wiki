@@ -4,8 +4,6 @@ title: PHP Throw Expression
 created: 2020-11-11T10:08:07
 ---
 
-# PHP Throw Expression
-
 ## Description
 
 Since [[PHP 8.0]], ~throw~ can also be used as an expression[^throw].

@@ -4,8 +4,6 @@ title: PHP Union Type
 created: 2020-11-09T13:39:23
 ---
 
-# PHP Union Type
-
 ## Description
 
 Allows multiple possible types[^rc] to be given to a parameter/member.

@@ -4,8 +4,6 @@ title: TypeScript Type Alias
 created: 2020-09-29T16:38:25
 ---
 
-# TypeScript Type Alias
-
 ## Description
 
 The make your own Sundae of Types.

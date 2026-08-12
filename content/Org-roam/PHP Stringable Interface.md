@@ -4,8 +4,6 @@ title: PHP Stringable Interface
 created: 2020-11-10T10:34:09
 ---
 
-# PHP Stringable Interface
-
 ## Description
 
 Since [[PHP 8.0]], the stringable interface[^stringable] is automatically added to classes that implement the ~\_\_toString()~ method

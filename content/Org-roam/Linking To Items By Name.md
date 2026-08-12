@@ -4,8 +4,6 @@ title: Linking To Items By Name
 created: 2020-11-19T17:02:37
 ---
 
-# Linking To Items By Name
-
 ## Description
 
 [[rustdoc]] has syntax to specifiy that you're trying to link to a type, and it will generate URLs for you. No more relative linking with all the issues it brings.

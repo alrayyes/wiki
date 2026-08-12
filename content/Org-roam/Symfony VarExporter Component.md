@@ -4,8 +4,6 @@ title: Symfony VarExporter Component
 created: 2020-11-11T10:34:42
 ---
 
-# Symfony VarExporter Component
-
 ## Introduction
 
 Introduced in [[Symfony 4.2]], the VarExporter Component is a better alternative to PHP's ~var\_export()~ function. The ~var\_export()~ function outputs or returns a parsable string representation of a variable. It is similar to ~var\_dump()~ with one exception: the returned representation is valid PHP code. Symfony's ~export()~ function is similar, but adds lots of useful features to it.

@@ -4,8 +4,6 @@ title: Array.prototype.Sort()
 created: 2020-11-16T15:54:59
 ---
 
-# Array.prototype.Sort()
-
 ## Description
 
 Sorts array

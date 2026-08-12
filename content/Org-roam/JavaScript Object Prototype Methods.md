@@ -4,8 +4,6 @@ title: JavaScript Object Prototype Methods
 created: 2020-11-13T09:32:04
 ---
 
-# JavaScript Object Prototype Methods
-
 ## Description
 
 JavaScript [[JavaScript Objects]] have methods.

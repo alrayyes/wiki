@@ -4,8 +4,6 @@ title: JavaScript Exceptions Finally
 created: 2020-11-11T09:40:33
 ---
 
-# JavaScript Exceptions Finally
-
 ## Description
 
 Code in ~finally~ block is _always_ run after code in the ~try~ block:

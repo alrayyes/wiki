@@ -4,8 +4,6 @@ title: TypeScript Callable
 created: 2020-10-01T11:21:26
 ---
 
-# TypeScript Callable
-
 ## Examples
 
 ### Basic

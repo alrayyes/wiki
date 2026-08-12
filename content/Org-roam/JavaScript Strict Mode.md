@@ -4,8 +4,6 @@ title: JavaScript Strict Mode
 created: 2020-11-11T09:25:10
 ---
 
-# JavaScript Strict Mode
-
 ## Description
 
 [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) makes several changes to normal JavaScript semantics:

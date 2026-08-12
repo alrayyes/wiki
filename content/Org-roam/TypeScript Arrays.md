@@ -4,8 +4,6 @@ title: TypeScript Arrays
 created: 2020-09-29T16:21:29
 ---
 
-# TypeScript Arrays
-
 ## Syntax
 
 ```typescript

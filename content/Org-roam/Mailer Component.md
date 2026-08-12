@@ -4,8 +4,6 @@ title: Mailer Component
 created: 2020-11-12T13:52:49
 ---
 
-# Mailer Component
-
 ## Description
 
 Added in [[Symfony 4.3]]. Out of the box the following services are supported:

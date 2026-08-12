@@ -4,8 +4,6 @@ title: idempotent
 created: 2020-11-26T09:55:25
 ---
 
-# idempotent
-
 ## Origin
 
 Idem is latin for 'same'.

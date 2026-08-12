@@ -4,8 +4,6 @@ title: ES6
 created: 2020-10-30T09:34:04
 ---
 
-# ES6
-
 ## Introduction
 
 What's new in  ES6[^whatsnew]

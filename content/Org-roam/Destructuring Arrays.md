@@ -4,8 +4,6 @@ title: Destructuring Arrays
 created: 2020-11-03T11:15:09
 ---
 
-# Destructuring Arrays
-
 ## Introduction
 
 Destructuring [[JavaScript Arrays]] was introduced in [[ES6]]. [[Destructuring Iterables]] can also be destructured via the same principle.

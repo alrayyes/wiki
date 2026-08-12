@@ -4,8 +4,6 @@ title: Golang methods
 created: 2020-08-31T15:53:04
 ---
 
-# Golang methods
-
 ## Basics
 
 In Go methods can be defined on [[Golang Structs]] and non-struct types. In this case a _receiver_ argument ias passed between `func` keyword and the method name (`Abs`):

@@ -4,8 +4,6 @@ title: JavaScript Custom Error Types
 created: 2020-11-11T09:36:51
 ---
 
-# JavaScript Custom Error Types
-
 ## Introduction
 
 Introduced in [[ES6]], [[JavaScript]] allows you to create your own custom error objects.

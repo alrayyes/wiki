@@ -4,8 +4,6 @@ title: TypeScript Index Signatures
 created: 2020-10-08T09:22:25
 ---
 
-# TypeScript Index Signatures
-
 ## Introduction
 
 An [[JavaScript Objects]] in [[JavaScript]] can be accessed with a string to hold a reference to any other JavaScript object.

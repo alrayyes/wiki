@@ -4,8 +4,6 @@ title: pending
 created: 2020-11-20T11:08:42
 ---
 
-# pending
-
 ## Description
 
 pending[^documentation] creates a future which never resovles, representing a computation that never finishes.

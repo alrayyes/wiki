@@ -4,8 +4,6 @@ title: UUID Normalizer
 created: 2020-11-17T10:39:57
 ---
 
-# UUID Normalizer
-
 ## Description
 
 [[Symfony UUID Component]] are automatically serialized/deserialized as expected.

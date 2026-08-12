@@ -4,8 +4,6 @@ title: JavaScript Books
 created: 2020-06-13T17:09:34
 ---
 
-# JavaScript Books
-
 ## Some handy JavaScript books
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)

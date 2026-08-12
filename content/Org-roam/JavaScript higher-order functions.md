@@ -4,8 +4,6 @@ title: JavaScript higher-order functions
 created: 2020-08-27T14:28:18
 ---
 
-# JavaScript higher-order functions
-
 ## Examples
 
 Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions. They allow us to abstract over actions as well as values. There are several types, here are some examples.

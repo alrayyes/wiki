@@ -4,8 +4,6 @@ title: str_contains()
 created: 2020-11-13T11:52:31
 ---
 
-# str\_contains()
-
 ## Description
 
 str\_contains()[^rfc] tells us if string contains other string.

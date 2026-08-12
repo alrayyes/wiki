@@ -4,8 +4,6 @@ title: JavaScript function declarations
 created: 2020-10-06T11:11:25
 ---
 
-# JavaScript function declarations
-
 ```js
 const square = function(x) {
     return x * x;

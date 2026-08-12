@@ -4,8 +4,6 @@ title: Wiki
 created: 2020-07-01T16:51:31
 ---
 
-# Wiki
-
 This is my personal wiki, with notes you might find handy.
 
 ## Sciences & politics

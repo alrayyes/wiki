@@ -4,8 +4,6 @@ title: ULID Constraint
 created: 2020-11-17T10:43:32
 ---
 
-# ULID Constraint
-
 ## Syntax
 
 ```php

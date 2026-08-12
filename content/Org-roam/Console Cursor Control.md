@@ -4,8 +4,6 @@ title: Console Cursor Control
 created: 2020-11-16T13:41:42
 ---
 
-# Console Cursor Control
-
 ## Description
 
 Allows cursor to be controlled

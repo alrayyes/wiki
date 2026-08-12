@@ -4,8 +4,6 @@ title: geld
 created: 2020-10-30T18:30:19
 ---
 
-# geld
-
 ## Noun
 
 A tax paid to the crown by English landholders under the Anglo-Saxon and Norman kings

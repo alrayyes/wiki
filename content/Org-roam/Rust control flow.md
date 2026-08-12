@@ -4,8 +4,6 @@ title: Rust control flow
 created: 2020-08-27T19:04:43
 ---
 
-# Rust control flow
-
 ## Branching
 
 ### If

@@ -4,8 +4,6 @@ title: ECMAScript Modules
 created: 2020-09-16T17:29:14
 ---
 
-# ECMAScript Modules
-
 ## Syntax
 
 ```js

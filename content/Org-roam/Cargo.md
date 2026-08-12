@@ -4,8 +4,6 @@ title: Cargo
 created: 2020-09-18T18:07:50
 ---
 
-# Cargo
-
 ## Description
 
 Cargo is Rust's build system and package manager.

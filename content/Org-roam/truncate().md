@@ -4,8 +4,6 @@ title: truncate()
 created: 2020-11-16T13:02:10
 ---
 
-# truncate()
-
 - [[Keep last word]]
 
 ## Description

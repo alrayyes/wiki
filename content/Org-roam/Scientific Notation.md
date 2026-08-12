@@ -4,8 +4,6 @@ title: Scientific Notation
 created: 2020-11-16T16:38:44
 ---
 
-# Scientific Notation
-
 ## Syntax
 
 ```js

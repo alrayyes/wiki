@@ -4,8 +4,6 @@ title: ready
 created: 2020-11-20T11:11:57
 ---
 
-# ready
-
 ## Description
 
 readcy[^documentation] creates a future that is immediately ready with a value.

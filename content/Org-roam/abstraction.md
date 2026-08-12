@@ -4,8 +4,6 @@ title: abstraction
 created: 2020-11-26T10:27:08
 ---
 
-# abstraction
-
 ## Origin
 
 Latin abstrahere "drawm from"

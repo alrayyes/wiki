@@ -4,8 +4,6 @@ title: JavaScript
 created: 2020-06-13T17:09:05
 ---
 
-# JavaScript
-
 ## Language
 
 ### Objects

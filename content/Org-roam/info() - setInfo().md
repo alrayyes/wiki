@@ -6,8 +6,6 @@ title: info() / setInfo()
 created: 2020-11-16T14:30:04
 ---
 
-# info() / setInfo()
-
 ## Description
 
 Add description/help/debug message to Resolver option

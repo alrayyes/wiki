@@ -4,8 +4,6 @@ title: TypeScript User Defined Type Guards
 created: 2020-11-24T09:17:40
 ---
 
-# TypeScript User Defined Type Guards
-
 ## Syntax
 
 ```typescript

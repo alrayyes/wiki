@@ -4,8 +4,6 @@ title: Golang Context
 created: 2020-09-21T15:42:46
 ---
 
-# Golang Context
-
 ## Overview
 
 Package context defines the Context type, which carries deadlines, cancellation signals, and other request-scoped values across API boundaries and between processes.

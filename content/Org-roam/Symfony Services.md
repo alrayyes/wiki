@@ -4,8 +4,6 @@ title: Symfony Services
 created: 2020-11-12T12:43:04
 ---
 
-# Symfony Services
-
 ## Decoration
 
 - [[Service Decoration]]

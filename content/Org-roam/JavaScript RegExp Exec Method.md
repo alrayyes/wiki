@@ -4,8 +4,6 @@ title: JavaScript RegExp Exec Method
 created: 2020-11-04T10:19:24
 ---
 
-# JavaScript RegExp Exec Method
-
 exec[^exec] returns ~null~ if no match was found or an object with information about the match otherwise:
 
 ```js

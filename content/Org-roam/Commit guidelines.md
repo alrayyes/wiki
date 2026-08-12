@@ -4,8 +4,6 @@ title: Commit guidelines
 created: 2020-11-15T14:16:20
 ---
 
-# Commit guidelines
-
 ## Commit Message Format
 
 ```

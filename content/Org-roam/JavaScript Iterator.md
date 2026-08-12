@@ -4,8 +4,6 @@ title: JavaScript Iterator
 created: 2020-10-14T09:28:46
 ---
 
-# JavaScript Iterator
-
 ## Introduction
 
 An /iterator/ is a pointer for traversing the elements of a data structure.

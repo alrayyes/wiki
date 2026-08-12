@@ -4,8 +4,6 @@ title: Symfony Constraints
 created: 2020-11-12T12:19:38
 ---
 
-# Symfony Constraints
-
 ## Attributes
 
 As of [[Symfony 5.2]], validation constraints can be defined as [[Define Constraints as Attributes]].

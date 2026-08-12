@@ -4,8 +4,6 @@ title: horizontalTable()
 created: 2020-11-13T18:12:35
 ---
 
-# horizontalTable()
-
 ## Syntax
 
 ```php

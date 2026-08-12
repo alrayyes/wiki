@@ -4,8 +4,6 @@ title: JavaScript Booleans
 created: 2020-09-22T16:47:27
 ---
 
-# JavaScript Booleans
-
 ## Syntax
 
 ```js

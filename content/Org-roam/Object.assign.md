@@ -4,8 +4,6 @@ title: Object.assign
 created: 2020-11-13T09:52:44
 ---
 
-# Object.assign
-
 ## Description
 
 \~Object.assign~ copies all properties from one [[JavaScript Objects]] into another

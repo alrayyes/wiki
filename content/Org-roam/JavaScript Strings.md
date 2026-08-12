@@ -4,8 +4,6 @@ title: JavaScript Strings
 created: 2020-09-22T16:45:51
 ---
 
-# JavaScript Strings
-
 - [[JavaScript String Prototype Methods]]
 - [[JavaScript String Literals]]
 - [[JavaScript String Escapes]]

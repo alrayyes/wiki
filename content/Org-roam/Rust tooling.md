@@ -4,8 +4,6 @@ title: Rust tooling
 created: 2020-08-27T17:10:36
 ---
 
-# Rust tooling
-
 ## Rustc
 
 Rustc handles Rust compilation src\_shell{rustc main.rs}

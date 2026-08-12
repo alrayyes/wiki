@@ -4,8 +4,6 @@ title: TryInto
 created: 2020-11-19T17:12:45
 ---
 
-# TryInto
-
 ## Description
 
 TryInto[^documentation] is an attempted conversion that consumes self, which may or may not be expensive.

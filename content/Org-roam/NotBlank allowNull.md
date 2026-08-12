@@ -4,8 +4,6 @@ title: NotBlank allowNull
 created: 2020-11-12T13:08:16
 ---
 
-# NotBlank allowNull
-
 ## Description
 
 The default option is ~false~. If set to true then ~null~ values will be considered valid.

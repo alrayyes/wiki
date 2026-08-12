@@ -4,8 +4,6 @@ title: JavaScript Arrays
 created: 2020-08-26T20:10:29
 ---
 
-# JavaScript Arrays
-
 - [[JavaScript Array Prototype Methods]]
 - [[JavaScript Array Functions]]
 - [[Destructuring Arrays]]

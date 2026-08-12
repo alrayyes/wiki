@@ -4,8 +4,6 @@ title: Golang
 created: 2020-08-26T14:26:41
 ---
 
-# Golang
-
 ## Language
 
 ### Basics

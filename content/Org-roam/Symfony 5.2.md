@@ -4,8 +4,6 @@ title: Symfony 5.2
 created: 2020-11-17T09:59:53
 ---
 
-# Symfony 5.2
-
 ## Dependency Injection
 
 ### Attributes

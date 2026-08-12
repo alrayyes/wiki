@@ -4,8 +4,6 @@ title: Symbol.prototype.description
 created: 2020-11-16T10:15:09
 ---
 
-# Symbol.prototype.description
-
 ## Description
 
 This proposal[^proposal] provides accessor for [[JavaScript Symbols]] description.

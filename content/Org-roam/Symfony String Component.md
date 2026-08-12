@@ -4,8 +4,6 @@ title: Symfony String Component
 created: 2020-11-13T18:34:42
 ---
 
-# Symfony String Component
-
 ## Interfaces
 
 - [[Stringable Interface]]

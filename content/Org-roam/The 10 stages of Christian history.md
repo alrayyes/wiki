@@ -4,8 +4,6 @@ title: The 10 stages of Christian history
 created: 2020-07-06T16:44:11
 ---
 
-# The 10 stages of Christian history
-
 When the ideal future envisioned by post industrialized, Western democratic society is taken as the endpoint of history, the shape of the narrative leading to here-and-now features something like the following stages (as opposed to [[The 10 stages of Islamic History]]):
 
 1. Birth of civilization (Egypt and Mesopotamia)

@@ -4,8 +4,6 @@ title: PHP
 created: 2020-11-09T13:37:20
 ---
 
-# PHP
-
 ## Language
 
 - [[PHP expressions]]

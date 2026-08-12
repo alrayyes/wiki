@@ -4,8 +4,6 @@ title: Number Constraints
 created: 2020-11-12T14:09:17
 ---
 
-# Number Constraints
-
 ## Syntax
 
 ```php

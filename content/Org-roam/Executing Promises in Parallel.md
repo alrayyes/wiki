@@ -4,8 +4,6 @@ title: Executing Promises in Parallel
 created: 2020-11-11T09:49:57
 ---
 
-# Executing Promises in Parallel
-
 ```js
 Promise.all([
     asyncFunc1(),

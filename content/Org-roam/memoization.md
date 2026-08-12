@@ -4,8 +4,6 @@ title: memoization
 created: 2020-11-26T10:19:55
 ---
 
-# memoization
-
 ## Origin
 
 Latin for "mindful remembering"

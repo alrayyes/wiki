@@ -4,8 +4,6 @@ title: Service Decoration
 created: 2020-11-16T13:28:26
 ---
 
-# Service Decoration
-
 ## Description
 
 How to decorate [[Symfony Services]].

@@ -4,8 +4,6 @@ title: Rust Shared-State Concurrency
 created: 2020-09-30T12:37:49
 ---
 
-# Rust Shared-State Concurrency
-
 ## Mutex<T>
 
 ### Single thread example

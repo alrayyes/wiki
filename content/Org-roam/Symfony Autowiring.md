@@ -4,8 +4,6 @@ title: Symfony Autowiring
 created: 2020-11-11T11:12:55
 ---
 
-# Symfony Autowiring
-
 - [[Local Service Binding]]
 - [[Autowiring By Type and Name]]
 - [[Configuring Services With Immutable Setters]]

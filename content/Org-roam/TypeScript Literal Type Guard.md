@@ -4,8 +4,6 @@ title: TypeScript Literal Type Guard
 created: 2020-11-24T09:10:25
 ---
 
-# TypeScript Literal Type Guard
-
 ## Description
 
 Use [[TypeScript Literal Types]] to narrow down the object type in a conditional block

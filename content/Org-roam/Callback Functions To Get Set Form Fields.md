@@ -6,8 +6,6 @@ title: Callback Functions To Get/Set Form Fields
 created: 2020-11-17T10:35:06
 ---
 
-# Callback Functions To Get/Set Form Fields
-
 ## Description
 
 Use callback functions to get/set form fields. Data mapper is no longer needed when getter/setter methods don't directly correlate to property names.

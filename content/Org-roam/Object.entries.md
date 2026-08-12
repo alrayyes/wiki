@@ -4,8 +4,6 @@ title: Object.entries
 created: 2020-11-13T10:20:48
 ---
 
-# Object.entries
-
 ## Description
 
 Returns [[JavaScript Objects]] properties as key / value pairs. Can be used with [[JavaScript Maps]] as well. It does the opposite of [[Object.fromEntries]].

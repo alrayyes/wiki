@@ -4,8 +4,6 @@ title: Object.is
 created: 2020-11-13T09:53:00
 ---
 
-# Object.is
-
 ## Description
 
 \~Object.is~ provides a way of comparing values that's more precise than ~===~

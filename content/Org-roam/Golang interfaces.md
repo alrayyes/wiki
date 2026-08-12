@@ -4,8 +4,6 @@ title: Golang interfaces
 created: 2020-08-31T17:18:22
 ---
 
-# Golang interfaces
-
 ## Basics
 
 Go supports method interfaces:

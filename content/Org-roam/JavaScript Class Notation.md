@@ -4,8 +4,6 @@ title: JavaScript Class Notation
 created: 2020-10-08T09:03:16
 ---
 
-# JavaScript Class Notation
-
 ## Introduction
 
 By convention, the names of constructors are capitalized so that they can easily be distinguished from other functions. Thanks to [ECMAScript 2015](https://ecma-international.org/ecma-262/6.0/) above can be achieved with a saner notation:

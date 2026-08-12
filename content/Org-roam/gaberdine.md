@@ -4,8 +4,6 @@ title: gaberdine
 created: 2020-11-09T12:30:03
 ---
 
-# gaberdine
-
 Gaberdine[^gaberdine] is a long, loose gown or cloak with wide sleeves, worm by men in the later Middle Ages and into the 16t
 
 ## Footnotes

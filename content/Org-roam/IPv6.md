@@ -4,8 +4,6 @@ title: IPv6
 created: 2022-02-19T13:16:42
 ---
 
-# IPv6
-
 ## Privacy extensions
 
 When a client acquires an address through SLAAC its IPv6 address is derived from the advertised prefix and the MAC address of the network interface of the client. This may raise security concerns as the MAC address of the computer can be easily derived by the IPv6 address. In order to tackle this problem the IPv6 Privacy Extensions standard (RFC 4941[^1]) has been developed. With privacy extensions the kernel generates a temporary address that is mangled from the original autoconfigured address. Private addresses are preferred when connecting to a remote server so the original address is hidden. To enable Privacy Extensions reproduce add these lines to /etc/sysctl.d/40-ipv6.conf:

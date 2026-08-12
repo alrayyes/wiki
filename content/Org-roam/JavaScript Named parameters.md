@@ -4,8 +4,6 @@ title: JavaScript Named parameters
 created: 2020-09-22T16:21:27
 ---
 
-# JavaScript Named parameters
-
 ## Introduction
 
 Introduced with [[ES6]]

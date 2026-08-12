@@ -4,8 +4,6 @@ title: Closure in JavaScript
 created: 2020-07-02T20:43:51
 ---
 
-# Closure in JavaScript
-
 Local bindings are created anew for every call, and different calls can't affect on another calls local bindings.
 
 ```js

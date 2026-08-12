@@ -4,8 +4,6 @@ title: Type Constraint Can Be An Array of Types
 created: 2020-11-13T17:28:16
 ---
 
-# Type Constraint Can Be An Array of Types
-
 ## Syntax
 
 ```php

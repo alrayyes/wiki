@@ -4,8 +4,6 @@ title: JavaScript RegExp Test Method
 created: 2020-11-04T10:17:23
 ---
 
-# JavaScript RegExp Test Method
-
 test[^test] returns true/false:
 
 ```js

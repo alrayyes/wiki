@@ -4,8 +4,6 @@ title: TypeScript Template Literal String Type
 created: 2020-11-23T10:18:10
 ---
 
-# TypeScript Template Literal String Type
-
 ## Description
 
 TypeScript supports template literal strings[^pr], with the same syntax as [[JavaScript Template Literals]]. There is also an in progress PR to switch to type alias helpers[^aliashelpers].

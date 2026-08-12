@@ -4,8 +4,6 @@ title: JavaScript Lookbehind Assertions
 created: 2020-11-09T13:29:44
 ---
 
-# JavaScript Lookbehind Assertions
-
 ## Examples
 
 ### Positive lookbehind assertion

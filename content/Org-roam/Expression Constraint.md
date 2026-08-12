@@ -4,8 +4,6 @@ title: Expression Constraint
 created: 2020-11-09T15:06:40
 ---
 
-# Expression Constraint
-
 ## Syntax
 
 ```php

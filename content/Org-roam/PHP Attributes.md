@@ -4,8 +4,6 @@ title: PHP Attributes
 created: 2020-11-10T10:04:20
 ---
 
-# PHP Attributes
-
 ## Description
 
 Introduced in [[PHP 8.0]]. Attributes[^attributes] are a way to add metadata to classes. Stitcher[^stitcher] has an article that goes in depth.

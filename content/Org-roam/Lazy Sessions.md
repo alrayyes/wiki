@@ -4,8 +4,6 @@ title: Lazy Sessions
 created: 2020-11-09T15:10:19
 ---
 
-# Lazy Sessions
-
 ## Introduction
 
 PHP 7.0 introduced a new interface called ~SessionUpdateTimestampHandlerInterface~. As of [[Symfony 4.0]] this has been added to the [[Symfony PHP7 Polyfill component]]

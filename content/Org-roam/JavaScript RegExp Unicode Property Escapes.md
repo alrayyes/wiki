@@ -4,8 +4,6 @@ title: JavaScript RegExp Unicode Property Escapes
 created: 2020-11-06T09:06:34
 ---
 
-# JavaScript RegExp Unicode Property Escapes
-
 ## Description
 
 Characters can be matched by mentioning their Unicode character properties inside of ~\p{}~:

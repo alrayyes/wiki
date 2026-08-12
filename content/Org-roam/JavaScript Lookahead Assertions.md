@@ -4,8 +4,6 @@ title: JavaScript Lookahead Assertions
 created: 2020-11-09T13:24:57
 ---
 
-# JavaScript Lookahead Assertions
-
 ## Examples
 
 ### Positive lookahead assertion

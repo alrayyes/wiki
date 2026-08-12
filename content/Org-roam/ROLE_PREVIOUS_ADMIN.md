@@ -4,8 +4,6 @@ title: ROLE_PREVIOUS_ADMIN
 created: 2020-11-16T12:21:25
 ---
 
-# ROLE\_PREVIOUS\_ADMIN
-
 ## Description
 
 Shows that currently logged in user is impersonating another user

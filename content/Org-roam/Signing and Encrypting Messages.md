@@ -4,8 +4,6 @@ title: Signing and Encrypting Messages
 created: 2020-11-13T17:31:59
 ---
 
-# Signing and Encrypting Messages
-
 ## Description
 
 Emails can be signed an encrypted using the S/MIME[^mime] standard.

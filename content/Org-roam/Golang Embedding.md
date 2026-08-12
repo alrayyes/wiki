@@ -4,8 +4,6 @@ title: Golang Embedding
 created: 2020-09-28T19:32:45
 ---
 
-# Golang Embedding
-
 ## Description
 
 [Embedding](https://golang.org/doc/effective_go.html#embedding) is Gos answer to subclasses. There's one caveat:

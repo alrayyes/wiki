@@ -4,8 +4,6 @@ title: Rust Vectors
 created: 2020-09-15T14:04:49
 ---
 
-# Rust Vectors
-
 ## Traits
 
 ### std

@@ -4,8 +4,6 @@ title: TypeScript Inline Type Annotation
 created: 2020-09-29T16:24:17
 ---
 
-# TypeScript Inline Type Annotation
-
 ## Syntax
 
 ```typescript

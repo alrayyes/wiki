@@ -4,8 +4,6 @@ title: JavaScript String Prototype Methods
 created: 2020-11-12T09:53:41
 ---
 
-# JavaScript String Prototype Methods
-
 ## Methods
 
 - [[JavaScript String endsWith Method]]

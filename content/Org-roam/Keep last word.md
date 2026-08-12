@@ -4,8 +4,6 @@ title: Keep last word
 created: 2020-11-16T13:03:27
 ---
 
-# Keep last word
-
 ## Description
 
 Keep last word when truncating.

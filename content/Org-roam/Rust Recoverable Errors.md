@@ -4,8 +4,6 @@ title: Rust Recoverable Errors
 created: 2020-09-16T16:37:37
 ---
 
-# Rust Recoverable Errors
-
 ## match
 
 In Rust we use the [[Rust Pattern Syntax]] expression to check for errors in the [Result](https://doc.rust-lang.org/std/result/enum.Result.html):

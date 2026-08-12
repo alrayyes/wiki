@@ -4,8 +4,6 @@ title: PHP Weap Maps
 created: 2020-11-10T10:36:54
 ---
 
-# PHP Weap Maps
-
 ## Description
 
 Weak maps[^weakmaps] allow creating a map from objects to arbitrary values (similar to SplObjectStorage) without preventing the objects that are used as keys from being garbage collected. If an object key is garbage collected, it will simply be removed from the map. This will save a lot of headaches for people writing things like ORMs.

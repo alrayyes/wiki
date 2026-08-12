@@ -4,8 +4,6 @@ title: Lowercase
 created: 2020-11-23T10:33:15
 ---
 
-# Lowercase
-
 ## Description
 
 Transforms every string character to lowercase for [[TypeScript Template Literal String Type]].

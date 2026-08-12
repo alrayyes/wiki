@@ -4,8 +4,6 @@ title: Rust books & exercises
 created: 2020-08-27T17:13:18
 ---
 
-# Rust books & exercises
-
 ## Books
 
 - The Rust Programming Language[^rustbook]

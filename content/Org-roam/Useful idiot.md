@@ -4,8 +4,6 @@ title: Useful idiot
 created: 2020-10-29T19:53:02
 ---
 
-# Useful idiot
-
 In political jargon, a useful idiot is a derogatory term for a person perceived
 as propagandizing for a cause without fully comprehending the cause's goals, and
 who is cynically used by the cause's leaders. The term was originally used

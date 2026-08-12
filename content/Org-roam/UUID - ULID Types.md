@@ -6,8 +6,6 @@ title: UUID / ULID Types
 created: 2020-11-17T10:14:52
 ---
 
-# UUID / ULID Types
-
 ## Description
 
 Symfony has [[Doctrine]] types and generators for [[Symfony UUID Component]]

@@ -4,8 +4,6 @@ title: globalThis
 created: 2020-11-16T17:05:38
 ---
 
-# globalThis
-
 ## Description
 
 This eases yet another JavaScript pita. Replaces the different global object names:

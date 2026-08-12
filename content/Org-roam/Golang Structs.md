@@ -4,8 +4,6 @@ title: Golang Structs
 created: 2020-08-28T18:12:59
 ---
 
-# Golang Structs
-
 ## Basics
 
 Golang structs are what you expect

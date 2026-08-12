@@ -4,8 +4,6 @@ title: Symfony Argon2i Password Hasher
 created: 2020-11-10T15:27:30
 ---
 
-# Symfony Argon2i Password Hasher
-
 ## IMPORTANT
 
 Deprecated in [[Symfony 4.3]] and replaced with [[Sodium password encoder]]!!!

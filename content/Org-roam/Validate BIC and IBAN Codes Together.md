@@ -4,8 +4,6 @@ title: Validate BIC and IBAN Codes Together
 created: 2020-11-12T12:32:44
 ---
 
-# Validate BIC and IBAN Codes Together
-
 ## Syntax
 
 ```php

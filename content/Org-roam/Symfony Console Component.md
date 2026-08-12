@@ -4,8 +4,6 @@ title: Symfony Console Component
 created: 2020-11-09T14:13:25
 ---
 
-# Symfony Console Component
-
 - [[Single Command Applications]]
 
 ## Colours

@@ -4,8 +4,6 @@ title: TypeScript Enums
 created: 2020-09-30T11:07:21
 ---
 
-# TypeScript Enums
-
 ## Syntax
 
 ```typescript

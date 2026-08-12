@@ -4,8 +4,6 @@ title: Golang Pointers
 created: 2020-08-28T18:09:57
 ---
 
-# Golang Pointers
-
 ## Basics
 
 Go also supports pointers. Default value is always NULL and you can't do pointer arithmetic. Other than that, nothing that will blow your mind here.

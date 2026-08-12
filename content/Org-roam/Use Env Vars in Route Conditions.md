@@ -4,8 +4,6 @@ title: Use Env Vars in Route Conditions
 created: 2020-11-16T13:16:33
 ---
 
-# Use Env Vars in Route Conditions
-
 ## Syntax
 
 ```php

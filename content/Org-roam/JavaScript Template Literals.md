@@ -4,8 +4,6 @@ title: JavaScript Template Literals
 created: 2020-11-12T10:06:37
 ---
 
-# JavaScript Template Literals
-
 ## Description
 
 Template literals[^literals] can span lines and also embed other values. \${} in a template literal will be computed and converted to a [[JavaScript Strings]].

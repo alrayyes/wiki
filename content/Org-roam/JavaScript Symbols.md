@@ -4,8 +4,6 @@ title: JavaScript Symbols
 created: 2020-11-13T09:24:54
 ---
 
-# JavaScript Symbols
-
 - [[JavaScript Symbol Prototype Methods]]
 
 ## Description

@@ -4,8 +4,6 @@ title: Array.of()
 created: 2020-11-13T10:58:47
 ---
 
-# Array.of()
-
 ## Description
 
 This returns an array of the passed parameters

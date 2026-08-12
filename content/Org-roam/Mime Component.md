@@ -4,8 +4,6 @@ title: Mime Component
 created: 2020-11-12T14:06:50
 ---
 
-# Mime Component
-
 ## Syntax
 
 ```php

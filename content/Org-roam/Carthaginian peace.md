@@ -4,8 +4,6 @@ title: Carthaginian peace
 created: 2020-10-29T19:48:38
 ---
 
-# Carthaginian peace
-
 A Carthaginian peace is the imposition of a very brutal "peace" achieved by
 completely crushing the enemy.The term derives from the peace imposed on
 [Carthage](https://en.wikipedia.org/wiki/Ancient_Carthage) by [Rome](https://en.wikipedia.org/wiki/Ancient_Rome). After the [Second Punic War](https://en.wikipedia.org/wiki/Second_Punic_War), Carthage lost all its colonies,

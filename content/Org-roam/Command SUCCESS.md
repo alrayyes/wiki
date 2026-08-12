@@ -6,8 +6,6 @@ title: Command::SUCCESS
 created: 2020-11-16T14:16:57
 ---
 
-# Command::SUCCESS
-
 ## Description
 
 SUCCESS constant to be used as command exit code

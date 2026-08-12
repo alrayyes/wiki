@@ -4,8 +4,6 @@ title: NotBlank Constraint
 created: 2020-11-12T13:07:10
 ---
 
-# NotBlank Constraint
-
 ## Syntax
 
 ```php

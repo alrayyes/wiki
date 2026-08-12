@@ -4,8 +4,6 @@ title: JavaScript For Statement
 created: 2020-10-30T09:40:40
 ---
 
-# JavaScript For Statement
-
 ## Syntax
 
 ```js

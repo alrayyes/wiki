@@ -4,8 +4,6 @@ title: Switch expression
 created: 2020-11-13T12:20:00
 ---
 
-# Switch expression
-
 ## Description
 
 Probably a better idea to use [[Match expression]].

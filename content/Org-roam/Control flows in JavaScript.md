@@ -4,8 +4,6 @@ title: Control flows in JavaScript
 created: 2020-06-13T17:25:34
 ---
 
-# Control flows in JavaScript
-
 ## ES6
 
 ### for-of

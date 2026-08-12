@@ -4,8 +4,6 @@ title: Single Command Applications
 created: 2020-11-16T12:51:48
 ---
 
-# Single Command Applications
-
 ## Syntax
 
 ```php

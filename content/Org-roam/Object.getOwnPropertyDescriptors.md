@@ -4,8 +4,6 @@ title: Object.getOwnPropertyDescriptors
 created: 2020-11-13T10:21:25
 ---
 
-# Object.getOwnPropertyDescriptors
-
 ## Description
 
 Returns property descriptors of all known properties of an [[JavaScript Objects]].

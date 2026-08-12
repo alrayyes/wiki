@@ -4,8 +4,6 @@ title: Symfony Console Iterable Progress Bars
 created: 2020-11-12T13:02:34
 ---
 
-# Symfony Console Iterable Progress Bars
-
 ## Changes
 
 - [[iterate() method]]

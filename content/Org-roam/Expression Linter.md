@@ -4,8 +4,6 @@ title: Expression Linter
 created: 2020-11-16T13:59:15
 ---
 
-# Expression Linter
-
 ## Description
 
 Lint your expressions

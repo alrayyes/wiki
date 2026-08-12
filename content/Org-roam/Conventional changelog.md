@@ -4,8 +4,6 @@ title: Conventional changelog
 created: 2020-11-15T14:14:21
 ---
 
-# Conventional changelog
-
 - [[Commit guidelines]]
 
 ## Reference

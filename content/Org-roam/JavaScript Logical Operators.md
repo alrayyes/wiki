@@ -4,8 +4,6 @@ title: JavaScript Logical Operators
 created: 2020-11-12T10:56:47
 ---
 
-# JavaScript Logical Operators
-
 ## Syntax
 
 ```js

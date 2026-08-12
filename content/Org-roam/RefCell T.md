@@ -6,8 +6,6 @@ title: RefCell<T>
 created: 2020-09-29T15:26:28
 ---
 
-# RefCell<T>
-
 ## Introduction
 
 /Interior mutability/ is a design pattern in Rust that allows you to mutate data even when there are immutable references to that data; normally, this action is disallowed by the borrowing rules. To mutate data, the pattern uses ~unsafe~ code inside a data structure to bend Rust’s usual rules that govern mutation and borrowing. We can use types that use the interior mutability pattern when we can ensure that the borrowing rules will be followed at runtime, even though the compiler can’t guarantee that. The ~unsafe~ code involved is then wrapped in a safe API, and the outer type is still immutable.

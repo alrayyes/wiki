@@ -4,8 +4,6 @@ title: reverse()
 created: 2020-11-16T13:07:38
 ---
 
-# reverse()
-
 ## Description
 
 Flips the order of the string contents.

@@ -4,8 +4,6 @@ title: Notification Emails
 created: 2020-11-13T17:40:16
 ---
 
-# Notification Emails
-
 ## Description
 
 Standardized messages used to send notifications to yourself

@@ -4,8 +4,6 @@ title: JavaScript declaration notation
 created: 2020-10-06T11:12:44
 ---
 
-# JavaScript declaration notation
-
 There is a shorter way to declare functions:
 
 ```js

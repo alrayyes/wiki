@@ -4,8 +4,6 @@ title: Pournelle's Iron Law of Bureaucracy
 created: 2022-05-07T13:06:34
 ---
 
-# Pournelle's Iron Law of Bureaucracy
-
 Pournelle's Iron Law of Bureaucracy[^1] states that in any bureaucratic organization there will be two kinds of people":
 
 > ```

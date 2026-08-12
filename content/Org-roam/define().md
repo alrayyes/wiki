@@ -4,8 +4,6 @@ title: define()
 created: 2020-11-16T14:27:09
 ---
 
-# define()
-
 ## Syntax
 
 ```php

@@ -4,8 +4,6 @@ title: as_mut_ptr_range
 created: 2020-11-20T10:10:47
 ---
 
-# as\_mut\_ptr\_range
-
 ## Description
 
 Returns the two unsafe mutable pointers spanning the slice.

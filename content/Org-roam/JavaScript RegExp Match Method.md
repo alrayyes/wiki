@@ -4,8 +4,6 @@ title: JavaScript RegExp Match Method
 created: 2020-11-04T10:22:12
 ---
 
-# JavaScript RegExp Match Method
-
 `match` is similar to [[JavaScript RegExp Exec Method]], but in flip mode:
 
 ```js

@@ -4,8 +4,6 @@ title: lib.d.ts
 created: 2020-10-01T10:55:45
 ---
 
-# lib.d.ts
-
 ## Introduction
 
 This is where TypeScript "cheats" and ships with a file called [lib.d.ts](https://github.com/microsoft/TypeScript/blob/master/lib/lib.d.ts). This file contains ambient declarations for a whole bunch of common [[JavaScript]] constructs present in JavaScript runtimes and the DOM.

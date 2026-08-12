@@ -4,8 +4,6 @@ title: PHP constructor property promotion
 created: 2020-11-10T10:13:08
 ---
 
-# PHP constructor property promotion
-
 ## Description
 
 Introduced in [[PHP 8.0]], constructor property promotions[^constructor] add new syntatctic sugar to create value & data transfer objects.

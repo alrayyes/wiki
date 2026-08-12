@@ -4,8 +4,6 @@ title: Goroutines
 created: 2020-09-01T14:11:41
 ---
 
-# Goroutines
-
 ## Basics
 
 A ~goroutine~ is a lightweight thread managed by the Go runtime.

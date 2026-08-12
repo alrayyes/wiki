@@ -4,8 +4,6 @@ title: Array.prototype.entries()
 created: 2020-11-13T10:44:23
 ---
 
-# Array.prototype.entries()
-
 ## Syntax
 
 ```js

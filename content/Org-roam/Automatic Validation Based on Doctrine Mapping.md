@@ -4,8 +4,6 @@ title: Automatic Validation Based on Doctrine Mapping
 created: 2020-11-12T13:20:07
 ---
 
-# Automatic Validation Based on Doctrine Mapping
-
 ## Description
 
 From [[Symfony 4.3]], Symfony introduces automatic validation based on Doctrine mapping.

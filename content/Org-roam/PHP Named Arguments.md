@@ -4,8 +4,6 @@ title: PHP Named Arguments
 created: 2020-11-12T11:19:10
 ---
 
-# PHP Named Arguments
-
 ## Description
 
 Allowes named arguments[^rfc] to be used to access parameters in random order, as in [[JavaScript Named parameters]].

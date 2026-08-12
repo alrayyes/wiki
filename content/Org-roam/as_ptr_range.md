@@ -4,8 +4,6 @@ title: as_ptr_range
 created: 2020-11-20T09:57:39
 ---
 
-# as\_ptr\_range
-
 ## Description
 
 as\_ptr\_range[^documentation] returns the two raw pointers spanning the slice.

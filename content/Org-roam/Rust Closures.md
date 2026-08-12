@@ -4,8 +4,6 @@ title: Rust Closures
 created: 2020-09-23T14:40:22
 ---
 
-# Rust Closures
-
 ## Syntax
 
 ### Long

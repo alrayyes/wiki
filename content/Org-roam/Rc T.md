@@ -6,8 +6,6 @@ title: Rc<T>
 created: 2020-09-29T14:55:34
 ---
 
-# Rc<T>
-
 ## Introduction
 
 In the majority of cases, ownership is clear: you know exactly which variable owns a given value. However, there are cases when a single value might have multiple owners. For example, in graph data structures, multiple edges might point to the same node, and that node is conceptually owned by all of the edges that point to it. A node shouldn’t be cleaned up unless it doesn’t have any edges pointing to it.

@@ -4,8 +4,6 @@ title: JavaScript Short Circuiting of Logical Operators
 created: 2020-11-12T10:58:33
 ---
 
-# JavaScript Short Circuiting of Logical Operators
-
 ## Syntax
 
 ```js

@@ -4,8 +4,6 @@ title: Golang slices
 created: 2020-08-28T18:25:46
 ---
 
-# Golang slices
-
 ## Basics
 
 A slice is a dynamically sized, flexible view into the elements of an array. Apparently they are much more common than arrays. Initialization is pretty straight forward:

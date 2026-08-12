@@ -4,8 +4,6 @@ title: TypeScript Recursive Conditional Types
 created: 2020-11-25T08:57:27
 ---
 
-# TypeScript Recursive Conditional Types
-
 ## Description
 
 In [[JavaScript]] it's common to see [[JavaScript function declarations]] that can flatten and build up container types at arbitrary levels. Examples of these are:

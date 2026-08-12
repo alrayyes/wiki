@@ -4,8 +4,6 @@ title: Stack Decorators
 created: 2020-11-16T13:31:13
 ---
 
-# Stack Decorators
-
 ## Description
 
 Syntax to chain several decorators using a "stack".

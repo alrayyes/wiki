@@ -4,8 +4,6 @@ title: Destructuring Objects
 created: 2020-11-03T11:17:46
 ---
 
-# Destructuring Objects
-
 ## Introduction
 
 Destructuring [[JavaScript Objects]] introduced in [[ES6]]. [[Rest Operator (...) in Object Destructuring]] can also be used here.

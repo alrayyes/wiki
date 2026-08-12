@@ -4,8 +4,6 @@ title: Optional arguments in JavaScript functions
 created: 2020-07-02T20:42:26
 ---
 
-# Optional arguments in JavaScript functions
-
 JavaScript is extremely broad-minded about the number of arguments you pass to a function. If you pass too many, the extra ones are ignored. If you pass too few, the missing parameters get assigned the value ~undefined~.
 
 ```js

@@ -4,8 +4,6 @@ title: MatchAll Expression
 created: 2020-11-16T16:53:24
 ---
 
-# MatchAll Expression
-
 ## Description
 
 Find all instances of a regular expression match, including the index.

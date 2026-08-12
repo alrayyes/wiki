@@ -4,8 +4,6 @@ title: checkJs
 created: 2020-11-27T10:13:36
 ---
 
-# checkJs
-
 ## Default
 
 \~false~

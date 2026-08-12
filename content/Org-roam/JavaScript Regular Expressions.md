@@ -4,8 +4,6 @@ title: JavaScript Regular Expressions
 created: 2020-09-02T16:23:05
 ---
 
-# JavaScript Regular Expressions
-
 ## Prototype Methods
 
 - [[JavaScript RegExp Test Method]]

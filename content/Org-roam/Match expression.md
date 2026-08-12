@@ -4,8 +4,6 @@ title: Match expression
 created: 2020-11-13T12:18:13
 ---
 
-# Match expression
-
 ## Description
 
 Match expressions[^rfc] are similar to [[Switch expression]], but with safer semantics and the ability to return values.

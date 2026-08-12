@@ -4,8 +4,6 @@ title: Symfony 4.0
 created: 2020-11-09T14:01:37
 ---
 
-# Symfony 4.0
-
 ## What's new
 
 ### Profiler

@@ -4,8 +4,6 @@ title: JavaScript Class Inheritance
 created: 2020-10-08T09:06:13
 ---
 
-# JavaScript Class Inheritance
-
 ## Example
 
 Classes in JavaScript can inherit from each other

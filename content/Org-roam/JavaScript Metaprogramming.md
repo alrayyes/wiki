@@ -4,8 +4,6 @@ title: JavaScript Metaprogramming
 created: 2020-10-22T09:54:38
 ---
 
-# JavaScript Metaprogramming
-
 ## Introduction
 
 In programming, there are levels:

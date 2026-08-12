@@ -4,8 +4,6 @@ title: Login Throttling
 created: 2020-11-17T11:40:36
 ---
 
-# Login Throttling
-
 ## Description
 
 Uses the [[Symfony RateLimiter Component]] to throttle brute force attacks.

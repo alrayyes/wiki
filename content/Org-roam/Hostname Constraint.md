@@ -4,8 +4,6 @@ title: Hostname Constraint
 created: 2020-11-16T13:24:11
 ---
 
-# Hostname Constraint
-
 ## Description
 
 Validates hostname

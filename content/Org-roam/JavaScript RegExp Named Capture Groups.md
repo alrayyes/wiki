@@ -4,8 +4,6 @@ title: JavaScript RegExp Named Capture Groups
 created: 2020-11-04T10:04:31
 ---
 
-# JavaScript RegExp Named Capture Groups
-
 ## Introduction
 
 This was introduced in [[ES2018]]

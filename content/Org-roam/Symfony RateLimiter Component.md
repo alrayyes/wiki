@@ -4,8 +4,6 @@ title: Symfony RateLimiter Component
 created: 2020-11-17T11:34:04
 ---
 
-# Symfony RateLimiter Component
-
 ## Description
 
 Introduced in [[Symfony 5.2]]. See documentation[^documentation]

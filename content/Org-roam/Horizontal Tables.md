@@ -4,8 +4,6 @@ title: Horizontal Tables
 created: 2020-11-13T18:09:28
 ---
 
-# Horizontal Tables
-
 ## Syntax
 
 ```php

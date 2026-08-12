@@ -4,8 +4,6 @@ title: Symfony 5.0
 created: 2020-11-13T17:20:25
 ---
 
-# Symfony 5.0
-
 ## Components
 
 ### Mailer

@@ -4,8 +4,6 @@ title: Characters That Count as Whitespace
 created: 2020-11-16T10:09:26
 ---
 
-# Characters That Count as Whitespace
-
 ## Description
 
 Characters that count as whitespace in [[JavaScript Strings]].

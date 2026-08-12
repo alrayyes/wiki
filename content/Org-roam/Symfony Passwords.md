@@ -4,8 +4,6 @@ title: Symfony Passwords
 created: 2020-11-12T13:36:03
 ---
 
-# Symfony Passwords
-
 ## Hashers
 
 - +[[Symfony Argon2i Password Hasher]]+ Deprecated in [[Symfony 4.3]]

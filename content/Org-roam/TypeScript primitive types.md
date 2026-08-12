@@ -4,8 +4,6 @@ title: TypeScript primitive types
 created: 2020-09-29T16:15:44
 ---
 
-# TypeScript primitive types
-
 ## Syntax
 
 ### Number

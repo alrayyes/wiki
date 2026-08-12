@@ -4,8 +4,6 @@ title: Array.prototype.find()
 created: 2020-11-13T10:43:52
 ---
 
-# Array.prototype.find()
-
 ## Syntax
 
 ```js

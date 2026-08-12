@@ -4,8 +4,6 @@ title: Array.from()
 created: 2020-11-13T10:58:32
 ---
 
-# Array.from()
-
 ## Syntax
 
 ```js

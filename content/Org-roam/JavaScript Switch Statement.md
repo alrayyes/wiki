@@ -4,8 +4,6 @@ title: JavaScript Switch Statement
 created: 2020-10-30T09:41:38
 ---
 
-# JavaScript Switch Statement
-
 ## Syntax
 
 ```js

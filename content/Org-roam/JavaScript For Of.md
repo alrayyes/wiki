@@ -4,8 +4,6 @@ title: JavaScript For Of
 created: 2020-10-30T09:33:04
 ---
 
-# JavaScript For Of
-
 ## Syntax
 
 ```js

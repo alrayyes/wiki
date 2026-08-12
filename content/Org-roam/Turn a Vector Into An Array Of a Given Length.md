@@ -4,8 +4,6 @@ title: Turn a Vector Into An Array Of a Given Length
 created: 2020-11-20T10:46:59
 ---
 
-# Turn a Vector Into An Array Of a Given Length
-
 ## Description
 
 It's possible to convert [[Rust Vectors]] into arrays of a given length.

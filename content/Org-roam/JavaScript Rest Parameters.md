@@ -4,8 +4,6 @@ title: JavaScript Rest Parameters
 created: 2020-09-22T16:25:00
 ---
 
-# JavaScript Rest Parameters
-
 ## Introduction
 
 Introduced in [[ES6]]

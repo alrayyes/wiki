@@ -4,8 +4,6 @@ title: Ambient Declarations
 created: 2020-09-30T10:59:54
 ---
 
-# Ambient Declarations
-
 ## Introduction
 
 Ambient declarations allow you to safely use existing popular JavaScript libraries and incrementally migrate your JavaScript/CoffeeScript/Other-Compile-To-Js-Language project to TypeScript.

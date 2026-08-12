@@ -4,8 +4,6 @@ title: JavaScript For Await Of
 created: 2020-10-30T09:57:41
 ---
 
-# JavaScript For Await Of
-
 ## Syntax
 
 ```js

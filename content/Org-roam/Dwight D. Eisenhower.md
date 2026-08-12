@@ -4,8 +4,6 @@ title: Dwight D. Eisenhower
 created: 2020-11-14T10:20:43
 ---
 
-# Dwight D. Eisenhower
-
 ## Quotes
 
 ### Nuclear War

@@ -4,8 +4,6 @@ title: predicate
 created: 2020-11-26T10:13:27
 ---
 
-# predicate
-
 ## Origin
 
 Latin praedicatus "something declared"

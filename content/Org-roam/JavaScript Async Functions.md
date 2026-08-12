@@ -4,8 +4,6 @@ title: JavaScript Async Functions
 created: 2020-10-26T10:37:14
 ---
 
-# JavaScript Async Functions
-
 ## Introduction
 
 Async Functions[^async-functions] is a new feature implemented in [[ES2017]] to handle [[JavaScript Promises]].

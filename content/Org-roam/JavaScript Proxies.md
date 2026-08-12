@@ -4,8 +4,6 @@ title: JavaScript Proxies
 created: 2020-10-22T09:42:07
 ---
 
-# JavaScript Proxies
-
 ## Introduction
 
 ECMAScript 6 proxies bring intercession to [[JavaScript]]. They work as follows. There are many operations that you can perform on an [[JavaScript Objects]] obj. For example:

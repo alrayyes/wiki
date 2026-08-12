@@ -6,8 +6,6 @@ title: ConsoleEvents::SIGNAL
 created: 2020-11-17T11:51:46
 ---
 
-# ConsoleEvents::SIGNAL
-
 ## Description
 
 [[Events]] to handle application command [[Console Signals]].

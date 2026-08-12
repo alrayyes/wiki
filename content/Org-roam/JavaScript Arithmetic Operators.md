@@ -4,8 +4,6 @@ title: JavaScript Arithmetic Operators
 created: 2020-11-12T10:38:49
 ---
 
-# JavaScript Arithmetic Operators
-
 ## Operators
 
 - [[JavaScript Addition Operator]]

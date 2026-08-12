@@ -4,8 +4,6 @@ title: Rest Operator (...) in Object Destructuring
 created: 2020-11-03T11:13:57
 ---
 
-# Rest Operator (...) in Object Destructuring
-
 ## Introduction
 
 Introduced in [[ES2018]] to help with [[JavaScript Destructuring]].

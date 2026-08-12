@@ -4,8 +4,6 @@ title: JavaScript Types
 created: 2020-06-13T17:17:43
 ---
 
-# JavaScript Types
-
 ## Numbers
 
 JavaScript uses 64 bits to store number values

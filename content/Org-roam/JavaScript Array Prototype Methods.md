@@ -4,8 +4,6 @@ title: JavaScript Array Prototype Methods
 created: 2020-10-09T09:03:31
 ---
 
-# JavaScript Array Prototype Methods
-
 - [[Array.prototype.copyWithin()]]
 - [[Array.prototype.fill()]]
 - [[Array.prototype.includes()]]

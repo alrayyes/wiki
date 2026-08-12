@@ -4,8 +4,6 @@ title: Deprecate Public Services Into Private Services
 created: 2020-11-16T13:47:58
 ---
 
-# Deprecate Public Services Into Private Services
-
 ## Description
 
 Deprecated public services and turns them into private

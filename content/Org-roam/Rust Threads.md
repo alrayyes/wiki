@@ -4,8 +4,6 @@ title: Rust Threads
 created: 2020-09-30T12:19:04
 ---
 
-# Rust Threads
-
 ## Introduction
 
 Programming languages implement threads in a few different ways. Many operating systems provide an API for creating new threads. This model where a language calls the operating system APIs to create threads is sometimes called /1:1/, meaning one operating system thread per one language thread.

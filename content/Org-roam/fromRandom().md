@@ -4,8 +4,6 @@ title: fromRandom()
 created: 2020-11-16T14:23:17
 ---
 
-# fromRandom()
-
 ## Description
 
 Generates random alphanumeric strings

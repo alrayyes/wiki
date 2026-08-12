@@ -4,8 +4,6 @@ title: JavaScript Division Operator
 created: 2020-11-12T10:44:18
 ---
 
-# JavaScript Division Operator
-
 ## Syntax
 
 ```js

@@ -4,8 +4,6 @@ title: TypeScript
 created: 2020-09-29T16:11:26
 ---
 
-# TypeScript
-
 ## Types
 
 - [[TypeScript Arrays]]

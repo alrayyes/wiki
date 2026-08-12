@@ -4,8 +4,6 @@ title: Unique Constraint
 created: 2020-11-12T13:23:31
 ---
 
-# Unique Constraint
-
 ## Syntax
 
 ```php

@@ -4,8 +4,6 @@ title: Rust enums
 created: 2020-09-02T15:07:14
 ---
 
-# Rust enums
-
 ## Basics
 
 Rust also supports [enums](https://doc.rust-lang.org/rust-by-example/custom_types/enum.html).

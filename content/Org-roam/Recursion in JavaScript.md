@@ -4,8 +4,6 @@ title: Recursion in JavaScript
 created: 2020-07-02T20:44:37
 ---
 
-# Recursion in JavaScript
-
 ```js
 function power(base, exponent) {
   if (exponent == 0) {

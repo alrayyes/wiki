@@ -4,8 +4,6 @@ title: TypeScript jsx flag
 created: 2020-11-30T08:51:24
 ---
 
-# TypeScript jsx flag
-
 See documentat[^documentation]
 
 ## Values

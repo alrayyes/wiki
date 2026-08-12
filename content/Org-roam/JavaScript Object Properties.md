@@ -4,8 +4,6 @@ title: JavaScript Object Properties
 created: 2020-11-13T09:11:10
 ---
 
-# JavaScript Object Properties
-
 ## Description
 
 Values of the type [[JavaScript Objects]] are arbitrary collections of properties

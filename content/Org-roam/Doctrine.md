@@ -4,8 +4,6 @@ title: Doctrine
 created: 2020-11-12T13:18:45
 ---
 
-# Doctrine
-
 ## Symfony
 
 ### Validation

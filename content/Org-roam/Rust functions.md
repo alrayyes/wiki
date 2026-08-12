@@ -4,8 +4,6 @@ title: Rust functions
 created: 2020-08-27T17:09:31
 ---
 
-# Rust functions
-
 ## Functions
 
 ### Case

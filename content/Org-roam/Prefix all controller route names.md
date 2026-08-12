@@ -4,8 +4,6 @@ title: Prefix all controller route names
 created: 2020-11-09T14:23:51
 ---
 
-# Prefix all controller route names
-
 ## Introduction
 
 From [[Symfony 4.0]] the class of a controller can define the ~@Route~ annotation to set a common prefix for the URLs used by the action methods:

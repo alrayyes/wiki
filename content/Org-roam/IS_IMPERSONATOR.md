@@ -4,8 +4,6 @@ title: IS_IMPERSONATOR
 created: 2020-11-16T12:25:25
 ---
 
-# IS\_IMPERSONATOR
-
 ## Description
 
 Replacement for [[ROLE_PREVIOUS_ADMIN]]

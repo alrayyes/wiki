@@ -4,8 +4,6 @@ title: JavaScript Numbers
 created: 2020-09-22T16:44:16
 ---
 
-# JavaScript Numbers
-
 ## Numbers
 
 - [[Fractional Numbers]]

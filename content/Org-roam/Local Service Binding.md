@@ -4,8 +4,6 @@ title: Local Service Binding
 created: 2020-11-09T15:31:59
 ---
 
-# Local Service Binding
-
 ## Introduction
 
 Since [[Symfony 4.0]] autowiring scalar arguments has been simplified with local binding:

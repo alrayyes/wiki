@@ -4,8 +4,6 @@ title: Economic state of USSR 1942-1943
 created: 2020-07-04T15:15:08
 ---
 
-# Economic state of USSR 1942-1943
-
 ## Outline
 
 - Impossible to calculate as Soviet figures are unreliable at best. Relying on

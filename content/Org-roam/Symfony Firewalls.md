@@ -4,6 +4,4 @@ title: Symfony Firewalls
 created: 2020-11-13T18:32:09
 ---
 
-# Symfony Firewalls
-
 - [[Lazy Firewalls]]

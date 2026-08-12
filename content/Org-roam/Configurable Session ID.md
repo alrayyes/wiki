@@ -4,8 +4,6 @@ title: Configurable Session ID
 created: 2020-11-12T12:54:13
 ---
 
-# Configurable Session ID
-
 ## Syntax
 
 ```yaml

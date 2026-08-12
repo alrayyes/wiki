@@ -4,8 +4,6 @@ title: Rust Generics
 created: 2020-09-17T16:17:57
 ---
 
-# Rust Generics
-
 ## Function definitions
 
 We read the following definition as: the function largest is generic over some type T. This function has one parameter named list, which is a slice of values of type T. The largest function will return a reference to a value of the same type T.

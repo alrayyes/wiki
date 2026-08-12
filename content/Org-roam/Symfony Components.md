@@ -4,8 +4,6 @@ title: Symfony Components
 created: 2020-11-10T15:26:27
 ---
 
-# Symfony Components
-
 ## Components
 
 - [[Symfony Console Component]]

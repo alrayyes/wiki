@@ -4,8 +4,6 @@ title: TypeScript Mapped Type
 created: 2020-11-24T08:53:35
 ---
 
-# TypeScript Mapped Type
-
 ## Description
 
 A mapped type can create new object types based on arbitrary keys or new object types based on other object types.

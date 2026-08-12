@@ -4,8 +4,6 @@ title: JavaScript Promises
 created: 2020-09-11T15:43:51
 ---
 
-# JavaScript Promises
-
 ## Introduction
 
 A Promise[^footnote] is an asynchronous action that may complete at some point and produce a value. It is able to notify anyone who is interested when its value is available.

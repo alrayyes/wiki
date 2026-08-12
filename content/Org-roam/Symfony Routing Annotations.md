@@ -4,8 +4,6 @@ title: Symfony Routing Annotations
 created: 2020-11-17T10:56:17
 ---
 
-# Symfony Routing Annotations
-
 ## Annotations
 
 - [[Prefix all controller route names]]

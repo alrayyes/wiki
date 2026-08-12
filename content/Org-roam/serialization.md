@@ -4,8 +4,6 @@ title: serialization
 created: 2020-11-26T10:31:42
 ---
 
-# serialization
-
 ## Origin
 
 English series "in order"

@@ -4,8 +4,6 @@ title: ExpressionLanguage Constraint
 created: 2020-11-09T15:06:40
 ---
 
-# ExpressionLanguage Constraint
-
 ## Syntax
 
 ```php

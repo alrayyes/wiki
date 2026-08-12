@@ -4,8 +4,6 @@ title: JavaScript Object Operators
 created: 2020-11-13T09:00:50
 ---
 
-# JavaScript Object Operators
-
 ## Operators
 
 - [[JavaScript In Operator]]

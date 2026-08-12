@@ -4,8 +4,6 @@ title: Lazy Commands
 created: 2020-11-09T14:15:40
 ---
 
-# Lazy Commands
-
 ## Description
 
 From [[Symfony 4.0]] commands are lazily loaded. One broken command won't break all the other commands you have. In order to lazy-load a command do the following:

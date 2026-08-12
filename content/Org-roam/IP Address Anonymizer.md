@@ -4,8 +4,6 @@ title: IP Address Anonymizer
 created: 2020-11-13T18:25:23
 ---
 
-# IP Address Anonymizer
-
 ## Description
 
 Removes last byte for IPV4 addresses and last 8 bytes for IPV6

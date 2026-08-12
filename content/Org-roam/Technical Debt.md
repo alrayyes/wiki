@@ -4,8 +4,6 @@ title: Technical Debt
 created: 2021-04-05T11:48:13
 ---
 
-# Technical Debt
-
 ## Types
 
 - [[Code debt]]

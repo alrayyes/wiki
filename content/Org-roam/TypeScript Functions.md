@@ -4,8 +4,6 @@ title: TypeScript Functions
 created: 2020-10-01T11:08:06
 ---
 
-# TypeScript Functions
-
 ## TypeScript 4.0
 
 ### Variadic Tuple Types

@@ -4,8 +4,6 @@ title: JavaScript String To Array Conversion
 created: 2020-11-12T10:25:37
 ---
 
-# JavaScript String To Array Conversion
-
 ## Description
 
 Strings can be [[JavaScript Type Conversion]] into [[JavaScript Arrays]] with the [[Spread (...)]] operator:

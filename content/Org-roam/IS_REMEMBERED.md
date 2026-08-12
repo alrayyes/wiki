@@ -4,8 +4,6 @@ title: IS_REMEMBERED
 created: 2020-11-16T12:17:59
 ---
 
-# IS\_REMEMBERED
-
 ## Description
 
 Checks if user is a "Remember Me" user. Replaces [[IS_AUTHENTICATED_FULLY]] & [[IS_AUTHENTICATED_REMEMBERED]]

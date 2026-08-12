@@ -4,8 +4,6 @@ title: Bindings and scopes in JavaScript
 created: 2020-07-02T20:32:50
 ---
 
-# Bindings and scopes in JavaScript
-
 ## Bindings
 
 - For bindings defined outside of any function or block, the scope is the whole program. We call these ~global~ bindings

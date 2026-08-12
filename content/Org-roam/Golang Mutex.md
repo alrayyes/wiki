@@ -4,8 +4,6 @@ title: Golang Mutex
 created: 2020-09-18T17:38:20
 ---
 
-# Golang Mutex
-
 ## Description
 
 [Mutex](https://golang.org/pkg/sync/#Mutex) allows up to add locks to our data so it can be accessed safely in a concurrent manner. While locked other threads can't access the data. ~Mutexes~ should generally be used for [managing state](https://github.com/golang/go/wiki/MutexOrChannel).

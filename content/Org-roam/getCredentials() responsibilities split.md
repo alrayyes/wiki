@@ -4,8 +4,6 @@ title: getCredentials() responsibilities split
 created: 2020-11-09T15:25:27
 ---
 
-# getCredentials() responsibilities split
-
 Since [[Symfony 4.0]] ~getCredentials()~ responsibilities has been split into 2 methods:
 
 ```php

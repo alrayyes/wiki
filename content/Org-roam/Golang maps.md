@@ -4,8 +4,6 @@ title: Golang maps
 created: 2020-08-28T19:20:34
 ---
 
-# Golang maps
-
 ## Basics
 
 A map maps keys to values, ie: associative arrays. Zero value of a map is ~nil~. ~make~ function returns a new ~map~.

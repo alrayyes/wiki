@@ -4,8 +4,6 @@ title: Golang Errors
 created: 2020-09-09T20:24:54
 ---
 
-# Golang Errors
-
 ## Basics
 
 Go supports Errors

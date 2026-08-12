@@ -4,8 +4,6 @@ title: antecedent
 created: 2020-10-30T19:57:42
 ---
 
-# antecedent
-
 ## Noun
 
 1. a thing that existed before or logically precedes another.

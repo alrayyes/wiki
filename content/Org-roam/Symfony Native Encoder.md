@@ -4,8 +4,6 @@ title: Symfony Native Encoder
 created: 2020-11-12T13:58:51
 ---
 
-# Symfony Native Encoder
-
 ## Description
 
 This is best practice since [[Symfony 4.3]].

@@ -4,8 +4,6 @@ title: Design debt
 created: 2021-04-05T11:53:33
 ---
 
-# Design debt
-
 ## Examples
 
 - Violations of design rules

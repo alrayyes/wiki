@@ -4,8 +4,6 @@ title: TypeScript Never Type
 created: 2020-10-07T09:56:14
 ---
 
-# TypeScript Never Type
-
 ## Introduction
 
 [[TypeScript]] supports bottom types[^bottomtypes]. Cases where this occurs:

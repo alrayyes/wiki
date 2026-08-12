@@ -4,8 +4,6 @@ title: TypeScript Tuple Type
 created: 2020-09-29T16:36:24
 ---
 
-# TypeScript Tuple Type
-
 ## Syntax
 
 ### Basic

@@ -4,8 +4,6 @@ title: LogoutEvent
 created: 2020-11-16T13:39:07
 ---
 
-# LogoutEvent
-
 ## Description
 
 Replaces ~LogoutSuccessHandlerInterface~ and ~LogougHandlerInterface~

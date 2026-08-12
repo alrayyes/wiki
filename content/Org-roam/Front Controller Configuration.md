@@ -4,8 +4,6 @@ title: Front Controller Configuration
 created: 2020-11-17T11:44:43
 ---
 
-# Front Controller Configuration
-
 ## Description
 
 Front controller behaviour can be configured using configuration options. Pre PHP 7.4 there was a 20% penalty of doing this vs editing the ~index.php~ file. However, PHP preloading[^preloading] negates this. Post PHP 7.4 configuration options can be used without a performance penalty.

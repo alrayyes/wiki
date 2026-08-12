@@ -4,8 +4,6 @@ title: Invokable Doctrine Entity Listeners
 created: 2020-11-13T18:07:22
 ---
 
-# Invokable Doctrine Entity Listeners
-
 ## Syntax
 
 ```php

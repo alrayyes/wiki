@@ -4,8 +4,6 @@ title: Console Signals
 created: 2020-11-17T11:49:30
 ---
 
-# Console Signals
-
 ## Description
 
 Symfony supports console signals[^signals].

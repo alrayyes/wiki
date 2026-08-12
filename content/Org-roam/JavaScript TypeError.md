@@ -4,8 +4,6 @@ title: JavaScript TypeError
 created: 2020-11-11T09:34:00
 ---
 
-# JavaScript TypeError
-
 ### TypeError
 
 ```js

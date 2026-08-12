@@ -4,8 +4,6 @@ title: Kent Beck
 created: 2025-01-30T14:35:51
 ---
 
-# Kent Beck
-
 ## Quotes
 
 ### Programming

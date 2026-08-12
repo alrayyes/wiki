@@ -4,8 +4,6 @@ title: Array.prototype.map()
 created: 2020-11-13T11:31:41
 ---
 
-# Array.prototype.map()
-
 ## Description
 
 \~map()~ creates a new array populated with the results of calling a passed function on every element in the calling array.

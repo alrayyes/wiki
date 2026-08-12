@@ -4,8 +4,6 @@ title: Symfony Forms
 created: 2020-11-09T14:04:50
 ---
 
-# Symfony Forms
-
 ## Profiler
 
 - [[Validator information in the Symfony profiler]]

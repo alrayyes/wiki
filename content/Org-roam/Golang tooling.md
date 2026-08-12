@@ -4,8 +4,6 @@ title: Golang tooling
 created: 2020-08-26T19:15:08
 ---
 
-# Golang tooling
-
 ## Documentation
 
 Install godoc with src\_shell{go get golang.org/x/tools/cmd/godoc}

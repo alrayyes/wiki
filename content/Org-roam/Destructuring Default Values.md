@@ -4,8 +4,6 @@ title: Destructuring Default Values
 created: 2020-11-03T11:31:24
 ---
 
-# Destructuring Default Values
-
 ## Basic syntax
 
 ```js

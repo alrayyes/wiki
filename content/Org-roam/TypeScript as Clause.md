@@ -4,8 +4,6 @@ title: TypeScript as Clause
 created: 2020-11-24T09:54:53
 ---
 
-# TypeScript as Clause
-
 ## Description
 
 Re-map keys in [[TypeScript Mapped Type]]. See the PR[^pr] for more information.

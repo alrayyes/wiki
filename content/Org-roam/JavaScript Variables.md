@@ -4,8 +4,6 @@ title: JavaScript Variables
 created: 2020-06-13T17:05:32
 ---
 
-# JavaScript Variables
-
 ## Types
 
 ### Numbers

@@ -4,8 +4,6 @@ title: JavaScript Array Methods
 created: 2020-10-09T09:03:31
 ---
 
-# JavaScript Array Methods
-
 ## ES6
 
 ### Static Array methods

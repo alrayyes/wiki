@@ -4,8 +4,6 @@ title: Symfony 4.2
 created: 2020-11-11T10:17:06
 ---
 
-# Symfony 4.2
-
 ## What's new
 
 ### Constraints

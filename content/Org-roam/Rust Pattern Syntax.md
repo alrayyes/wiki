@@ -4,8 +4,6 @@ title: Rust Pattern Syntax
 created: 2020-10-06T10:29:34
 ---
 
-# Rust Pattern Syntax
-
 ## Examples
 
 ### Matching Literals

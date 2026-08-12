@@ -4,8 +4,6 @@ title: Deref Trait
 created: 2020-09-29T14:17:11
 ---
 
-# Deref Trait
-
 ## Introduction
 
 Implementing the ~Deref~ trait allows you to customize the behavior of the /dereference operator/, \* (as opposed to the multiplication or glob operator). By implementing ~Deref~ in such a way that a smart pointer can be treated like a regular reference, you can write code that operates on references and use that code with smart pointers too:

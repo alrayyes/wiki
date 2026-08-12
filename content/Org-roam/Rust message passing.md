@@ -4,8 +4,6 @@ title: Rust message passing
 created: 2020-09-30T12:30:03
 ---
 
-# Rust message passing
-
 ## Example
 
 ### Sending single value

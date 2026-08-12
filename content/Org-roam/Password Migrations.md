@@ -4,8 +4,6 @@ title: Password Migrations
 created: 2020-11-13T18:17:59
 ---
 
-# Password Migrations
-
 ## Description
 
 Automatically upgrade password hashes by using ~PasswordUpgraderInterface~ interface

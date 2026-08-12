@@ -4,8 +4,6 @@ title: iterate() method
 created: 2020-11-12T13:04:35
 ---
 
-# iterate() method
-
 ## Syntax
 
 ```php

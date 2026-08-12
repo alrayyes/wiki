@@ -4,8 +4,6 @@ title: Subscribing to events in the micro kernel
 created: 2020-11-09T15:01:09
 ---
 
-# Subscribing to events in the micro kernel
-
 ## Introduction
 
 From [[Symfony 4.0]] it's possible to subscribe to events using the ~EventSubscriberInterface~ Interface

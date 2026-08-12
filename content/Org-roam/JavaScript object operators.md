@@ -4,8 +4,6 @@ title: JavaScript object operators
 created: 2020-08-26T20:18:56
 ---
 
-# JavaScript object operators
-
 ## Delete operator
 
 The ~delete~ operator deletes a binding (duh)

@@ -4,8 +4,6 @@ title: JavaScript BigInt
 created: 2020-11-16T16:58:19
 ---
 
-# JavaScript BigInt
-
 ## Description
 
 \~BigInt~ can handle numbers larger than 9\_007\_199\_254\_740\_991.

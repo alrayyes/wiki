@@ -4,8 +4,6 @@ title: Symfony 4.1
 created: 2020-11-10T15:25:18
 ---
 
-# Symfony 4.1
-
 ## What's new
 
 ### Password Hashers

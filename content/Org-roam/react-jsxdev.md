@@ -4,8 +4,6 @@ title: react-jsxdev
 created: 2020-11-30T08:53:17
 ---
 
-# react-jsxdev
-
 ## Description
 
 Support development compiles for React 17's [[react-jsx]] and [[jsxs react factory function]] factory functions. See PR[^pr].

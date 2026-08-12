@@ -4,8 +4,6 @@ title: name_prefix
 created: 2020-11-10T15:33:51
 ---
 
-# name\_prefix
-
 ## Introduction
 
 This is an option to prefix the named of the routes imported in configuration files.

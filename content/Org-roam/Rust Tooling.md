@@ -4,8 +4,6 @@ title: Rust Tooling
 created: 2020-11-19T16:55:30
 ---
 
-# Rust Tooling
-
 ## Tooling
 
 - [[rustdoc]]

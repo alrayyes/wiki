@@ -4,8 +4,6 @@ title: JavaScript Promises Finally
 created: 2020-11-11T09:54:54
 ---
 
-# JavaScript Promises Finally
-
 ## Introduction
 
 Like [[JavaScript Exceptions Finally]], since [[ES2018]] JavaScript [[JavaScript Promises]] also support ~.finally()~.

@@ -4,8 +4,6 @@ title: Route
 created: 2020-11-17T10:50:45
 ---
 
-# Route
-
 ## Description
 
 [[PHP Attributes]] can be used to define routing.

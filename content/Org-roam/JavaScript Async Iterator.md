@@ -4,8 +4,6 @@ title: JavaScript Async Iterator
 created: 2020-10-30T09:22:00
 ---
 
-# JavaScript Async Iterator
-
 ## Syntax
 
 ```js

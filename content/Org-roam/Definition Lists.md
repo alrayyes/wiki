@@ -4,8 +4,6 @@ title: Definition Lists
 created: 2020-11-13T18:13:56
 ---
 
-# Definition Lists
-
 ## Syntax
 
 ```php
