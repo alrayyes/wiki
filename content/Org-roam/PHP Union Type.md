@@ -40,4 +40,4 @@ class B extends A{
 
 ## Footnotes
 
-[^rfc]: https://wiki.php.net/rfc/union_types_v2
+https://wiki.php.net/rfc/union\_types\_v2

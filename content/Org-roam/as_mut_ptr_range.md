@@ -29,4 +29,4 @@ impl<A> Iterator for Range<A> where
 
 ## Footnotes
 
-[^documentation]: https://doc.rust-lang.org/std/primitive.slice.html#method.as_mut_ptr_range
+https://doc.rust-lang.org/std/primitive.slice.html#method.as\_mut\_ptr\_range

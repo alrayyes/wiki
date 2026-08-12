@@ -73,4 +73,4 @@ ECMAScript 5 doesn't support intercession. [[JavaScript Proxies]] were created t
 ## Footnotes
 
 [^metaprogramming]: "[The Art of the Metaobject Protocol](http://mitpress.mit.edu/books/art-metaobject-protocol)"  by Gregor Kiczales, Jim des Rivieres and Daniel G. Bobrow. Book, 1991.
-[^eval]: Don't ever use eval. If you think you're a clever clogs that can work your away around the obvious security issues, then you especially should not use eval.
+Don't ever use eval. If you think you're a clever clogs that can work your away around the obvious security issues, then you especially should not use eval.
