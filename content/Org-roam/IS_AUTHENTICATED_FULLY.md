@@ -1,8 +1,0 @@
----
-publish: true
-title: IS_AUTHENTICATED_FULLY
-created: 2020-11-16T12:17:11
-modified: 2026-08-12T10:26:13.174Z
----
-
-# IS\_AUTHENTICATED\_FULLY
