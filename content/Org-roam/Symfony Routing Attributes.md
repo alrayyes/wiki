@@ -1,0 +1,12 @@
+---
+publish: true
+title: Symfony Routing Attributes
+created: 2020-11-17T10:53:14
+modified: 2026-08-12T10:31:55.436Z
+---
+
+# Symfony Routing Attributes
+
+## Attributes
+
+- [[Route]]

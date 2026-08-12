@@ -1,0 +1,14 @@
+---
+publish: true
+title: Array.prototype.find()
+created: 2020-11-13T10:43:52
+modified: 2026-08-12T10:31:55.387Z
+---
+
+# Array.prototype.find()
+
+## Syntax
+
+```js
+console.log([6, -6, 8].find(x => x < 0)) // -6
+```
