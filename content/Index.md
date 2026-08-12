@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-12T09:47:21.191Z
-modified: 2026-08-12T09:47:21.191Z
+created: 2026-08-12T09:58:02.220Z
+modified: 2026-08-12T09:58:02.220Z
 ---
 
 # Index
