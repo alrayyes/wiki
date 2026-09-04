@@ -11,7 +11,7 @@ on:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'alrayyes/wiki' }}
+    if: ${{ github.repository == 'jackyzha0/quartz' }}
     strategy:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]
@@ -40,14 +40,14 @@ jobs:
         uses: actions/cache@v6
         with:
           path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.config.yaml') }}
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
           restore-keys: |
             ${{ runner.os }}-plugins-
 
       - run: npm install
 
       - name: Install Quartz plugins
-        run: npm run install-plugins
+        run: npx quartz plugin install
 
       - name: Check types and style
         run: npm run check
@@ -59,7 +59,7 @@ jobs:
         run: npx quartz build --bundleInfo -d docs
 
   publish-tag:
-    if: ${{ github.repository == 'alrayyes/wiki' && github.ref == 'refs/heads/v5' }}
+    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v5' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
