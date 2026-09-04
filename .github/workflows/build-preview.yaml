@@ -7,7 +7,7 @@ on:
 
 jobs:
   build-preview:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
+    if: ${{ github.repository == 'alrayyes/wiki' }}
     runs-on: ubuntu-latest
     name: Build Preview
     steps:
@@ -32,14 +32,14 @@ jobs:
         uses: actions/cache@v6
         with:
           path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.config.yaml') }}
           restore-keys: |
             ${{ runner.os }}-plugins-
 
       - run: npm install
 
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        run: npm run install-plugins
 
       - name: Check types and style
         run: npm run check
